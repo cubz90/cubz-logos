@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="mydummy" generator-info-url="https://null.null/">
+    <channel id="radio.dummy">
+        <display-name lang="pt">Radio</display-name>
+    </channel>
+    <channel id="skystorepremieremain.c90">
+        <display-name lang="pt">Sky Store Premier Main Screen</display-name>
+    </channel>
+    <channel id="skystorepremiere1.c90">
+        <display-name lang="pt">Sky Store Premier 1</display-name>
+    </channel>
+    <channel id="skystorepremiere2.c90">
+        <display-name lang="pt">Sky Store Premier 2</display-name>
+    </channel>
+    <channel id="skystorepremiere3.c90">
+        <display-name lang="pt">Sky Store Premier 3</display-name>
+    </channel>
+    <channel id="skystorepremiere4.c90">
+        <display-name lang="pt">Sky Store Premier 4</display-name>
+    </channel>
+    <channel id="skystorepremiere5.c90">
+        <display-name lang="pt">Sky Store Premier 5</display-name>
+    </channel>
+    <channel id="skystorepremiere6.c90">
+        <display-name lang="pt">Sky Store Premier 6</display-name>
+    </channel>
+    <channel id="skystorepremiere7.c90">
+        <display-name lang="pt">Sky Store Premier 7</display-name>
+    </channel>
+    <channel id="skystorepremiere8.c90">
+        <display-name lang="pt">Sky Store Premier 8</display-name>
+    </channel>
+    <channel id="skystorepremiere9.c90">
+        <display-name lang="pt">Sky Store Premier 9</display-name>
+    </channel>
+    <channel id="skystorepremiere10.c90">
+        <display-name lang="pt">Sky Store Premier 10</display-name>
+    </channel>
+    <channel id="skystorepremiere11.c90">
+        <display-name lang="pt">Sky Store Premier 11</display-name>
+    </channel>
+    <channel id="skystorepremiere12.c90">
+        <display-name lang="pt">Sky Store Premier 12</display-name>
+    </channel>
+    <channel id="skystorepremiere13.c90">
+        <display-name lang="pt">Sky Store Premier 13</display-name>
+    </channel>
+    <channel id="skystorepremiere14.c90">
+        <display-name lang="pt">Sky Store Premier 14</display-name>
+    </channel>
+    <channel id="skystorepremiere15.c90">
+        <display-name lang="pt">Sky Store Premier 15</display-name>
+    </channel>
+    <programme start="20220817000000 +0000" stop="20220817060000 +0000" channel="radio.dummy">
+        <title lang="pt">Radio Broadcast</title>
+        <desc lang="pt">This is a 24/7 Radio Broadcast channel without epg. Contact cubz90 if you believe there should be an epg here!</desc>
+    </programme>
+    <programme start="20220817060000 +0000" stop="20220817120000 +0000" channel="radio.dummy">
+        <title lang="pt">Radio Broadcast</title>
+        <desc lang="pt">This is a 24/7 Radio Broadcast channel without epg. Contact cubz90 if you believe there should be an epg here!</desc>
+    </programme>
+    <programme start="20220817120000 +0000" stop="20220817180000 +0000" channel="radio.dummy">
+        <title lang="pt">Radio Broadcast</title>
+        <desc lang="pt">This is a 24/7 Radio Broadcast channel without epg. Contact cubz90 if you believe there should be an epg here!</desc>
+    </programme>
+    <programme start="20220817180000 +0000" stop="20220817235900 +0000" channel="radio.dummy">
+        <title lang="pt">Radio Broadcast</title>
+        <desc lang="pt">This is a 24/7 Radio Broadcast channel without epg. Contact cubz90 if you believe there should be an epg here!</desc>
+    </programme>
+    <programme start="20220818000000 +0000" stop="20220818060000 +0000" channel="radio.dummy">
+        <title lang="pt">Radio Broadcast</title>
+        <desc lang="pt">This is a 24/7 Radio Broadcast channel without epg. Contact cubz90 if you believe there should be an epg here!</desc>
+    </programme>
+    <programme start="20220818060000 +0000" stop="20220818120000 +0000" channel="radio.dummy">
+        <title lang="pt">Radio Broadcast</title>
+        <desc lang="pt">This is a 24/7 Radio Broadcast channel without epg. Contact cubz90 if you believe there should be an epg here!</desc>
+    </programme>
+    <programme start="20220818120000 +0000" stop="20220818180000 +0000" channel="radio.dummy">
+        <title lang="pt">Radio Broadcast</title>
+        <desc lang="pt">This is a 24/7 Radio Broadcast channel without epg. Contact cubz90 if you believe there should be an epg here!</desc>
+    </programme>
+    <programme start="20220818180000 +0000" stop="20220818235900 +0000" channel="radio.dummy">
+        <title lang="pt">Radio Broadcast</title>
+        <desc lang="pt">This is a 24/7 Radio Broadcast channel without epg. Contact cubz90 if you believe there should be an epg here!</desc>
+    </programme>
+    <programme start="20220817000000 +0000" stop="20220817060000 +0000" channel="skystorepremieremain.c90">
+        <title lang="pt">Movie Schedule</title>
+        <desc lang="pt">Schedule for the latest movie releases streaming on the Sky Store Premier channels!</desc>
+    </programme>
+    <programme start="20220817060000 +0000" stop="20220817120000 +0000" channel="skystorepremieremain.c90">
+        <title lang="pt">Movie Schedule</title>
+        <desc lang="pt">Schedule for the latest movie releases streaming on the Sky Store Premier channels!</desc>
+    </programme>
+    <programme start="20220817120000 +0000" stop="20220817180000 +0000" channel="skystorepremieremain.c90">
+        <title lang="pt">Movie Schedule</title>
+        <desc lang="pt">Schedule for the latest movie releases streaming on the Sky Store Premier channels!</desc>
+    </programme>
+    <programme start="20220817180000 +0000" stop="20220817235900 +0000" channel="skystorepremieremain.c90">
+        <title lang="pt">Movie Schedule</title>
+        <desc lang="pt">Schedule for the latest movie releases streaming on the Sky Store Premier channels!</desc>
+    </programme>
+    <programme start="20220818000000 +0000" stop="20220818060000 +0000" channel="skystorepremieremain.c90">
+        <title lang="pt">Movie Schedule</title>
+        <desc lang="pt">Schedule for the latest movie releases streaming on the Sky Store Premier channels!</desc>
+    </programme>
+    <programme start="20220818060000 +0000" stop="20220818120000 +0000" channel="skystorepremieremain.c90">
+        <title lang="pt">Movie Schedule</title>
+        <desc lang="pt">Schedule for the latest movie releases streaming on the Sky Store Premier channels!</desc>
+    </programme>
+    <programme start="20220818120000 +0000" stop="20220818180000 +0000" channel="skystorepremieremain.c90">
+        <title lang="pt">Movie Schedule</title>
+        <desc lang="pt">Schedule for the latest movie releases streaming on the Sky Store Premier channels!</desc>
+    </programme>
+    <programme start="20220818180000 +0000" stop="20220818235900 +0000" channel="skystorepremieremain.c90">
+        <title lang="pt">Movie Schedule</title>
+        <desc lang="pt">Schedule for the latest movie releases streaming on the Sky Store Premier channels!</desc>
+    </programme>
+    <programme start="20220817000000 +0000" stop="20220817060000 +0000" channel="skystorepremiere1.c90">
+        <title lang="pt">Top Gun: Mavrick</title>
+        <desc lang="pt">After more than 30 years of service as one of the Navy's top aviators, Pete "Maverick" Mitchell is where he belongs, pushing the envelope as a courageous test pilot and dodging the advancement in rank that would ground him. Training a detachment of graduates for a special assignment, Maverick must confront the ghosts of his past and his deepest fears, culminating in a mission that demands the ultimate sacrifice from those who choose to fly it. \2022\(2h 11m)</desc>
+    </programme>
+    <programme start="20220817060000 +0000" stop="20220817120000 +0000" channel="skystorepremiere1.c90">
+        <title lang="pt">Top Gun: Mavrick</title>
+        <desc lang="pt">After more than 30 years of service as one of the Navy's top aviators, Pete "Maverick" Mitchell is where he belongs, pushing the envelope as a courageous test pilot and dodging the advancement in rank that would ground him. Training a detachment of graduates for a special assignment, Maverick must confront the ghosts of his past and his deepest fears, culminating in a mission that demands the ultimate sacrifice from those who choose to fly it. \2022\(2h 11m)</desc>
+    </programme>
+    <programme start="20220817120000 +0000" stop="20220817180000 +0000" channel="skystorepremiere1.c90">
+        <title lang="pt">Top Gun: Mavrick</title>
+        <desc lang="pt">After more than 30 years of service as one of the Navy's top aviators, Pete "Maverick" Mitchell is where he belongs, pushing the envelope as a courageous test pilot and dodging the advancement in rank that would ground him. Training a detachment of graduates for a special assignment, Maverick must confront the ghosts of his past and his deepest fears, culminating in a mission that demands the ultimate sacrifice from those who choose to fly it. \2022\(2h 11m)</desc>
+    </programme>
+    <programme start="20220817180000 +0000" stop="20220817235900 +0000" channel="skystorepremiere1.c90">
+        <title lang="pt">Top Gun: Mavrick</title>
+        <desc lang="pt">After more than 30 years of service as one of the Navy's top aviators, Pete "Maverick" Mitchell is where he belongs, pushing the envelope as a courageous test pilot and dodging the advancement in rank that would ground him. Training a detachment of graduates for a special assignment, Maverick must confront the ghosts of his past and his deepest fears, culminating in a mission that demands the ultimate sacrifice from those who choose to fly it. \2022\(2h 11m)</desc>
+    </programme>
+    <programme start="20220818000000 +0000" stop="20220818060000 +0000" channel="skystorepremiere1.c90">
+        <title lang="pt">Top Gun: Mavrick</title>
+        <desc lang="pt">After more than 30 years of service as one of the Navy's top aviators, Pete "Maverick" Mitchell is where he belongs, pushing the envelope as a courageous test pilot and dodging the advancement in rank that would ground him. Training a detachment of graduates for a special assignment, Maverick must confront the ghosts of his past and his deepest fears, culminating in a mission that demands the ultimate sacrifice from those who choose to fly it. \2022\(2h 11m)</desc>
+    </programme>
+    <programme start="20220818060000 +0000" stop="20220818120000 +0000" channel="skystorepremiere1.c90">
+        <title lang="pt">Top Gun: Mavrick</title>
+        <desc lang="pt">After more than 30 years of service as one of the Navy's top aviators, Pete "Maverick" Mitchell is where he belongs, pushing the envelope as a courageous test pilot and dodging the advancement in rank that would ground him. Training a detachment of graduates for a special assignment, Maverick must confront the ghosts of his past and his deepest fears, culminating in a mission that demands the ultimate sacrifice from those who choose to fly it. \2022\(2h 11m)</desc>
+    </programme>
+    <programme start="20220818120000 +0000" stop="20220818180000 +0000" channel="skystorepremiere1.c90">
+        <title lang="pt">Top Gun: Mavrick</title>
+        <desc lang="pt">After more than 30 years of service as one of the Navy's top aviators, Pete "Maverick" Mitchell is where he belongs, pushing the envelope as a courageous test pilot and dodging the advancement in rank that would ground him. Training a detachment of graduates for a special assignment, Maverick must confront the ghosts of his past and his deepest fears, culminating in a mission that demands the ultimate sacrifice from those who choose to fly it. \2022\(2h 11m)</desc>
+    </programme>
+    <programme start="20220818180000 +0000" stop="20220818235900 +0000" channel="skystorepremiere1.c90">
+        <title lang="pt">Top Gun: Mavrick</title>
+        <desc lang="pt">After more than 30 years of service as one of the Navy's top aviators, Pete "Maverick" Mitchell is where he belongs, pushing the envelope as a courageous test pilot and dodging the advancement in rank that would ground him. Training a detachment of graduates for a special assignment, Maverick must confront the ghosts of his past and his deepest fears, culminating in a mission that demands the ultimate sacrifice from those who choose to fly it. \2022\(2h 11m)</desc>
+    </programme>
+    <programme start="20220817000000 +0000" stop="20220817060000 +0000" channel="skystorepremiere2.c90">
+        <title lang="pt">Prey</title>
+        <desc lang="pt">A skilled Comanche warrior protects her tribe from a highly evolved alien predator that hunts humans for sport, fighting against wilderness, dangerous colonisers and this mysterious creature to keep her people safe.(2022)(1h 39m)</desc>
+    </programme>
+    <programme start="20220817060000 +0000" stop="20220817120000 +0000" channel="skystorepremiere2.c90">
+        <title lang="pt">Prey</title>
+        <desc lang="pt">A skilled Comanche warrior protects her tribe from a highly evolved alien predator that hunts humans for sport, fighting against wilderness, dangerous colonisers and this mysterious creature to keep her people safe.(2022)(1h 39m)</desc>
+    </programme>
+    <programme start="20220817120000 +0000" stop="20220817180000 +0000" channel="skystorepremiere2.c90">
+        <title lang="pt">Prey</title>
+        <desc lang="pt">A skilled Comanche warrior protects her tribe from a highly evolved alien predator that hunts humans for sport, fighting against wilderness, dangerous colonisers and this mysterious creature to keep her people safe.(2022)(1h 39m)</desc>
+    </programme>
+    <programme start="20220817180000 +0000" stop="20220817235900 +0000" channel="skystorepremiere2.c90">
+        <title lang="pt">Prey</title>
+        <desc lang="pt">A skilled Comanche warrior protects her tribe from a highly evolved alien predator that hunts humans for sport, fighting against wilderness, dangerous colonisers and this mysterious creature to keep her people safe.(2022)(1h 39m)</desc>
+    </programme>
+    <programme start="20220818000000 +0000" stop="20220818060000 +0000" channel="skystorepremiere2.c90">
+        <title lang="pt">Prey</title>
+        <desc lang="pt">A skilled Comanche warrior protects her tribe from a highly evolved alien predator that hunts humans for sport, fighting against wilderness, dangerous colonisers and this mysterious creature to keep her people safe.(2022)(1h 39m)</desc>
+    </programme>
+    <programme start="20220818060000 +0000" stop="20220818120000 +0000" channel="skystorepremiere2.c90">
+        <title lang="pt">Prey</title>
+        <desc lang="pt">A skilled Comanche warrior protects her tribe from a highly evolved alien predator that hunts humans for sport, fighting against wilderness, dangerous colonisers and this mysterious creature to keep her people safe.(2022)(1h 39m)</desc>
+    </programme>
+    <programme start="20220818120000 +0000" stop="20220818180000 +0000" channel="skystorepremiere2.c90">
+        <title lang="pt">Prey</title>
+        <desc lang="pt">A skilled Comanche warrior protects her tribe from a highly evolved alien predator that hunts humans for sport, fighting against wilderness, dangerous colonisers and this mysterious creature to keep her people safe.(2022)(1h 39m)</desc>
+    </programme>
+    <programme start="20220818180000 +0000" stop="20220818235900 +0000" channel="skystorepremiere2.c90">
+        <title lang="pt">Prey</title>
+        <desc lang="pt">A skilled Comanche warrior protects her tribe from a highly evolved alien predator that hunts humans for sport, fighting against wilderness, dangerous colonisers and this mysterious creature to keep her people safe.(2022)(1h 39m)</desc>
+    </programme>
+    <programme start="20220817000000 +0000" stop="20220817060000 +0000" channel="skystorepremiere3.c90">
+        <title lang="pt">Elvis</title>
+        <desc lang="pt">From his rise to fame to his unprecedented superstardom, rock 'n' roll icon Elvis Presley maintains a complicated relationship with his enigmatic manager, Colonel Tom Parker, over the course of 20 years. Central to Presley's journey and happiness is one of the most influential people in his life -- Priscilla.(2022)(2h 39m)</desc>
+    </programme>
+    <programme start="20220817060000 +0000" stop="20220817120000 +0000" channel="skystorepremiere3.c90">
+        <title lang="pt">Elvis</title>
+        <desc lang="pt">From his rise to fame to his unprecedented superstardom, rock 'n' roll icon Elvis Presley maintains a complicated relationship with his enigmatic manager, Colonel Tom Parker, over the course of 20 years. Central to Presley's journey and happiness is one of the most influential people in his life -- Priscilla.(2022)(2h 39m)</desc>
+    </programme>
+    <programme start="20220817120000 +0000" stop="20220817180000 +0000" channel="skystorepremiere3.c90">
+        <title lang="pt">Elvis</title>
+        <desc lang="pt">From his rise to fame to his unprecedented superstardom, rock 'n' roll icon Elvis Presley maintains a complicated relationship with his enigmatic manager, Colonel Tom Parker, over the course of 20 years. Central to Presley's journey and happiness is one of the most influential people in his life -- Priscilla.(2022)(2h 39m)</desc>
+    </programme>
+    <programme start="20220817180000 +0000" stop="20220817235900 +0000" channel="skystorepremiere3.c90">
+        <title lang="pt">Elvis</title>
+        <desc lang="pt">From his rise to fame to his unprecedented superstardom, rock 'n' roll icon Elvis Presley maintains a complicated relationship with his enigmatic manager, Colonel Tom Parker, over the course of 20 years. Central to Presley's journey and happiness is one of the most influential people in his life -- Priscilla.(2022)(2h 39m)</desc>
+    </programme>
+    <programme start="20220818000000 +0000" stop="20220818060000 +0000" channel="skystorepremiere3.c90">
+        <title lang="pt">Elvis</title>
+        <desc lang="pt">From his rise to fame to his unprecedented superstardom, rock 'n' roll icon Elvis Presley maintains a complicated relationship with his enigmatic manager, Colonel Tom Parker, over the course of 20 years. Central to Presley's journey and happiness is one of the most influential people in his life -- Priscilla.(2022)(2h 39m)</desc>
+    </programme>
+    <programme start="20220818060000 +0000" stop="20220818120000 +0000" channel="skystorepremiere3.c90">
+        <title lang="pt">Elvis</title>
+        <desc lang="pt">From his rise to fame to his unprecedented superstardom, rock 'n' roll icon Elvis Presley maintains a complicated relationship with his enigmatic manager, Colonel Tom Parker, over the course of 20 years. Central to Presley's journey and happiness is one of the most influential people in his life -- Priscilla.(2022)(2h 39m)</desc>
+    </programme>
+    <programme start="20220818120000 +0000" stop="20220818180000 +0000" channel="skystorepremiere3.c90">
+        <title lang="pt">Elvis</title>
+        <desc lang="pt">From his rise to fame to his unprecedented superstardom, rock 'n' roll icon Elvis Presley maintains a complicated relationship with his enigmatic manager, Colonel Tom Parker, over the course of 20 years. Central to Presley's journey and happiness is one of the most influential people in his life -- Priscilla.(2022)(2h 39m)</desc>
+    </programme>
+    <programme start="20220818180000 +0000" stop="20220818235900 +0000" channel="skystorepremiere3.c90">
+        <title lang="pt">Elvis</title>
+        <desc lang="pt">From his rise to fame to his unprecedented superstardom, rock 'n' roll icon Elvis Presley maintains a complicated relationship with his enigmatic manager, Colonel Tom Parker, over the course of 20 years. Central to Presley's journey and happiness is one of the most influential people in his life -- Priscilla.(2022)(2h 39m)</desc>
+    </programme>
+    <programme start="20220817000000 +0000" stop="20220817060000 +0000" channel="skystorepremiere4.c90">
+        <title lang="pt">They/Them</title>
+        <desc lang="pt">A group of teenagers at an LGBTQ+ conversion camp endures unsettling psychological techniques while being stalked by a mysterious masked killer.(2022)(1h 44m)</desc>
+    </programme>
+    <programme start="20220817060000 +0000" stop="20220817120000 +0000" channel="skystorepremiere4.c90">
+        <title lang="pt">They/Them</title>
+        <desc lang="pt">A group of teenagers at an LGBTQ+ conversion camp endures unsettling psychological techniques while being stalked by a mysterious masked killer.(2022)(1h 44m)</desc>
+    </programme>
+    <programme start="20220817120000 +0000" stop="20220817180000 +0000" channel="skystorepremiere4.c90">
+        <title lang="pt">They/Them</title>
+        <desc lang="pt">A group of teenagers at an LGBTQ+ conversion camp endures unsettling psychological techniques while being stalked by a mysterious masked killer.(2022)(1h 44m)</desc>
+    </programme>
+    <programme start="20220817180000 +0000" stop="20220817235900 +0000" channel="skystorepremiere4.c90">
+        <title lang="pt">They/Them</title>
+        <desc lang="pt">A group of teenagers at an LGBTQ+ conversion camp endures unsettling psychological techniques while being stalked by a mysterious masked killer.(2022)(1h 44m)</desc>
+    </programme>
+    <programme start="20220818000000 +0000" stop="20220818060000 +0000" channel="skystorepremiere4.c90">
+        <title lang="pt">They/Them</title>
+        <desc lang="pt">A group of teenagers at an LGBTQ+ conversion camp endures unsettling psychological techniques while being stalked by a mysterious masked killer.(2022)(1h 44m)</desc>
+    </programme>
+    <programme start="20220818060000 +0000" stop="20220818120000 +0000" channel="skystorepremiere4.c90">
+        <title lang="pt">They/Them</title>
+        <desc lang="pt">A group of teenagers at an LGBTQ+ conversion camp endures unsettling psychological techniques while being stalked by a mysterious masked killer.(2022)(1h 44m)</desc>
+    </programme>
+    <programme start="20220818120000 +0000" stop="20220818180000 +0000" channel="skystorepremiere4.c90">
+        <title lang="pt">They/Them</title>
+        <desc lang="pt">A group of teenagers at an LGBTQ+ conversion camp endures unsettling psychological techniques while being stalked by a mysterious masked killer.(2022)(1h 44m)</desc>
+    </programme>
+    <programme start="20220818180000 +0000" stop="20220818235900 +0000" channel="skystorepremiere4.c90">
+        <title lang="pt">They/Them</title>
+        <desc lang="pt">A group of teenagers at an LGBTQ+ conversion camp endures unsettling psychological techniques while being stalked by a mysterious masked killer.(2022)(1h 44m)</desc>
+    </programme>
+    <programme start="20220817000000 +0000" stop="20220817060000 +0000" channel="skystorepremiere5.c90">
+        <title lang="pt">Thirteen Lives</title>
+        <desc lang="pt">True story based on Tham Luang cave rescue in 2018. A rescue mission is assembled in Thailand where a group of young boys and their soccer coach are trapped in a system of underground caves that are flooding. (2022)(2h 27m)</desc>
+    </programme>
+    <programme start="20220817060000 +0000" stop="20220817120000 +0000" channel="skystorepremiere5.c90">
+        <title lang="pt">Thirteen Lives</title>
+        <desc lang="pt">True story based on Tham Luang cave rescue in 2018. A rescue mission is assembled in Thailand where a group of young boys and their soccer coach are trapped in a system of underground caves that are flooding. (2022)(2h 27m)</desc>
+    </programme>
+    <programme start="20220817120000 +0000" stop="20220817180000 +0000" channel="skystorepremiere5.c90">
+        <title lang="pt">Thirteen Lives</title>
+        <desc lang="pt">True story based on Tham Luang cave rescue in 2018. A rescue mission is assembled in Thailand where a group of young boys and their soccer coach are trapped in a system of underground caves that are flooding. (2022)(2h 27m)</desc>
+    </programme>
+    <programme start="20220817180000 +0000" stop="20220817235900 +0000" channel="skystorepremiere5.c90">
+        <title lang="pt">Thirteen Lives</title>
+        <desc lang="pt">True story based on Tham Luang cave rescue in 2018. A rescue mission is assembled in Thailand where a group of young boys and their soccer coach are trapped in a system of underground caves that are flooding. (2022)(2h 27m)</desc>
+    </programme>
+    <programme start="20220818000000 +0000" stop="20220818060000 +0000" channel="skystorepremiere5.c90">
+        <title lang="pt">Thirteen Lives</title>
+        <desc lang="pt">True story based on Tham Luang cave rescue in 2018. A rescue mission is assembled in Thailand where a group of young boys and their soccer coach are trapped in a system of underground caves that are flooding. (2022)(2h 27m)</desc>
+    </programme>
+    <programme start="20220818060000 +0000" stop="20220818120000 +0000" channel="skystorepremiere5.c90">
+        <title lang="pt">Thirteen Lives</title>
+        <desc lang="pt">True story based on Tham Luang cave rescue in 2018. A rescue mission is assembled in Thailand where a group of young boys and their soccer coach are trapped in a system of underground caves that are flooding. (2022)(2h 27m)</desc>
+    </programme>
+    <programme start="20220818120000 +0000" stop="20220818180000 +0000" channel="skystorepremiere5.c90">
+        <title lang="pt">Thirteen Lives</title>
+        <desc lang="pt">True story based on Tham Luang cave rescue in 2018. A rescue mission is assembled in Thailand where a group of young boys and their soccer coach are trapped in a system of underground caves that are flooding. (2022)(2h 27m)</desc>
+    </programme>
+    <programme start="20220818180000 +0000" stop="20220818235900 +0000" channel="skystorepremiere5.c90">
+        <title lang="pt">Thirteen Lives</title>
+        <desc lang="pt">True story based on Tham Luang cave rescue in 2018. A rescue mission is assembled in Thailand where a group of young boys and their soccer coach are trapped in a system of underground caves that are flooding. (2022)(2h 27m)</desc>
+    </programme>
+    <programme start="20220817000000 +0000" stop="20220817060000 +0000" channel="skystorepremiere6.c90">
+        <title lang="pt">Resurrection</title>
+        <desc lang="pt">A woman's carefully constructed life gets upended when an unwelcome shadow from her past returns, forcing her to confront the monster she's evaded for two decades. (2022)(1h 43m)</desc>
+    </programme>
+    <programme start="20220817060000 +0000" stop="20220817120000 +0000" channel="skystorepremiere6.c90">
+        <title lang="pt">Resurrection</title>
+        <desc lang="pt">A woman's carefully constructed life gets upended when an unwelcome shadow from her past returns, forcing her to confront the monster she's evaded for two decades. (2022)(1h 43m)</desc>
+    </programme>
+    <programme start="20220817120000 +0000" stop="20220817180000 +0000" channel="skystorepremiere6.c90">
+        <title lang="pt">Resurrection</title>
+        <desc lang="pt">A woman's carefully constructed life gets upended when an unwelcome shadow from her past returns, forcing her to confront the monster she's evaded for two decades. (2022)(1h 43m)</desc>
+    </programme>
+    <programme start="20220817180000 +0000" stop="20220817235900 +0000" channel="skystorepremiere6.c90">
+        <title lang="pt">Resurrection</title>
+        <desc lang="pt">A woman's carefully constructed life gets upended when an unwelcome shadow from her past returns, forcing her to confront the monster she's evaded for two decades. (2022)(1h 43m)</desc>
+    </programme>
+    <programme start="20220818000000 +0000" stop="20220818060000 +0000" channel="skystorepremiere6.c90">
+        <title lang="pt">Resurrection</title>
+        <desc lang="pt">A woman's carefully constructed life gets upended when an unwelcome shadow from her past returns, forcing her to confront the monster she's evaded for two decades. (2022)(1h 43m)</desc>
+    </programme>
+    <programme start="20220818060000 +0000" stop="20220818120000 +0000" channel="skystorepremiere6.c90">
+        <title lang="pt">Resurrection</title>
+        <desc lang="pt">A woman's carefully constructed life gets upended when an unwelcome shadow from her past returns, forcing her to confront the monster she's evaded for two decades. (2022)(1h 43m)</desc>
+    </programme>
+    <programme start="20220818120000 +0000" stop="20220818180000 +0000" channel="skystorepremiere6.c90">
+        <title lang="pt">Resurrection</title>
+        <desc lang="pt">A woman's carefully constructed life gets upended when an unwelcome shadow from her past returns, forcing her to confront the monster she's evaded for two decades. (2022)(1h 43m)</desc>
+    </programme>
+    <programme start="20220818180000 +0000" stop="20220818235900 +0000" channel="skystorepremiere6.c90">
+        <title lang="pt">Resurrection</title>
+        <desc lang="pt">A woman's carefully constructed life gets upended when an unwelcome shadow from her past returns, forcing her to confront the monster she's evaded for two decades. (2022)(1h 43m)</desc>
+    </programme>
+    <programme start="20220817000000 +0000" stop="20220817060000 +0000" channel="skystorepremiere7.c90">
+        <title lang="pt">Jurassic: World Dominion</title>
+        <desc lang="pt">Four years after the destruction of Isla Nublar, dinosaurs now live and hunt alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history's most fearsome creatures.(2022)(2h 27m)</desc>
+    </programme>
+    <programme start="20220817060000 +0000" stop="20220817120000 +0000" channel="skystorepremiere7.c90">
+        <title lang="pt">Jurassic: World Dominion</title>
+        <desc lang="pt">Four years after the destruction of Isla Nublar, dinosaurs now live and hunt alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history's most fearsome creatures.(2022)(2h 27m)</desc>
+    </programme>
+    <programme start="20220817120000 +0000" stop="20220817180000 +0000" channel="skystorepremiere7.c90">
+        <title lang="pt">Jurassic: World Dominion</title>
+        <desc lang="pt">Four years after the destruction of Isla Nublar, dinosaurs now live and hunt alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history's most fearsome creatures.(2022)(2h 27m)</desc>
+    </programme>
+    <programme start="20220817180000 +0000" stop="20220817235900 +0000" channel="skystorepremiere7.c90">
+        <title lang="pt">Jurassic: World Dominion</title>
+        <desc lang="pt">Four years after the destruction of Isla Nublar, dinosaurs now live and hunt alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history's most fearsome creatures.(2022)(2h 27m)</desc>
+    </programme>
+    <programme start="20220818000000 +0000" stop="20220818060000 +0000" channel="skystorepremiere7.c90">
+        <title lang="pt">Jurassic: World Dominion</title>
+        <desc lang="pt">Four years after the destruction of Isla Nublar, dinosaurs now live and hunt alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history's most fearsome creatures.(2022)(2h 27m)</desc>
+    </programme>
+    <programme start="20220818060000 +0000" stop="20220818120000 +0000" channel="skystorepremiere7.c90">
+        <title lang="pt">Jurassic: World Dominion</title>
+        <desc lang="pt">Four years after the destruction of Isla Nublar, dinosaurs now live and hunt alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history's most fearsome creatures.(2022)(2h 27m)</desc>
+    </programme>
+    <programme start="20220818120000 +0000" stop="20220818180000 +0000" channel="skystorepremiere7.c90">
+        <title lang="pt">Jurassic: World Dominion</title>
+        <desc lang="pt">Four years after the destruction of Isla Nublar, dinosaurs now live and hunt alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history's most fearsome creatures.(2022)(2h 27m)</desc>
+    </programme>
+    <programme start="20220818180000 +0000" stop="20220818235900 +0000" channel="skystorepremiere7.c90">
+        <title lang="pt">Jurassic: World Dominion</title>
+        <desc lang="pt">Four years after the destruction of Isla Nublar, dinosaurs now live and hunt alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history's most fearsome creatures.(2022)(2h 27m)</desc>
+    </programme>
+    <programme start="20220817000000 +0000" stop="20220817060000 +0000" channel="skystorepremiere8.c90">
+        <title lang="pt">Luck</title>
+        <desc lang="pt">The story of Sam Greenfield, the unluckiest person in the world. Suddenly finding herself in the never-before-seen Land of Luck, she must unite with the magical creatures there to turn her luck around.(2022)(1h 37m)</desc>
+    </programme>
+    <programme start="20220817060000 +0000" stop="20220817120000 +0000" channel="skystorepremiere8.c90">
+        <title lang="pt">Luck</title>
+        <desc lang="pt">The story of Sam Greenfield, the unluckiest person in the world. Suddenly finding herself in the never-before-seen Land of Luck, she must unite with the magical creatures there to turn her luck around.(2022)(1h 37m)</desc>
+    </programme>
+    <programme start="20220817120000 +0000" stop="20220817180000 +0000" channel="skystorepremiere8.c90">
+        <title lang="pt">Luck</title>
+        <desc lang="pt">The story of Sam Greenfield, the unluckiest person in the world. Suddenly finding herself in the never-before-seen Land of Luck, she must unite with the magical creatures there to turn her luck around.(2022)(1h 37m)</desc>
+    </programme>
+    <programme start="20220817180000 +0000" stop="20220817235900 +0000" channel="skystorepremiere8.c90">
+        <title lang="pt">Luck</title>
+        <desc lang="pt">The story of Sam Greenfield, the unluckiest person in the world. Suddenly finding herself in the never-before-seen Land of Luck, she must unite with the magical creatures there to turn her luck around.(2022)(1h 37m)</desc>
+    </programme>
+    <programme start="20220818000000 +0000" stop="20220818060000 +0000" channel="skystorepremiere8.c90">
+        <title lang="pt">Luck</title>
+        <desc lang="pt">The story of Sam Greenfield, the unluckiest person in the world. Suddenly finding herself in the never-before-seen Land of Luck, she must unite with the magical creatures there to turn her luck around.(2022)(1h 37m)</desc>
+    </programme>
+    <programme start="20220818060000 +0000" stop="20220818120000 +0000" channel="skystorepremiere8.c90">
+        <title lang="pt">Luck</title>
+        <desc lang="pt">The story of Sam Greenfield, the unluckiest person in the world. Suddenly finding herself in the never-before-seen Land of Luck, she must unite with the magical creatures there to turn her luck around.(2022)(1h 37m)</desc>
+    </programme>
+    <programme start="20220818120000 +0000" stop="20220818180000 +0000" channel="skystorepremiere8.c90">
+        <title lang="pt">Luck</title>
+        <desc lang="pt">The story of Sam Greenfield, the unluckiest person in the world. Suddenly finding herself in the never-before-seen Land of Luck, she must unite with the magical creatures there to turn her luck around.(2022)(1h 37m)</desc>
+    </programme>
+    <programme start="20220818180000 +0000" stop="20220818235900 +0000" channel="skystorepremiere8.c90">
+        <title lang="pt">Luck</title>
+        <desc lang="pt">The story of Sam Greenfield, the unluckiest person in the world. Suddenly finding herself in the never-before-seen Land of Luck, she must unite with the magical creatures there to turn her luck around.(2022)(1h 37m)</desc>
+    </programme>
+    <programme start="20220817000000 +0000" stop="20220817060000 +0000" channel="skystorepremiere9.c90">
+        <title lang="pt">Stowaway</title>
+        <desc lang="pt">A three-person crew on a mission to Mars faces an impossible choice when an unplanned passenger jeopardizes the lives of everyone on board.(2022)(1h 56m)</desc>
+    </programme>
+    <programme start="20220817060000 +0000" stop="20220817120000 +0000" channel="skystorepremiere9.c90">
+        <title lang="pt">Stowaway</title>
+        <desc lang="pt">A three-person crew on a mission to Mars faces an impossible choice when an unplanned passenger jeopardizes the lives of everyone on board.(2022)(1h 56m)</desc>
+    </programme>
+    <programme start="20220817120000 +0000" stop="20220817180000 +0000" channel="skystorepremiere9.c90">
+        <title lang="pt">Stowaway</title>
+        <desc lang="pt">A three-person crew on a mission to Mars faces an impossible choice when an unplanned passenger jeopardizes the lives of everyone on board.(2022)(1h 56m)</desc>
+    </programme>
+    <programme start="20220817180000 +0000" stop="20220817235900 +0000" channel="skystorepremiere9.c90">
+        <title lang="pt">Stowaway</title>
+        <desc lang="pt">A three-person crew on a mission to Mars faces an impossible choice when an unplanned passenger jeopardizes the lives of everyone on board.(2022)(1h 56m)</desc>
+    </programme>
+    <programme start="20220818000000 +0000" stop="20220818060000 +0000" channel="skystorepremiere9.c90">
+        <title lang="pt">Stowaway</title>
+        <desc lang="pt">A three-person crew on a mission to Mars faces an impossible choice when an unplanned passenger jeopardizes the lives of everyone on board.(2022)(1h 56m)</desc>
+    </programme>
+    <programme start="20220818060000 +0000" stop="20220818120000 +0000" channel="skystorepremiere9.c90">
+        <title lang="pt">Stowaway</title>
+        <desc lang="pt">A three-person crew on a mission to Mars faces an impossible choice when an unplanned passenger jeopardizes the lives of everyone on board.(2022)(1h 56m)</desc>
+    </programme>
+    <programme start="20220818120000 +0000" stop="20220818180000 +0000" channel="skystorepremiere9.c90">
+        <title lang="pt">Stowaway</title>
+        <desc lang="pt">A three-person crew on a mission to Mars faces an impossible choice when an unplanned passenger jeopardizes the lives of everyone on board.(2022)(1h 56m)</desc>
+    </programme>
+    <programme start="20220818180000 +0000" stop="20220818235900 +0000" channel="skystorepremiere9.c90">
+        <title lang="pt">Stowaway</title>
+        <desc lang="pt">A three-person crew on a mission to Mars faces an impossible choice when an unplanned passenger jeopardizes the lives of everyone on board.(2022)(1h 56m)</desc>
+    </programme>
+    <programme start="20220817000000 +0000" stop="20220817060000 +0000" channel="skystorepremiere10.c90">
+        <title lang="pt">Doctor Strange 2</title>
+        <desc lang="pt">Doctor Strange teams up with a mysterious teenage girl from his dreams who can travel across multiverses, to battle multiple threats, including other-universe versions of himself, which threaten to wipe out millions across the multiverse.(2022)(2h 6m)</desc>
+    </programme>
+    <programme start="20220817060000 +0000" stop="20220817120000 +0000" channel="skystorepremiere10.c90">
+        <title lang="pt">Doctor Strange 2</title>
+        <desc lang="pt">Doctor Strange teams up with a mysterious teenage girl from his dreams who can travel across multiverses, to battle multiple threats, including other-universe versions of himself, which threaten to wipe out millions across the multiverse.(2022)(2h 6m)</desc>
+    </programme>
+    <programme start="20220817120000 +0000" stop="20220817180000 +0000" channel="skystorepremiere10.c90">
+        <title lang="pt">Doctor Strange 2</title>
+        <desc lang="pt">Doctor Strange teams up with a mysterious teenage girl from his dreams who can travel across multiverses, to battle multiple threats, including other-universe versions of himself, which threaten to wipe out millions across the multiverse.(2022)(2h 6m)</desc>
+    </programme>
+    <programme start="20220817180000 +0000" stop="20220817235900 +0000" channel="skystorepremiere10.c90">
+        <title lang="pt">Doctor Strange 2</title>
+        <desc lang="pt">Doctor Strange teams up with a mysterious teenage girl from his dreams who can travel across multiverses, to battle multiple threats, including other-universe versions of himself, which threaten to wipe out millions across the multiverse.(2022)(2h 6m)</desc>
+    </programme>
+    <programme start="20220818000000 +0000" stop="20220818060000 +0000" channel="skystorepremiere10.c90">
+        <title lang="pt">Doctor Strange 2</title>
+        <desc lang="pt">Doctor Strange teams up with a mysterious teenage girl from his dreams who can travel across multiverses, to battle multiple threats, including other-universe versions of himself, which threaten to wipe out millions across the multiverse.(2022)(2h 6m)</desc>
+    </programme>
+    <programme start="20220818060000 +0000" stop="20220818120000 +0000" channel="skystorepremiere10.c90">
+        <title lang="pt">Doctor Strange 2</title>
+        <desc lang="pt">Doctor Strange teams up with a mysterious teenage girl from his dreams who can travel across multiverses, to battle multiple threats, including other-universe versions of himself, which threaten to wipe out millions across the multiverse.(2022)(2h 6m)</desc>
+    </programme>
+    <programme start="20220818120000 +0000" stop="20220818180000 +0000" channel="skystorepremiere10.c90">
+        <title lang="pt">Doctor Strange 2</title>
+        <desc lang="pt">Doctor Strange teams up with a mysterious teenage girl from his dreams who can travel across multiverses, to battle multiple threats, including other-universe versions of himself, which threaten to wipe out millions across the multiverse.(2022)(2h 6m)</desc>
+    </programme>
+    <programme start="20220818180000 +0000" stop="20220818235900 +0000" channel="skystorepremiere10.c90">
+        <title lang="pt">Doctor Strange 2</title>
+        <desc lang="pt">Doctor Strange teams up with a mysterious teenage girl from his dreams who can travel across multiverses, to battle multiple threats, including other-universe versions of himself, which threaten to wipe out millions across the multiverse.(2022)(2h 6m)</desc>
+    </programme>
+    <programme start="20220817000000 +0000" stop="20220817060000 +0000" channel="skystorepremiere11.c90">
+        <title lang="pt">Memory</title>
+        <desc lang="pt">When Alex, an expert assassin, refuses to complete a job for a dangerous criminal organization, he becomes a target. FBI agents and Mexican intelligence are brought in to investigate the trail of bodies, leading them closer to Alex. With the crime syndicate and FBI in hot pursuit, Alex has the skills to stay ahead, except for one thing: he is struggling with severe memory loss, affecting his every move. Alex must question his every action and whom he can ultimately trust.(2022)(1h 54m)</desc>
+    </programme>
+    <programme start="20220817060000 +0000" stop="20220817120000 +0000" channel="skystorepremiere11.c90">
+        <title lang="pt">Memory</title>
+        <desc lang="pt">When Alex, an expert assassin, refuses to complete a job for a dangerous criminal organization, he becomes a target. FBI agents and Mexican intelligence are brought in to investigate the trail of bodies, leading them closer to Alex. With the crime syndicate and FBI in hot pursuit, Alex has the skills to stay ahead, except for one thing: he is struggling with severe memory loss, affecting his every move. Alex must question his every action and whom he can ultimately trust.(2022)(1h 54m)</desc>
+    </programme>
+    <programme start="20220817120000 +0000" stop="20220817180000 +0000" channel="skystorepremiere11.c90">
+        <title lang="pt">Memory</title>
+        <desc lang="pt">When Alex, an expert assassin, refuses to complete a job for a dangerous criminal organization, he becomes a target. FBI agents and Mexican intelligence are brought in to investigate the trail of bodies, leading them closer to Alex. With the crime syndicate and FBI in hot pursuit, Alex has the skills to stay ahead, except for one thing: he is struggling with severe memory loss, affecting his every move. Alex must question his every action and whom he can ultimately trust.(2022)(1h 54m)</desc>
+    </programme>
+    <programme start="20220817180000 +0000" stop="20220817235900 +0000" channel="skystorepremiere11.c90">
+        <title lang="pt">Memory</title>
+        <desc lang="pt">When Alex, an expert assassin, refuses to complete a job for a dangerous criminal organization, he becomes a target. FBI agents and Mexican intelligence are brought in to investigate the trail of bodies, leading them closer to Alex. With the crime syndicate and FBI in hot pursuit, Alex has the skills to stay ahead, except for one thing: he is struggling with severe memory loss, affecting his every move. Alex must question his every action and whom he can ultimately trust.(2022)(1h 54m)</desc>
+    </programme>
+    <programme start="20220818000000 +0000" stop="20220818060000 +0000" channel="skystorepremiere11.c90">
+        <title lang="pt">Memory</title>
+        <desc lang="pt">When Alex, an expert assassin, refuses to complete a job for a dangerous criminal organization, he becomes a target. FBI agents and Mexican intelligence are brought in to investigate the trail of bodies, leading them closer to Alex. With the crime syndicate and FBI in hot pursuit, Alex has the skills to stay ahead, except for one thing: he is struggling with severe memory loss, affecting his every move. Alex must question his every action and whom he can ultimately trust.(2022)(1h 54m)</desc>
+    </programme>
+    <programme start="20220818060000 +0000" stop="20220818120000 +0000" channel="skystorepremiere11.c90">
+        <title lang="pt">Memory</title>
+        <desc lang="pt">When Alex, an expert assassin, refuses to complete a job for a dangerous criminal organization, he becomes a target. FBI agents and Mexican intelligence are brought in to investigate the trail of bodies, leading them closer to Alex. With the crime syndicate and FBI in hot pursuit, Alex has the skills to stay ahead, except for one thing: he is struggling with severe memory loss, affecting his every move. Alex must question his every action and whom he can ultimately trust.(2022)(1h 54m)</desc>
+    </programme>
+    <programme start="20220818120000 +0000" stop="20220818180000 +0000" channel="skystorepremiere11.c90">
+        <title lang="pt">Memory</title>
+        <desc lang="pt">When Alex, an expert assassin, refuses to complete a job for a dangerous criminal organization, he becomes a target. FBI agents and Mexican intelligence are brought in to investigate the trail of bodies, leading them closer to Alex. With the crime syndicate and FBI in hot pursuit, Alex has the skills to stay ahead, except for one thing: he is struggling with severe memory loss, affecting his every move. Alex must question his every action and whom he can ultimately trust.(2022)(1h 54m)</desc>
+    </programme>
+    <programme start="20220818180000 +0000" stop="20220818235900 +0000" channel="skystorepremiere11.c90">
+        <title lang="pt">Memory</title>
+        <desc lang="pt">When Alex, an expert assassin, refuses to complete a job for a dangerous criminal organization, he becomes a target. FBI agents and Mexican intelligence are brought in to investigate the trail of bodies, leading them closer to Alex. With the crime syndicate and FBI in hot pursuit, Alex has the skills to stay ahead, except for one thing: he is struggling with severe memory loss, affecting his every move. Alex must question his every action and whom he can ultimately trust.(2022)(1h 54m)</desc>
+    </programme>
+    <programme start="20220817000000 +0000" stop="20220817060000 +0000" channel="skystorepremiere12.c90">
+        <title lang="pt">Wrong Place</title>
+        <desc lang="pt">Starring Bruce Willis. A methamphetamines cook hunts down the former Police chief of a small town in order to silence him before he can deliver eyewitness testimony against his family, but ultimately finds himself up against more than he had bargained for.(2022)(1h 36m)</desc>
+    </programme>
+    <programme start="20220817060000 +0000" stop="20220817120000 +0000" channel="skystorepremiere12.c90">
+        <title lang="pt">Wrong Place</title>
+        <desc lang="pt">Starring Bruce Willis. A methamphetamines cook hunts down the former Police chief of a small town in order to silence him before he can deliver eyewitness testimony against his family, but ultimately finds himself up against more than he had bargained for.(2022)(1h 36m)</desc>
+    </programme>
+    <programme start="20220817120000 +0000" stop="20220817180000 +0000" channel="skystorepremiere12.c90">
+        <title lang="pt">Wrong Place</title>
+        <desc lang="pt">Starring Bruce Willis. A methamphetamines cook hunts down the former Police chief of a small town in order to silence him before he can deliver eyewitness testimony against his family, but ultimately finds himself up against more than he had bargained for.(2022)(1h 36m)</desc>
+    </programme>
+    <programme start="20220817180000 +0000" stop="20220817235900 +0000" channel="skystorepremiere12.c90">
+        <title lang="pt">Wrong Place</title>
+        <desc lang="pt">Starring Bruce Willis. A methamphetamines cook hunts down the former Police chief of a small town in order to silence him before he can deliver eyewitness testimony against his family, but ultimately finds himself up against more than he had bargained for.(2022)(1h 36m)</desc>
+    </programme>
+    <programme start="20220818000000 +0000" stop="20220818060000 +0000" channel="skystorepremiere12.c90">
+        <title lang="pt">Wrong Place</title>
+        <desc lang="pt">Starring Bruce Willis. A methamphetamines cook hunts down the former Police chief of a small town in order to silence him before he can deliver eyewitness testimony against his family, but ultimately finds himself up against more than he had bargained for.(2022)(1h 36m)</desc>
+    </programme>
+    <programme start="20220818060000 +0000" stop="20220818120000 +0000" channel="skystorepremiere12.c90">
+        <title lang="pt">Wrong Place</title>
+        <desc lang="pt">Starring Bruce Willis. A methamphetamines cook hunts down the former Police chief of a small town in order to silence him before he can deliver eyewitness testimony against his family, but ultimately finds himself up against more than he had bargained for.(2022)(1h 36m)</desc>
+    </programme>
+    <programme start="20220818120000 +0000" stop="20220818180000 +0000" channel="skystorepremiere12.c90">
+        <title lang="pt">Wrong Place</title>
+        <desc lang="pt">Starring Bruce Willis. A methamphetamines cook hunts down the former Police chief of a small town in order to silence him before he can deliver eyewitness testimony against his family, but ultimately finds himself up against more than he had bargained for.(2022)(1h 36m)</desc>
+    </programme>
+    <programme start="20220818180000 +0000" stop="20220818235900 +0000" channel="skystorepremiere12.c90">
+        <title lang="pt">Wrong Place</title>
+        <desc lang="pt">Starring Bruce Willis. A methamphetamines cook hunts down the former Police chief of a small town in order to silence him before he can deliver eyewitness testimony against his family, but ultimately finds himself up against more than he had bargained for.(2022)(1h 36m)</desc>
+    </programme>
+    <programme start="20220817000000 +0000" stop="20220817060000 +0000" channel="skystorepremiere13.c90">
+        <title lang="pt">The Princess</title>
+        <desc lang="pt">When a strong-willed princess refuses to wed the cruel sociopath, she is kidnapped and locked in a remote tower of her father’s castle. With her vindictive suitor intent on taking her father’s throne, the princess must save the kingdom.(2022)(1h 34m)</desc>
+    </programme>
+    <programme start="20220817060000 +0000" stop="20220817120000 +0000" channel="skystorepremiere13.c90">
+        <title lang="pt">The Princess</title>
+        <desc lang="pt">When a strong-willed princess refuses to wed the cruel sociopath, she is kidnapped and locked in a remote tower of her father’s castle. With her vindictive suitor intent on taking her father’s throne, the princess must save the kingdom.(2022)(1h 34m)</desc>
+    </programme>
+    <programme start="20220817120000 +0000" stop="20220817180000 +0000" channel="skystorepremiere13.c90">
+        <title lang="pt">The Princess</title>
+        <desc lang="pt">When a strong-willed princess refuses to wed the cruel sociopath, she is kidnapped and locked in a remote tower of her father’s castle. With her vindictive suitor intent on taking her father’s throne, the princess must save the kingdom.(2022)(1h 34m)</desc>
+    </programme>
+    <programme start="20220817180000 +0000" stop="20220817235900 +0000" channel="skystorepremiere13.c90">
+        <title lang="pt">The Princess</title>
+        <desc lang="pt">When a strong-willed princess refuses to wed the cruel sociopath, she is kidnapped and locked in a remote tower of her father’s castle. With her vindictive suitor intent on taking her father’s throne, the princess must save the kingdom.(2022)(1h 34m)</desc>
+    </programme>
+    <programme start="20220818000000 +0000" stop="20220818060000 +0000" channel="skystorepremiere13.c90">
+        <title lang="pt">The Princess</title>
+        <desc lang="pt">When a strong-willed princess refuses to wed the cruel sociopath, she is kidnapped and locked in a remote tower of her father’s castle. With her vindictive suitor intent on taking her father’s throne, the princess must save the kingdom.(2022)(1h 34m)</desc>
+    </programme>
+    <programme start="20220818060000 +0000" stop="20220818120000 +0000" channel="skystorepremiere13.c90">
+        <title lang="pt">The Princess</title>
+        <desc lang="pt">When a strong-willed princess refuses to wed the cruel sociopath, she is kidnapped and locked in a remote tower of her father’s castle. With her vindictive suitor intent on taking her father’s throne, the princess must save the kingdom.(2022)(1h 34m)</desc>
+    </programme>
+    <programme start="20220818120000 +0000" stop="20220818180000 +0000" channel="skystorepremiere13.c90">
+        <title lang="pt">The Princess</title>
+        <desc lang="pt">When a strong-willed princess refuses to wed the cruel sociopath, she is kidnapped and locked in a remote tower of her father’s castle. With her vindictive suitor intent on taking her father’s throne, the princess must save the kingdom.(2022)(1h 34m)</desc>
+    </programme>
+    <programme start="20220818180000 +0000" stop="20220818235900 +0000" channel="skystorepremiere13.c90">
+        <title lang="pt">The Princess</title>
+        <desc lang="pt">When a strong-willed princess refuses to wed the cruel sociopath, she is kidnapped and locked in a remote tower of her father’s castle. With her vindictive suitor intent on taking her father’s throne, the princess must save the kingdom.(2022)(1h 34m)</desc>
+    </programme>
+    <programme start="20220817000000 +0000" stop="20220817060000 +0000" channel="skystorepremiere14.c90">
+        <title lang="pt">Zombies 3</title>
+        <desc lang="pt">Zed anticipates an athletic scholarship while Addison gears up for Seabrook's first international cheer-off. Then suddenly, extraterrestrial beings arrive in Seabrook, provoking something other than friendly competition.(2022)(1h 28m)</desc>
+    </programme>
+    <programme start="20220817060000 +0000" stop="20220817120000 +0000" channel="skystorepremiere14.c90">
+        <title lang="pt">Zombies 3</title>
+        <desc lang="pt">Zed anticipates an athletic scholarship while Addison gears up for Seabrook's first international cheer-off. Then suddenly, extraterrestrial beings arrive in Seabrook, provoking something other than friendly competition.(2022)(1h 28m)</desc>
+    </programme>
+    <programme start="20220817120000 +0000" stop="20220817180000 +0000" channel="skystorepremiere14.c90">
+        <title lang="pt">Zombies 3</title>
+        <desc lang="pt">Zed anticipates an athletic scholarship while Addison gears up for Seabrook's first international cheer-off. Then suddenly, extraterrestrial beings arrive in Seabrook, provoking something other than friendly competition.(2022)(1h 28m)</desc>
+    </programme>
+    <programme start="20220817180000 +0000" stop="20220817235900 +0000" channel="skystorepremiere14.c90">
+        <title lang="pt">Zombies 3</title>
+        <desc lang="pt">Zed anticipates an athletic scholarship while Addison gears up for Seabrook's first international cheer-off. Then suddenly, extraterrestrial beings arrive in Seabrook, provoking something other than friendly competition.(2022)(1h 28m)</desc>
+    </programme>
+    <programme start="20220818000000 +0000" stop="20220818060000 +0000" channel="skystorepremiere14.c90">
+        <title lang="pt">Zombies 3</title>
+        <desc lang="pt">Zed anticipates an athletic scholarship while Addison gears up for Seabrook's first international cheer-off. Then suddenly, extraterrestrial beings arrive in Seabrook, provoking something other than friendly competition.(2022)(1h 28m)</desc>
+    </programme>
+    <programme start="20220818060000 +0000" stop="20220818120000 +0000" channel="skystorepremiere14.c90">
+        <title lang="pt">Zombies 3</title>
+        <desc lang="pt">Zed anticipates an athletic scholarship while Addison gears up for Seabrook's first international cheer-off. Then suddenly, extraterrestrial beings arrive in Seabrook, provoking something other than friendly competition.(2022)(1h 28m)</desc>
+    </programme>
+    <programme start="20220818120000 +0000" stop="20220818180000 +0000" channel="skystorepremiere14.c90">
+        <title lang="pt">Zombies 3</title>
+        <desc lang="pt">Zed anticipates an athletic scholarship while Addison gears up for Seabrook's first international cheer-off. Then suddenly, extraterrestrial beings arrive in Seabrook, provoking something other than friendly competition.(2022)(1h 28m)</desc>
+    </programme>
+    <programme start="20220818180000 +0000" stop="20220818235900 +0000" channel="skystorepremiere14.c90">
+        <title lang="pt">Zombies 3</title>
+        <desc lang="pt">Zed anticipates an athletic scholarship while Addison gears up for Seabrook's first international cheer-off. Then suddenly, extraterrestrial beings arrive in Seabrook, provoking something other than friendly competition.(2022)(1h 28m)</desc>
+    </programme>
+    <programme start="20220817000000 +0000" stop="20220817060000 +0000" channel="skystorepremiere15.c90">
+        <title lang="pt">Unhuman</title>
+        <desc lang="pt">Seven misfit students must band together against a growing gang of unhuman savages. Their trust in each other gets tested to the limit in a brutal, horrifying fight to survive as they take down the murderous zombie creatures.(2022)(1h 31m)</desc>
+    </programme>
+    <programme start="20220817060000 +0000" stop="20220817120000 +0000" channel="skystorepremiere15.c90">
+        <title lang="pt">Unhuman</title>
+        <desc lang="pt">Seven misfit students must band together against a growing gang of unhuman savages. Their trust in each other gets tested to the limit in a brutal, horrifying fight to survive as they take down the murderous zombie creatures.(2022)(1h 31m)</desc>
+    </programme>
+    <programme start="20220817120000 +0000" stop="20220817180000 +0000" channel="skystorepremiere15.c90">
+        <title lang="pt">Unhuman</title>
+        <desc lang="pt">Seven misfit students must band together against a growing gang of unhuman savages. Their trust in each other gets tested to the limit in a brutal, horrifying fight to survive as they take down the murderous zombie creatures.(2022)(1h 31m)</desc>
+    </programme>
+    <programme start="20220817180000 +0000" stop="20220817235900 +0000" channel="skystorepremiere15.c90">
+        <title lang="pt">Unhuman</title>
+        <desc lang="pt">Seven misfit students must band together against a growing gang of unhuman savages. Their trust in each other gets tested to the limit in a brutal, horrifying fight to survive as they take down the murderous zombie creatures.(2022)(1h 31m)</desc>
+    </programme>
+    <programme start="20220818000000 +0000" stop="20220818060000 +0000" channel="skystorepremiere15.c90">
+        <title lang="pt">Unhuman</title>
+        <desc lang="pt">Seven misfit students must band together against a growing gang of unhuman savages. Their trust in each other gets tested to the limit in a brutal, horrifying fight to survive as they take down the murderous zombie creatures.(2022)(1h 31m)</desc>
+    </programme>
+    <programme start="20220818060000 +0000" stop="20220818120000 +0000" channel="skystorepremiere15.c90">
+        <title lang="pt">Unhuman</title>
+        <desc lang="pt">Seven misfit students must band together against a growing gang of unhuman savages. Their trust in each other gets tested to the limit in a brutal, horrifying fight to survive as they take down the murderous zombie creatures.(2022)(1h 31m)</desc>
+    </programme>
+    <programme start="20220818120000 +0000" stop="20220818180000 +0000" channel="skystorepremiere15.c90">
+        <title lang="pt">Unhuman</title>
+        <desc lang="pt">Seven misfit students must band together against a growing gang of unhuman savages. Their trust in each other gets tested to the limit in a brutal, horrifying fight to survive as they take down the murderous zombie creatures.(2022)(1h 31m)</desc>
+    </programme>
+    <programme start="20220818180000 +0000" stop="20220818235900 +0000" channel="skystorepremiere15.c90">
+        <title lang="pt">Unhuman</title>
+        <desc lang="pt">Seven misfit students must band together against a growing gang of unhuman savages. Their trust in each other gets tested to the limit in a brutal, horrifying fight to survive as they take down the murderous zombie creatures.(2022)(1h 31m)</desc>
+    </programme>
+</tv>
