@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20220817">
+<channel id="Radio.dummy"><display-name>Radio</display-name><icon src=""/><url></url></channel>
+
+<programme start="20220817000000 +0000" stop="20230217000000 +0000" channel="Radio.dummy"><title lang="en">Radio</title><desc lang="en">Live Radio Broadcast</desc><icon src=""/></programme>
+</tv>
