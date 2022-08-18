@@ -1,0 +1,504 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V4.2.4.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Optus Sport 1 a.c90">
+    <display-name lang="en">Optus Sport 1</display-name>
+    <url>http://www.optussport.com.au</url>
+  </channel>
+  <channel id="Optus Sport 2 a.c90">
+    <display-name lang="en">Optus Sport 2</display-name>
+    <url>http://www.optussport.com.au</url>
+  </channel>
+  <channel id="Optus Sport 3 a.c90">
+    <display-name lang="en">Optus Sport 3</display-name>
+    <url>http://www.optussport.com.au</url>
+  </channel>
+  <channel id="Optus Sport 4 a.c90">
+    <display-name lang="en">Optus Sport 4</display-name>
+    <url>http://www.optussport.com.au</url>
+  </channel>
+  <channel id="Optus Sport 5 a.c90">
+    <display-name lang="en">Optus Sport 5</display-name>
+    <url>http://www.optussport.com.au</url>
+  </channel>
+  <channel id="Optus Sport 6 a.c90">
+    <display-name lang="en">Optus Sport 6</display-name>
+    <url>http://www.optussport.com.au</url>
+  </channel>
+  <channel id="Optus Sport 1.c90">
+    <display-name lang="en">Optus Sport 1</display-name>
+    <icon src="https://static.sport.optus.com.au/images/optus-sport-yes.svg" />
+    <url>http://www.sport.optus.com.au</url>
+  </channel>
+  <channel id="Optus Sport 8.c90.c90">
+    <display-name lang="en">Optus Sport 8</display-name>
+    <icon src="https://static.sport.optus.com.au/images/optus-sport-yes.svg" />
+    <url>http://www.sport.optus.com.au</url>
+  </channel>
+  <channel id="Optus Sport 7.c90">
+    <display-name lang="en">Optus Sport 7</display-name>
+    <icon src="https://static.sport.optus.com.au/images/optus-sport-yes.svg" />
+    <url>http://www.sport.optus.com.au</url>
+  </channel>
+  <channel id="Optus Sport 5.c90">
+    <display-name lang="en">Optus Sport 5</display-name>
+    <icon src="https://static.sport.optus.com.au/images/optus-sport-yes.svg" />
+    <url>http://www.sport.optus.com.au</url>
+  </channel>
+  <channel id="Optus Sport 3.c90">
+    <display-name lang="en">Optus Sport 3</display-name>
+    <icon src="https://static.sport.optus.com.au/images/optus-sport-yes.svg" />
+    <url>http://www.sport.optus.com.au</url>
+  </channel>
+  <channel id="Optus Sport 4.c90">
+    <display-name lang="en">Optus Sport 4</display-name>
+    <icon src="https://static.sport.optus.com.au/images/optus-sport-yes.svg" />
+    <url>http://www.sport.optus.com.au</url>
+  </channel>
+  <channel id="Optus Sport 2.c90">
+    <display-name lang="en">Optus Sport 2</display-name>
+    <icon src="https://static.sport.optus.com.au/images/optus-sport-yes.svg" />
+    <url>http://www.sport.optus.com.au</url>
+  </channel>
+  <channel id="Optus Sport 101.c90">
+    <display-name lang="en">Optus Sport 101</display-name>
+    <icon src="https://static.sport.optus.com.au/images/optus-sport-yes.svg" />
+    <url>http://www.sport.optus.com.au</url>
+  </channel>
+  <channel id="Optus Sport 104.c90">
+    <display-name lang="en">Optus Sport 104</display-name>
+    <icon src="https://static.sport.optus.com.au/images/optus-sport-yes.svg" />
+    <url>http://www.sport.optus.com.au</url>
+  </channel>
+  <channel id="Optus Sport 6.c90">
+    <display-name lang="en">Optus Sport 6</display-name>
+    <icon src="https://static.sport.optus.com.au/images/optus-sport-yes.svg" />
+    <url>http://www.sport.optus.com.au</url>
+  </channel>
+  <programme start="20220820113000 +1000" stop="20220820163000 +1000" channel="Optus Sport 1 a.c90">
+    <title lang="en">English Premier League</title>
+    <sub-title lang="en">Tottenham Hotspur - Wolverhampton Wanderers</sub-title>
+    <category lang="en">Sport/Series</category>
+    <icon src="https://d21xmla0sqnlu7.cloudfront.net/Sports/Soccer/Images/CompetitionIcon/compFootballPremierLeagueWhite%403x.png" />
+  </programme>
+  <programme start="20220820180000 +1000" stop="20220820200000 +1000" channel="Optus Sport 1 a.c90">
+    <title lang="en">Spanish La Liga</title>
+    <sub-title lang="en">Espanyol - Rayo Vallecano</sub-title>
+    <category lang="en">Sport/Series</category>
+  </programme>
+  <programme start="20220821050000 +1000" stop="20220821180000 +1000" channel="Optus Sport 1 a.c90">
+    <title lang="en">J League</title>
+    <sub-title lang="en">Hokkaido Consadole Sapporo - Sagan Tosu</sub-title>
+    <category lang="en">Sport/Series</category>
+  </programme>
+  <programme start="20220820163000 +1000" stop="20220821153000 +1000" channel="Optus Sport 1 a.c90">
+    <title lang="en">English Premier League</title>
+    <sub-title lang="en">Bournemouth - Arsenal</sub-title>
+    <category lang="en">Sport/Series</category>
+    <icon src="https://d21xmla0sqnlu7.cloudfront.net/Sports/Soccer/Images/CompetitionIcon/compFootballPremierLeagueWhite%403x.png" />
+  </programme>
+  <programme start="20220821153000 +1000" stop="20220822190000 +1000" channel="Optus Sport 1 a.c90">
+    <title lang="en">English Premier League</title>
+    <sub-title lang="en">Newcastle United - Manchester City</sub-title>
+    <category lang="en">Sport/Series</category>
+    <icon src="https://d21xmla0sqnlu7.cloudfront.net/Sports/Soccer/Images/CompetitionIcon/compFootballPremierLeagueWhite%403x.png" />
+  </programme>
+  <programme start="20220822190000 +1000" stop="20220823050000 +1000" channel="Optus Sport 1 a.c90">
+    <title lang="en">English Premier League</title>
+    <sub-title lang="en">Manchester United - Liverpool</sub-title>
+    <category lang="en">Sport/Series</category>
+    <icon src="https://d21xmla0sqnlu7.cloudfront.net/Sports/Soccer/Images/CompetitionIcon/compFootballPremierLeagueWhite%403x.png" />
+  </programme>
+  <programme start="20220820100000 +1000" stop="20220820153000 +1000" channel="Optus Sport 2 a.c90">
+    <title lang="en">J League</title>
+    <sub-title lang="en">Avispa Fukuoka - Kawasaki Frontale</sub-title>
+    <category lang="en">Sport/Series</category>
+  </programme>
+  <programme start="20220820153000 +1000" stop="20220820173000 +1000" channel="Optus Sport 2 a.c90">
+    <title lang="en">Spanish La Liga</title>
+    <sub-title lang="en">Osasuna - Cádiz</sub-title>
+    <category lang="en">Sport/Series</category>
+  </programme>
+  <programme start="20220820173000 +1000" stop="20220820200000 +1000" channel="Optus Sport 2 a.c90">
+    <title lang="en">Spanish La Liga</title>
+    <sub-title lang="en">Mallorca - Real Betis</sub-title>
+    <category lang="en">Sport/Series</category>
+  </programme>
+  <programme start="20220820200000 +1000" stop="20220821153000 +1000" channel="Optus Sport 2 a.c90">
+    <title lang="en">Spanish La Liga</title>
+    <sub-title lang="en">Celta de Vigo - Real Madrid</sub-title>
+    <category lang="en">Sport/Series</category>
+  </programme>
+  <programme start="20220821153000 +1000" stop="20220821173000 +1000" channel="Optus Sport 2 a.c90">
+    <title lang="en">Spanish La Liga</title>
+    <sub-title lang="en">Athletic Club - Valencia</sub-title>
+    <category lang="en">Sport/Series</category>
+  </programme>
+  <programme start="20220821173000 +1000" stop="20220821200000 +1000" channel="Optus Sport 2 a.c90">
+    <title lang="en">Spanish La Liga</title>
+    <sub-title lang="en">Atletico Madrid - Villarreal</sub-title>
+    <category lang="en">Sport/Series</category>
+  </programme>
+  <programme start="20220821200000 +1000" stop="20220822180000 +1000" channel="Optus Sport 2 a.c90">
+    <title lang="en">Spanish La Liga</title>
+    <sub-title lang="en">Real Sociedad - Barcelona</sub-title>
+    <category lang="en">Sport/Series</category>
+  </programme>
+  <programme start="20220822180000 +1000" stop="20220822200000 +1000" channel="Optus Sport 2 a.c90">
+    <title lang="en">Spanish La Liga</title>
+    <sub-title lang="en">Elche - Almería</sub-title>
+    <category lang="en">Sport/Series</category>
+  </programme>
+  <programme start="20220820140000 +1000" stop="20220821130000 +1000" channel="Optus Sport 3 a.c90">
+    <title lang="en">English Premier League</title>
+    <sub-title lang="en">Everton - Nottingham Forest</sub-title>
+    <category lang="en">Sport/Series</category>
+    <icon src="https://d21xmla0sqnlu7.cloudfront.net/Sports/Soccer/Images/CompetitionIcon/compFootballPremierLeagueWhite%403x.png" />
+  </programme>
+  <programme start="20220821130000 +1000" stop="20220821100000 +1000" channel="Optus Sport 3 a.c90">
+    <title lang="en">English Premier League</title>
+    <sub-title lang="en">West Ham United - Brighton</sub-title>
+    <category lang="en">Sport/Series</category>
+    <icon src="https://d21xmla0sqnlu7.cloudfront.net/Sports/Soccer/Images/CompetitionIcon/compFootballPremierLeagueWhite%403x.png" />
+  </programme>
+  <programme start="20220820140000 +1000" stop="20220821130000 +1000" channel="Optus Sport 4 a.c90">
+    <title lang="en">English Premier League</title>
+    <sub-title lang="en">Crystal Palace - Aston Villa</sub-title>
+    <category lang="en">Sport/Series</category>
+    <icon src="https://d21xmla0sqnlu7.cloudfront.net/Sports/Soccer/Images/CompetitionIcon/compFootballPremierLeagueWhite%403x.png" />
+  </programme>
+  <programme start="20220819100000 +0000" stop="20220819110000 +0000" channel="Optus Sport 1.c90">
+    <title lang="en">Welcome to the Weekend</title>
+    <desc lang="en">Light-hearted, inclusive and entertaining, Welcome to the Weekend focuses on not just the football but also on the lifestyle topics that footballers and fans love.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/4ca0b4f5-dff8-4aa3-9241-c3b2735ceca3_welcome-to-the-weekend-16x9.png" />
+  </programme>
+  <programme start="20220819153000 +0000" stop="20220819160000 +0000" channel="Optus Sport 1.c90">
+    <title lang="en">Premier League Preview</title>
+    <desc lang="en">Preview all the upcoming Premier League fixtures.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/85c4eeaf-ff4d-4e86-8f15-2862d714e0cf_22-23-preview-16x9.jpg" />
+  </programme>
+  <programme start="20220819160000 +0000" stop="20220819170000 +0000" channel="Optus Sport 1.c90">
+    <title lang="en">Viva LaLiga - Saturday</title>
+    <desc lang="en">Viva LaLiga brings you all the latest news and analysis from across LaLiga.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/80b53cf1-626d-4cf1-ad1c-ada6bd35c449_1653752515854-vivalaliga.jpg" />
+  </programme>
+  <programme start="20220819170000 +0000" stop="20220819173000 +0000" channel="Optus Sport 1.c90">
+    <title lang="en">Team Talks</title>
+    <desc lang="en">Join the team as they tackle all the major talking points as the players and the managers have their say ahead of the weekend action.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/d22fc175-db95-44d7-9d99-5a28c52006fb_team-talks-16x9.png" />
+  </programme>
+  <programme start="20220819173000 +0000" stop="20220819195500 +0000" channel="Optus Sport 1.c90">
+    <title lang="en">Espanyol v Vallecano</title>
+    <sub-title lang="en">Primera División</sub-title>
+    <desc lang="en">Season: 2022/2023. Saturday 20th August.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/561d0b63-d121-4ec8-9dca-a71e64b8c6b2_llmw2assetcleanespanyolrayo20aug330am.png" />
+  </programme>
+  <programme start="20220819195500 +0000" stop="20220819223000 +0000" channel="Optus Sport 1.c90">
+    <title lang="en">Sevilla v Valladolid</title>
+    <sub-title lang="en">Primera División</sub-title>
+    <desc lang="en">Season: 2022/2023. Saturday 20th August.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/03a3f3ec-0ada-4ea6-8ea1-deb4c1de85c3_llmw2assetcleansevillareal-valladolid20aug555am.png" />
+  </programme>
+  <programme start="20220820045500 +0000" stop="20220820070000 +0000" channel="Optus Sport 1.c90">
+    <title lang="en">Hokkaido Consadole Sapporo v Sagan</title>
+    <sub-title lang="en">J1 League</sub-title>
+    <desc lang="en">Season: 2022. Saturday 20th August.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/a45730e2-400b-4602-8563-df8f79498882_jlrd26assetcleansapporosagan-tosu20aug255pm.png" />
+  </programme>
+  <programme start="20220820103000 +0000" stop="20220820135000 +0000" channel="Optus Sport 1.c90">
+    <title lang="en">Tottenham Hotspur v Wolverhampton Wanderers</title>
+    <sub-title lang="en">Premier League</sub-title>
+    <desc lang="en">Season: 2022/2023. Saturday 20th August.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/a78069c4-d860-4c26-a6b7-b97045042a97_plmw3assetcleantottenhamwolves20aug830pm.png" />
+  </programme>
+  <programme start="20220820135000 +0000" stop="20220820162000 +0000" channel="Optus Sport 1.c90">
+    <title lang="en">Goal Rush - Overnight Saturday</title>
+    <desc lang="en">Here's your hub for the night ahead, as you watch Everton v Nottingham Forest plus updates of every goal and key moment from around the grounds!(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/2675d920-06c7-49d0-81e6-1bb74b5c0d08_goal-rush1.jpg" />
+  </programme>
+  <programme start="20220820162000 +0000" stop="20220820190000 +0000" channel="Optus Sport 1.c90">
+    <title lang="en">Bournemouth v Arsenal</title>
+    <sub-title lang="en">Premier League</sub-title>
+    <desc lang="en">Season: 2022/2023. Sunday 21st August.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/465b1ac1-afe8-4f29-aeea-32297e8f27d2_plmw3assetcleanbournemoutharsenal21aug220am.png" />
+  </programme>
+  <programme start="20220820190000 +0000" stop="20220820200000 +0000" channel="Optus Sport 1.c90">
+    <title lang="en">Matchday Live Extra</title>
+    <desc lang="en">Join us for a complete review of all the day’s Premier League football, with highlights and studio discussion.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/52f3a9ae-62e7-43b0-b174-dd7c4061a11e_22-23-matchday-live-extra.jpg" />
+  </programme>
+  <programme start="20220821120000 +0000" stop="20220821152000 +0000" channel="Optus Sport 1.c90">
+    <title lang="en">Goal Rush - Overnight Sunday</title>
+    <desc lang="en">Here's your hub for the night ahead, as you watch xxx plus updates of every goal and key moment from around the grounds!(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/2675d920-06c7-49d0-81e6-1bb74b5c0d08_goal-rush1.jpg" />
+  </programme>
+  <programme start="20220821152000 +0000" stop="20220821183000 +0000" channel="Optus Sport 1.c90">
+    <title lang="en">Newcastle United v Manchester City</title>
+    <sub-title lang="en">Premier League</sub-title>
+    <desc lang="en">Season: 2022/2023. Monday 22nd August.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/ae136e6f-61de-4b0f-b96b-7e4545fbefb5_plmw3assetcleannewcastleman-city22aug120am.png" />
+  </programme>
+  <programme start="20220821200000 +0000" stop="20220821213000 +0000" channel="Optus Sport 1.c90">
+    <title lang="en">The Weekend Wrap</title>
+    <desc lang="en">The Weekend Wrap features comprehensive match highlights, the best post-match reaction and expert analysis from a high-class team of pundits.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/4ab7856d-e191-47ba-b65a-3f58b819e423_the-weekend-wrap-16x9.png" />
+  </programme>
+  <programme start="20220822130000 +0000" stop="20220822140000 +0000" channel="Optus Sport 1.c90">
+    <title lang="en">The Kelly &amp; Wrighty Show</title>
+    <desc lang="en">Arsenal legend Ian Wright is joined by Kelly Cates and a host of Premier League personalities as they take a more in-depth look at the headlines that follow the football each weekend and explore issues and topics away from the pitch.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/5bb7df7d-dac3-4031-b987-dc44cdfd9c2e_22-23-kelly-wrighty-16x9.png" />
+  </programme>
+  <programme start="20220822160000 +0000" stop="20220822170000 +0000" channel="Optus Sport 1.c90">
+    <title lang="en">Generation xG</title>
+    <desc lang="en">A deep dive into the tactical trends and statistical insights of modern football with input from players, managers and data experts from the fanalytics community.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/57c73579-7090-4ea4-a09a-06514a879f3a_generation-xg-16x9.png" />
+  </programme>
+  <programme start="20220822180000 +0000" stop="20220822213000 +0000" channel="Optus Sport 1.c90">
+    <title lang="en">Manchester United v Liverpool</title>
+    <sub-title lang="en">Premier League</sub-title>
+    <desc lang="en">Season: 2022/2023. Tuesday 23rd August.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/09ccbbc0-d23c-46de-b630-166376638783_plmw3assetcleanman-unitedliverpool23aug400am.png" />
+  </programme>
+  <programme start="20220822213000 +0000" stop="20220822223000 +0000" channel="Optus Sport 1.c90">
+    <title lang="en">The Final Word</title>
+    <desc lang="en">Michael Owen and special guests will join Steve Bower to give the definitive verdict on the weekend’s action.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/b24b1b7d-f8bc-43e5-accc-e19ed5177dcd_22-23-final-word-16x9.png" />
+  </programme>
+  <programme start="20220822233000 +0000" stop="20220823003000 +0000" channel="Optus Sport 1.c90">
+    <title lang="en">Premier League Highlights Show</title>
+    <desc lang="en">Catch up on all the latest action from the Premier League.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/4a8f9a58-5c6b-4350-a4e4-fd38735f7528_22-23-review-16x9.png" />
+  </programme>
+  <programme start="20220823010000 +0000" stop="20220823013000 +0000" channel="Optus Sport 1.c90">
+    <title lang="en">Netbusters</title>
+    <desc lang="en">All the best angles of all the best goals from the latest Premier League action.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/5e879ace-696b-4795-a3de-3e643ed416e1_22-23-netbusters-16x9.png" />
+  </programme>
+  <programme start="20220823033000 +0000" stop="20220823040000 +0000" channel="Optus Sport 1.c90">
+    <title lang="en">LaLiga Highlights Show</title>
+    <desc lang="en">Catch up on all the latest action from the LaLiga.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/a723c529-b20d-449d-9d72-931451fcfa02_ll-hlts-show.jpg" />
+  </programme>
+  <programme start="20220827103000 +0000" stop="20220827135000 +0000" channel="Optus Sport 1.c90">
+    <title lang="en">Southampton v Manchester United</title>
+    <sub-title lang="en">Premier League</sub-title>
+    <desc lang="en">Season: 2022/2023. Saturday 27th August.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/1cbc208d-85d8-4be7-9551-d7571ada17c4_plmw4assetcleansouthamptonman-united27aug830pm.png" />
+  </programme>
+  <programme start="20220827162000 +0000" stop="20220827190000 +0000" channel="Optus Sport 1.c90">
+    <title lang="en">Arsenal v Fulham</title>
+    <sub-title lang="en">Premier League</sub-title>
+    <desc lang="en">Season: 2022/2023. Sunday 28th August.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/5647ca65-655f-4e12-8a73-732f931c68de_plmw4assetcleanarsenalfulham28aug220am.png" />
+  </programme>
+  <programme start="20220828152000 +0000" stop="20220828183000 +0000" channel="Optus Sport 1.c90">
+    <title lang="en">Nottingham Forest v Tottenham Hotspur</title>
+    <sub-title lang="en">Premier League</sub-title>
+    <desc lang="en">Season: 2022/2023. Monday 29th August.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/f4a1a907-5750-4f27-a44f-904df53fc781_plmw4assetcleanforesttottenham29aug120am.png" />
+  </programme>
+  <programme start="20220822195000 +0000" stop="20220822220000 +0000" channel="Optus Sport 7.c90">
+    <title lang="en">Malaga v Las Palmas</title>
+    <desc lang="en">Tuesday 23rd August.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/91a1e9c7-02b9-4dd1-9522-472aa1aa42a8_ll2mw2assetcleanmalaga-cflas-palmas23aug550am.png" />
+  </programme>
+  <programme start="20220820135000 +0000" stop="20220820160000 +0000" channel="Optus Sport 5.c90">
+    <title lang="en">Leicester City v Southampton</title>
+    <sub-title lang="en">Premier League</sub-title>
+    <desc lang="en">Season: 2022/2023. Saturday 20th August.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/981b4b22-daed-4f34-b655-010c7ddc6930_plmw3assetcleanleicestersouthampton20aug1150pm.png" />
+  </programme>
+  <programme start="20220827135000 +0000" stop="20220827160000 +0000" channel="Optus Sport 5.c90">
+    <title lang="en">Chelsea v Leicester City</title>
+    <sub-title lang="en">Premier League</sub-title>
+    <desc lang="en">Season: 2022/2023. Saturday 27th August.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/c4337985-930f-46a9-aff5-579eff0b7110_plmw4assetcleanchelsealeicester27aug1150pm.png" />
+  </programme>
+  <programme start="20220820095500 +0000" stop="20220820120000 +0000" channel="Optus Sport 3.c90">
+    <title lang="en">Sanfrecce v Gamba</title>
+    <sub-title lang="en">J1 League</sub-title>
+    <desc lang="en">Season: 2022. Saturday 20th August.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/0957aa56-2d39-4a10-bf5b-1fa51112a312_jlrd26assetcleansanfreccegamba-osaka20aug755pm.png" />
+  </programme>
+  <programme start="20220820135000 +0000" stop="20220820160000 +0000" channel="Optus Sport 3.c90">
+    <title lang="en">Everton v Nottingham Forest</title>
+    <sub-title lang="en">Premier League</sub-title>
+    <desc lang="en">Season: 2022/2023. Saturday 20th August.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/acfad437-e131-4de2-8f84-63104fbb51dd_plmw3assetcleanevertonforest20aug1150pm.png" />
+  </programme>
+  <programme start="20220821125000 +0000" stop="20220821150000 +0000" channel="Optus Sport 3.c90">
+    <title lang="en">West Ham United v Brighton</title>
+    <sub-title lang="en">Premier League</sub-title>
+    <desc lang="en">Season: 2022/2023. Sunday 21st August.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/49f84658-9e97-4608-aa16-96d741ad0c5c_plmw3assetcleanwest-hambrighton21aug1050pm.png" />
+  </programme>
+  <programme start="20220827095500 +0000" stop="20220827120000 +0000" channel="Optus Sport 3.c90">
+    <title lang="en">Cerezo v Sanfrecce</title>
+    <sub-title lang="en">J1 League</sub-title>
+    <desc lang="en">Season: 2022. Saturday 27th August.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/dc9df41a-1bc5-4def-acd3-8b6180af2b9a_jlrd27assetcleancerezo-osakasanfrecce27aug755pm.png" />
+  </programme>
+  <programme start="20220827135000 +0000" stop="20220827160000 +0000" channel="Optus Sport 3.c90">
+    <title lang="en">Brighton v Leeds</title>
+    <sub-title lang="en">Premier League</sub-title>
+    <desc lang="en">Season: 2022/2023. Saturday 27th August.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/f3b66513-cee2-4761-927e-5b35261e972a_plmw4assetcleanbrightonleeds-united27aug1150pm.png" />
+  </programme>
+  <programme start="20220828125000 +0000" stop="20220828150000 +0000" channel="Optus Sport 3.c90">
+    <title lang="en">Wolverhampton Wanderers v Newcastle United</title>
+    <sub-title lang="en">Premier League</sub-title>
+    <desc lang="en">Season: 2022/2023. Sunday 28th August.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/fc9585b9-8d65-45e9-9f03-b99de8190677_plmw4assetcleanwolvesnewcastle28aug1050pm.png" />
+  </programme>
+  <programme start="20220820135000 +0000" stop="20220820160000 +0000" channel="Optus Sport 4.c90">
+    <title lang="en">Crystal Palace v Aston Villa</title>
+    <sub-title lang="en">Premier League</sub-title>
+    <desc lang="en">Season: 2022/2023. Saturday 20th August.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/bb2a492e-8242-4891-84e3-15611dcb87f6_plmw3assetcleancrystal-palaceaston-villa20aug1150pm.png" />
+  </programme>
+  <programme start="20220821125000 +0000" stop="20220821150000 +0000" channel="Optus Sport 4.c90">
+    <title lang="en">Leeds v Chelsea</title>
+    <sub-title lang="en">Premier League</sub-title>
+    <desc lang="en">Season: 2022/2023. Sunday 21st August.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/297afa54-d9c6-4c7c-945d-c5af50cb1e47_plmw3assetcleanleeds-unitedchelsea21aug1050pm.png" />
+  </programme>
+  <programme start="20220827135000 +0000" stop="20220827160000 +0000" channel="Optus Sport 4.c90">
+    <title lang="en">Liverpool v Bournemouth</title>
+    <sub-title lang="en">Premier League</sub-title>
+    <desc lang="en">Season: 2022/2023. Saturday 27th August.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/0c2efd62-bbfb-4354-9b35-49de2a4f1c74_plmw4assetcleanliverpoolbournemouth27aug1150pm.png" />
+  </programme>
+  <programme start="20220828125000 +0000" stop="20220828150000 +0000" channel="Optus Sport 4.c90">
+    <title lang="en">Aston Villa v West Ham United</title>
+    <sub-title lang="en">Premier League</sub-title>
+    <desc lang="en">Season: 2022/2023. Sunday 28th August.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/a9f158b0-7e49-4238-9439-260621a16305_plmw4assetcleanaston-villawest-ham28aug1050pm.png" />
+  </programme>
+  <programme start="20220820095500 +0000" stop="20220820120000 +0000" channel="Optus Sport 2.c90">
+    <title lang="en">Avispa v Kawasaki</title>
+    <sub-title lang="en">J1 League</sub-title>
+    <desc lang="en">Season: 2022. Saturday 20th August.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/2e55106f-c037-44fc-8c8f-a12a3640beb6_jlrd26assetcleanavispakawasaki20aug755pm.png" />
+  </programme>
+  <programme start="20220820143000 +0000" stop="20220820172500 +0000" channel="Optus Sport 2.c90">
+    <title lang="en">Osasuna v Cadiz</title>
+    <sub-title lang="en">Primera División</sub-title>
+    <desc lang="en">Season: 2022/2023. Sunday 21st August.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/41e93f8c-f10f-4e1b-b6ed-40ee87391625_llmw2assetcleanosasunacadiz21aug1230am.png" />
+  </programme>
+  <programme start="20220820172500 +0000" stop="20220820195500 +0000" channel="Optus Sport 2.c90">
+    <title lang="en">Mallorca v Real Betis</title>
+    <sub-title lang="en">Primera División</sub-title>
+    <desc lang="en">Season: 2022/2023. Sunday 21st August.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/2b72ce19-58c8-49f6-b4ba-2919bf269051_llmw2assetcleanrcd-mallorcareal-betis21aug325am.png" />
+  </programme>
+  <programme start="20220820195500 +0000" stop="20220820230000 +0000" channel="Optus Sport 2.c90">
+    <title lang="en">Celta Vigo v Real Madrid</title>
+    <sub-title lang="en">Primera División</sub-title>
+    <desc lang="en">Season: 2022/2023. Sunday 21st August.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/fb0174bd-d0ae-45a4-9012-6272b0889c9d_llmw2assetcleanceltareal-madrid21aug555am.png" />
+  </programme>
+  <programme start="20220821143000 +0000" stop="20220821172500 +0000" channel="Optus Sport 2.c90">
+    <title lang="en">Athletic Club v Valencia</title>
+    <sub-title lang="en">Primera División</sub-title>
+    <desc lang="en">Season: 2022/2023. Monday 22nd August.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/752eef67-26f7-4607-af7c-af9ccd66b595_llmw2assetcleanathletic-clubvalencia22aug1230am.png" />
+  </programme>
+  <programme start="20220821172500 +0000" stop="20220821195500 +0000" channel="Optus Sport 2.c90">
+    <title lang="en">Atletico Madrid v Villarreal</title>
+    <sub-title lang="en">Primera División</sub-title>
+    <desc lang="en">Season: 2022/2023. Monday 22nd August.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/aeeb4a62-b1ba-4fc2-b1d5-7718846e2570_llmw2assetcleanatleticovillarreal22aug325am.png" />
+  </programme>
+  <programme start="20220821195500 +0000" stop="20220821233000 +0000" channel="Optus Sport 2.c90">
+    <title lang="en">Real Sociedad v Barcelona</title>
+    <sub-title lang="en">Primera División</sub-title>
+    <desc lang="en">Season: 2022/2023. Monday 22nd August.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/ffb85c35-76ee-4d2a-a085-9f18e975f04b_llmw2assetcleanreal-sociedadbarcelona22aug555am.png" />
+  </programme>
+  <programme start="20220822170000 +0000" stop="20220822195500 +0000" channel="Optus Sport 2.c90">
+    <title lang="en">Elche v Almería</title>
+    <sub-title lang="en">Primera División</sub-title>
+    <desc lang="en">Season: 2022/2023. Tuesday 23rd August.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/e17709bd-dd01-465a-a870-8962a5b276d8_llmw2assetcleanelchealmeria23aug300am.png" />
+  </programme>
+  <programme start="20220822195500 +0000" stop="20220822230000 +0000" channel="Optus Sport 2.c90">
+    <title lang="en">Girona v Getafe</title>
+    <sub-title lang="en">Primera División</sub-title>
+    <desc lang="en">Season: 2022/2023. Tuesday 23rd August.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/ee94f520-6791-4868-b862-e961ff1ac020_llmw2assetcleangironagetafe23aug555am.png" />
+  </programme>
+  <programme start="20220827095500 +0000" stop="20220827120000 +0000" channel="Optus Sport 2.c90">
+    <title lang="en">Kawasaki v Kashima</title>
+    <sub-title lang="en">J1 League</sub-title>
+    <desc lang="en">Season: 2022. Saturday 27th August.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/ea06dd40-0e2f-46a9-be16-51bd43ec0cd9_jlrd27assetcleankawasakikashima27aug755pm.png" />
+  </programme>
+  <programme start="20220827135000 +0000" stop="20220827160000 +0000" channel="Optus Sport 2.c90">
+    <title lang="en">Manchester City v Crystal Palace</title>
+    <sub-title lang="en">Premier League</sub-title>
+    <desc lang="en">Season: 2022/2023. Saturday 27th August.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/6c69a299-1f9e-44f6-8f57-9e01d4e77772_plmw4assetcleanman-citycrystal-palace27aug1150pm.png" />
+  </programme>
+  <programme start="20220820135000 +0000" stop="20220820160000 +0000" channel="Optus Sport 6.c90">
+    <title lang="en">Fulham v Brentford</title>
+    <sub-title lang="en">Premier League</sub-title>
+    <desc lang="en">Season: 2022/2023. Saturday 20th August.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/d670fd85-7317-43c8-9c31-61c538eb5a63_plmw3assetcleanfulhambrentford20aug1150pm.png" />
+  </programme>
+  <programme start="20220827135000 +0000" stop="20220827160000 +0000" channel="Optus Sport 6.c90">
+    <title lang="en">Brentford v Everton</title>
+    <sub-title lang="en">Premier League</sub-title>
+    <desc lang="en">Season: 2022/2023. Saturday 27th August.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/8119177a-10a2-4b13-85e1-96a074fad386_plmw4assetcleanbrentfordeverton27aug1150pm.png" />
+  </programme>
+</tv>
