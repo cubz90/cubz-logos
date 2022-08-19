@@ -54,9 +54,10 @@
     <display-name lang="en">Sony Entertainment TV Asia</display-name>
     <url>http://www.tvguide.co.uk</url>
   </channel>
-  <channel id="OireachtasTV.c90">
-    <display-name lang="en">Oireachtas TV</display-name>
-    <url>http://www.rte.ie</url>
+  <channel id="RedBullTV.c90">
+    <display-name lang="en">RedBull TV</display-name>
+    <icon src="https://archive.org/download/RedBullTVLogo/Red-Bull-TV-Logo.png" />
+    <url>http://www.redbull.tv</url>
   </channel>
   <programme start="20220819100000 +0000" stop="20220819110000 +0000" channel="Optus Sport 1.c90">
     <title lang="en">Welcome to the Weekend</title>
@@ -285,7 +286,7 @@
     <sub-title lang="en">Premier League</sub-title>
     <desc lang="en">Season: 2022/2023. Sunday 28th August.(n)</desc>
     <category lang="en">Soccer</category>
-    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/fc9585b9-8d65-45e9-9f03-b99de8190677_plmw4assetcleanwolvesnewcastle28aug1050pm.png" />
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/12ae27b7-c354-488c-937e-60873bf8dd63_plmw4assetcleanwolvesnewcastle28aug1050pm.png" />
   </programme>
   <programme start="20220820135000 +0000" stop="20220820160000 +0000" channel="Optus Sport 4.c90">
     <title lang="en">Crystal Palace v Aston Villa</title>
@@ -364,12 +365,12 @@
     <category lang="en">Soccer</category>
     <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/ffb85c35-76ee-4d2a-a085-9f18e975f04b_llmw2assetcleanreal-sociedadbarcelona22aug555am.png" />
   </programme>
-  <programme start="20220822170000 +0000" stop="20220822195500 +0000" channel="Optus Sport 2.c90">
+  <programme start="20220822173000 +0000" stop="20220822195500 +0000" channel="Optus Sport 2.c90">
     <title lang="en">Elche v Almería</title>
     <sub-title lang="en">Primera División</sub-title>
     <desc lang="en">Season: 2022/2023. Tuesday 23rd August.(n)</desc>
     <category lang="en">Soccer</category>
-    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/e17709bd-dd01-465a-a870-8962a5b276d8_llmw2assetcleanelchealmeria23aug300am.png" />
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/04ec6794-12c9-40a6-855a-a9b5fdc1cb5d_llmw2assetcleanelchealmeria23aug330am.png" />
   </programme>
   <programme start="20220822195500 +0000" stop="20220822230000 +0000" channel="Optus Sport 2.c90">
     <title lang="en">Girona v Getafe</title>
@@ -406,12 +407,19 @@
     <category lang="en">Soccer</category>
     <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/6c69a299-1f9e-44f6-8f57-9e01d4e77772_plmw4assetcleanman-citycrystal-palace27aug1150pm.png" />
   </programme>
-  <programme start="20220827172500 +0000" stop="20220827201000 +0000" channel="Optus Sport 2.c90">
+  <programme start="20220827172500 +0000" stop="20220827195500 +0000" channel="Optus Sport 2.c90">
     <title lang="en">Vallecano v Mallorca</title>
     <sub-title lang="en">Primera División</sub-title>
     <desc lang="en">Season: 2022/2023. Sunday 28th August.(n)</desc>
     <category lang="en">Soccer</category>
     <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/6d962858-194b-4ad3-bd06-03e22e33713f_llmw3assetcleanrayorcd-mallorca28aug325am.png" />
+  </programme>
+  <programme start="20220827195500 +0000" stop="20220827230000 +0000" channel="Optus Sport 2.c90">
+    <title lang="en">Almería v Sevilla</title>
+    <sub-title lang="en">Primera División</sub-title>
+    <desc lang="en">Season: 2022/2023. Sunday 28th August.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/dee23399-6de0-4843-b00c-b1812ce6c643_llmw3assetcleanalmeriasevilla28aug555am.png" />
   </programme>
   <programme start="20220828143000 +0000" stop="20220828172500 +0000" channel="Optus Sport 2.c90">
     <title lang="en">Getafe v Villarreal</title>
@@ -460,7 +468,7 @@
     <sub-title lang="en">Premier League</sub-title>
     <desc lang="en">Season: 2022/2023. Saturday 27th August.(n)</desc>
     <category lang="en">Soccer</category>
-    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/8119177a-10a2-4b13-85e1-96a074fad386_plmw4assetcleanbrentfordeverton27aug1150pm.png" />
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/dc97e8e8-0825-4f3b-baee-146984fc9ede_plmw4assetcleanbrentfordeverton27aug1150pm.png" />
   </programme>
   <programme start="20220819063000 +0100" stop="20220819070000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Yashomati Maiyya Ke Nandlala</title>
@@ -1669,486 +1677,15 @@
     <icon src="https://images.tvguide.co.uk/pa/640/4bad63f2-5528-53ca-aadc-aa545eec6667.jpg" />
     <episode-num system="onscreen">Season 1 Episode 418/</episode-num>
   </programme>
-  <programme start="20220819040000 +0000" stop="20220819090000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas Replay</title>
-    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220819090000 +0000" stop="20220819120000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas Replay</title>
-    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220819120000 +0000" stop="20220819140000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas Replay</title>
-    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220819140000 +0000" stop="20220819160000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas Replay</title>
-    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220819160000 +0000" stop="20220819170000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas Replay</title>
-    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220819170000 +0000" stop="20220819180000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas Replay</title>
-    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220819180000 +0000" stop="20220819190000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas Replay</title>
-    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220819190000 +0000" stop="20220819213000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas Replay</title>
-    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220819213000 +0000" stop="20220819232000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas Replay</title>
-    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220819232000 +0000" stop="20220819233000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas Replay</title>
-    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220819233000 +0000" stop="20220820020000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas Replay</title>
-    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220820020000 +0000" stop="20220820033000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas Replay</title>
-    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220820033000 +0000" stop="20220820061500 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas Replay</title>
-    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220820061500 +0000" stop="20220820074500 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas Replay</title>
-    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220820074500 +0000" stop="20220820083000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas Replay</title>
-    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220820083000 +0000" stop="20220820103000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas Replay</title>
-    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220820103000 +0000" stop="20220820123000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas Replay</title>
-    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220820123000 +0000" stop="20220820143000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas Replay</title>
-    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220820143000 +0000" stop="20220820160000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas Replay</title>
-    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220820160000 +0000" stop="20220820185000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas Replay</title>
-    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220820185000 +0000" stop="20220820200000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas Replay</title>
-    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220820200000 +0000" stop="20220820210000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas Replay</title>
-    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220820210000 +0000" stop="20220820220000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas Replay</title>
-    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220820220000 +0000" stop="20220820230000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas Replay</title>
-    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220820230000 +0000" stop="20220821033000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas Replay</title>
-    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220821033000 +0000" stop="20220821040000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas Replay</title>
-    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220821040000 +0000" stop="20220821050000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas Replay</title>
-    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220821050000 +0000" stop="20220821070000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas Replay</title>
-    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220821070000 +0000" stop="20220821093000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas Replay</title>
-    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220821093000 +0000" stop="20220821140000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas Replay</title>
-    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220821140000 +0000" stop="20220821150000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas Replay</title>
-    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220821150000 +0000" stop="20220821160000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas Replay</title>
-    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220821160000 +0000" stop="20220821170000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas Replay</title>
-    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220821170000 +0000" stop="20220821180000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas Replay</title>
-    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220821180000 +0000" stop="20220821190000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas Replay</title>
-    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220821190000 +0000" stop="20220821200000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas Replay</title>
-    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220821200000 +0000" stop="20220821203000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas Replay</title>
-    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220821203000 +0000" stop="20220821234000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas Replay</title>
-    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220821234000 +0000" stop="20220822024500 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas Replay</title>
-    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220822024500 +0000" stop="20220822071500 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas Replay</title>
-    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220822071500 +0000" stop="20220822090000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas Replay</title>
-    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220822090000 +0000" stop="20220822110000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas Replay</title>
-    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220822110000 +0000" stop="20220822120000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Leaders' Questions Replay</title>
-    <desc lang="en">Where Party Leaders and the Leaders of recognised technical groups can put a question to An Taoiseach without notice.(n)</desc>
-    <category lang="en">Special</category>
-    <icon src="https://tv.assets.pressassociation.io/c9fdd1d1-1bb5-587b-a14d-e76f3ba4ae28.jpg" />
-  </programme>
-  <programme start="20220822120000 +0000" stop="20220822130000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Leaders' Questions Replay</title>
-    <desc lang="en">Where Party Leaders and the Leaders of recognised technical groups can put a question to An Taoiseach without notice.(n)</desc>
-    <category lang="en">Special</category>
-    <icon src="https://tv.assets.pressassociation.io/c9fdd1d1-1bb5-587b-a14d-e76f3ba4ae28.jpg" />
-  </programme>
-  <programme start="20220822130000 +0000" stop="20220822140000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Leaders' Questions Replay</title>
-    <desc lang="en">Where Party Leaders and the Leaders of recognised technical groups can put a question to An Taoiseach without notice.(n)</desc>
-    <category lang="en">Special</category>
-    <icon src="https://tv.assets.pressassociation.io/c9fdd1d1-1bb5-587b-a14d-e76f3ba4ae28.jpg" />
-  </programme>
-  <programme start="20220822140000 +0000" stop="20220822160000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Private Members' Business</title>
-    <desc lang="en">Private Members Business is time set aside to debate a motion or legislation which is proposed by a party in opposition.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220822160000 +0000" stop="20220822180000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Private Members' Business</title>
-    <desc lang="en">Private Members Business is time set aside to debate a motion or legislation which is proposed by a party in opposition.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220822180000 +0000" stop="20220822200000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Private Members' Business</title>
-    <desc lang="en">Private Members Business is time set aside to debate a motion or legislation which is proposed by a party in opposition.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220822200000 +0000" stop="20220822203000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Oireachtas TV Studio Debates</title>
-    <desc lang="en">With Flor MacCarthy and guests.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220822203000 +0000" stop="20220822210000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Colmcille: The Man and the Legacy</title>
-    <desc lang="en">A presentation by Dr Brian Lacey, archaeologist and historian.(n)</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs</category>
-  </programme>
-  <programme start="20220822210000 +0000" stop="20220822233000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Dáil Éireann Replay</title>
-    <sub-title lang="en">Priority Questions</sub-title>
-    <desc lang="en">Questions asked of Ministers in the Dáil.(n)</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs</category>
-  </programme>
-  <programme start="20220822233000 +0000" stop="20220823013500 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas Replay</title>
-    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220823013500 +0000" stop="20220823055500 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas Replay</title>
-    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220823055500 +0000" stop="20220823083000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas Replay</title>
-    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220823083000 +0000" stop="20220823100000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas Replay</title>
-    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220823100000 +0000" stop="20220823130000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas Committees</title>
-    <sub-title lang="en">Committees Live</sub-title>
-    <desc lang="en">Members can examine key legislation and policy areas under the remit of the Department and its agencies.(n)</desc>
-    <category lang="en">Social</category>
-    <category lang="en">Political Issues</category>
-  </programme>
-  <programme start="20220823130000 +0000" stop="20220823133500 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Leaders Questions Live</title>
-    <desc lang="en">When Party Leaders and Leaders of recognised technical groups can put a question to An Taoiseach without prior notice.(n)</desc>
-    <category lang="en">Special</category>
-    <icon src="https://tv.assets.pressassociation.io/bdebbdaf-7025-5c41-89c9-73a9a0a9bc1e.jpg" />
-  </programme>
-  <programme start="20220823133500 +0000" stop="20220823140500 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas</title>
-    <sub-title lang="en">Order of Business Live</sub-title>
-    <desc lang="en">Where the business to be transacted in the Dáil for the coming week is introduced and to agreed by the House.(n)</desc>
-    <category lang="en">Social</category>
-    <category lang="en">Political Issues</category>
-  </programme>
-  <programme start="20220823140500 +0000" stop="20220823145000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Questions to An Taoiseach</title>
-    <sub-title lang="en">Questions to An Taoiseach Live</sub-title>
-    <desc lang="en">Where the Taoiseach, as Head of a Government Department, answers questions on those areas for which he has administrative responsibility.(n)</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs</category>
-    <icon src="https://tv.assets.pressassociation.io/5be73136-2489-5c20-968c-5ae92dd3c4af.jpg" />
-  </programme>
-  <programme start="20220823145000 +0000" stop="20220823171500 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas</title>
-    <sub-title lang="en">Government Business Live</sub-title>
-    <desc lang="en">Legislation, Motions or Statements proposed by the Government.(n)</desc>
-    <category lang="en">Social</category>
-    <category lang="en">Political Issues</category>
-  </programme>
-  <programme start="20220823171500 +0000" stop="20220823191500 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Private Members' Business</title>
-    <sub-title lang="en">Private Members' Business Live</sub-title>
-    <desc lang="en">Private Members Business is time set aside to debate a motion or legislation which is proposed by a party in opposition.(n)</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs</category>
-  </programme>
-  <programme start="20220823191500 +0000" stop="20220823204500 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Parliamentary Questions</title>
-    <sub-title lang="en">Parliamentary Questions Live</sub-title>
-    <category lang="en">Social</category>
-    <category lang="en">Political Issues</category>
-  </programme>
-  <programme start="20220823204500 +0000" stop="20220823220000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Live Topical Issues</title>
-    <desc lang="en">When Deputies who have raised a matter which is topical either nationally or within their constituency are answered by a Member of the Government.(n)</desc>
-    <category lang="en">Social</category>
-    <category lang="en">Political Issues</category>
-    <icon src="https://tv.assets.pressassociation.io/284c4bb6-afe3-5683-8bce-6997de5f97e0.jpg" />
-  </programme>
-  <programme start="20220823220000 +0000" stop="20220823224500 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Leaders' Questions Replay</title>
-    <desc lang="en">Where Party Leaders and the Leaders of recognised technical groups can put a question to An Taoiseach without notice.(n)</desc>
-    <category lang="en">Special</category>
-    <icon src="https://tv.assets.pressassociation.io/c9fdd1d1-1bb5-587b-a14d-e76f3ba4ae28.jpg" />
-  </programme>
-  <programme start="20220823224500 +0000" stop="20220824040000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Seanad Éireann Replay</title>
-    <desc lang="en">Replay of current Seanad Éireann sittings.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220824040000 +0000" stop="20220824081000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas Replay</title>
-    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220824081000 +0000" stop="20220824090000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Live Topical Issues</title>
-    <desc lang="en">When Deputies who have raised a matter which is topical either nationally or within their constituency are answered by a Member of the Government.(n)</desc>
-    <category lang="en">Social</category>
-    <category lang="en">Political Issues</category>
-    <icon src="https://tv.assets.pressassociation.io/284c4bb6-afe3-5683-8bce-6997de5f97e0.jpg" />
-  </programme>
-  <programme start="20220824090000 +0000" stop="20220824110000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Private Members' Business</title>
-    <sub-title lang="en">Private Members' Business Live</sub-title>
-    <desc lang="en">Private Members Business is time set aside to debate a motion or legislation which is proposed by a party in opposition.(n)</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs</category>
-  </programme>
-  <programme start="20220824110000 +0000" stop="20220824113500 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Leaders Questions Live</title>
-    <desc lang="en">When Party Leaders and Leaders of recognised technical groups can put a question to An Taoiseach without prior notice.(n)</desc>
-    <category lang="en">Special</category>
-    <icon src="https://tv.assets.pressassociation.io/bdebbdaf-7025-5c41-89c9-73a9a0a9bc1e.jpg" />
-  </programme>
-  <programme start="20220824113500 +0000" stop="20220824120500 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Questions on Promised Legislation Live</title>
-    <desc lang="en">Questions on Promised Legislation are limited to its progress and when the legislation is likely to be brought before the House for debate.(n)</desc>
-    <category lang="en">Education</category>
-    <category lang="en">Science</category>
-  </programme>
-  <programme start="20220824120500 +0000" stop="20220824125000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Questions to An Taoiseach</title>
-    <sub-title lang="en">Questions to An Taoiseach Live</sub-title>
-    <desc lang="en">Where the Taoiseach, as Head of a Government Department, answers questions on those areas for which he has administrative responsibility.(n)</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs</category>
-    <icon src="https://tv.assets.pressassociation.io/5be73136-2489-5c20-968c-5ae92dd3c4af.jpg" />
-  </programme>
-  <programme start="20220824125000 +0000" stop="20220824135000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Seanad Eireann Live</title>
-    <category lang="en">Education</category>
-    <category lang="en">Science</category>
-  </programme>
-  <programme start="20220824135000 +0000" stop="20220824194500 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas</title>
-    <sub-title lang="en">Government Business Live</sub-title>
-    <desc lang="en">Legislation, Motions or Statements proposed by the Government.(n)</desc>
-    <category lang="en">Social</category>
-    <category lang="en">Political Issues</category>
-  </programme>
-  <programme start="20220824194500 +0000" stop="20220824204500 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Live Dáil Matters for Decision</title>
-    <desc lang="en">A period set aside for the taking of votes on motions that have been previously debated.(n)</desc>
-    <category lang="en">Education</category>
-    <category lang="en">Science</category>
-    <icon src="https://tv.assets.pressassociation.io/0849deae-8fde-57a2-bd6b-dd5295cf8278.jpg" />
-  </programme>
-  <programme start="20220824204500 +0000" stop="20220824213000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Leaders' Questions Replay</title>
-    <desc lang="en">Where Party Leaders and the Leaders of recognised technical groups can put a question to An Taoiseach without notice.(n)</desc>
-    <category lang="en">Special</category>
-    <icon src="https://tv.assets.pressassociation.io/c9fdd1d1-1bb5-587b-a14d-e76f3ba4ae28.jpg" />
-  </programme>
-  <programme start="20220824213000 +0000" stop="20220825040000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Seanad Éireann Replay</title>
-    <desc lang="en">Replay of current Seanad Éireann sittings.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220825040000 +0000" stop="20220825080000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas Replay</title>
-    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
-    <category lang="en">Special</category>
-  </programme>
-  <programme start="20220825080000 +0000" stop="20220825093000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Parliamentary Questions</title>
-    <sub-title lang="en">Parliamentary Questions Live</sub-title>
-    <category lang="en">Social</category>
-    <category lang="en">Political Issues</category>
-  </programme>
-  <programme start="20220825093000 +0000" stop="20220825110000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Parliamentary Questions</title>
-    <sub-title lang="en">Parliamentary Questions Live</sub-title>
-    <category lang="en">Social</category>
-    <category lang="en">Political Issues</category>
-  </programme>
-  <programme start="20220825110000 +0000" stop="20220825113500 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Leaders Questions Live</title>
-    <desc lang="en">When Party Leaders and Leaders of recognised technical groups can put a question to An Taoiseach without prior notice.(n)</desc>
-    <category lang="en">Special</category>
-    <icon src="https://tv.assets.pressassociation.io/bdebbdaf-7025-5c41-89c9-73a9a0a9bc1e.jpg" />
-  </programme>
-  <programme start="20220825113500 +0000" stop="20220825120500 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Questions on Promised Legislation Live</title>
-    <desc lang="en">Questions on Promised Legislation are limited to its progress and when the legislation is likely to be brought before the House for debate.(n)</desc>
-    <category lang="en">Education</category>
-    <category lang="en">Science</category>
-  </programme>
-  <programme start="20220825120500 +0000" stop="20220825124500 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Seanad Eireann Live</title>
-    <category lang="en">Education</category>
-    <category lang="en">Science</category>
-  </programme>
-  <programme start="20220825124500 +0000" stop="20220825182500 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Houses of the Oireachtas</title>
-    <sub-title lang="en">Government Business Live</sub-title>
-    <desc lang="en">Legislation, Motions or Statements proposed by the Government.(n)</desc>
-    <category lang="en">Social</category>
-    <category lang="en">Political Issues</category>
-  </programme>
-  <programme start="20220825182500 +0000" stop="20220825191000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Live Topical Issues</title>
-    <desc lang="en">When Deputies who have raised a matter which is topical either nationally or within their constituency are answered by a Member of the Government.(n)</desc>
-    <category lang="en">Social</category>
-    <category lang="en">Political Issues</category>
-    <icon src="https://tv.assets.pressassociation.io/284c4bb6-afe3-5683-8bce-6997de5f97e0.jpg" />
-  </programme>
-  <programme start="20220825191000 +0000" stop="20220825204500 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Private Members' Business</title>
-    <sub-title lang="en">Private Members' Business Live</sub-title>
-    <desc lang="en">Private Members Business is time set aside to debate a motion or legislation which is proposed by a party in opposition.(n)</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs</category>
-  </programme>
-  <programme start="20220825204500 +0000" stop="20220825213000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Leaders' Questions Replay</title>
-    <desc lang="en">Where Party Leaders and the Leaders of recognised technical groups can put a question to An Taoiseach without notice.(n)</desc>
-    <category lang="en">Special</category>
-    <icon src="https://tv.assets.pressassociation.io/c9fdd1d1-1bb5-587b-a14d-e76f3ba4ae28.jpg" />
-  </programme>
-  <programme start="20220825213000 +0000" stop="20220826040000 +0000" channel="OireachtasTV.c90">
-    <title lang="en">Seanad Éireann Replay</title>
-    <desc lang="en">Replay of current Seanad Éireann sittings.(n)</desc>
-    <category lang="en">Special</category>
+  <programme start="20220819011200 +0000" stop="20220819013200 +0000" channel="RedBullTV.c90">
+    <title lang="en">Mani's return</title>
+    <sub-title lang="en">Hard Lines – with Mani &amp; Bolts</sub-title>
+    <desc lang="en">Mani is back racing in round two after the injury, while Paul shows us how to prepare a Hard Enduro track.Mani Lettenbichler and Paul Bolton are in Serbia for round two of the FIM Hard Enduro World Championship. Mani is back racing after the injury while Paul shows us how to prepare a Hard Enduro track.(n)</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://resources.redbull.tv/rrn:content:episode-videos:b0aef4cf-0503-4f6a-9a50-83552b5ab411/rbtv_display_art_landscape/im:i:h_180,w_320,q_70,f_jpg" />
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="US">
+      <value>NR</value>
+    </rating>
   </programme>
 </tv>
