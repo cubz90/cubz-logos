@@ -50,9 +50,13 @@
     <icon src="https://static.sport.optus.com.au/images/optus-sport-yes.svg" />
     <url>http://www.sport.optus.com.au</url>
   </channel>
-  <channel id="Sony Entertainment TV Asia">
+  <channel id="SonyEntertainmentTVAsia.c90">
     <display-name lang="en">Sony Entertainment TV Asia</display-name>
     <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="OireachtasTV.c90">
+    <display-name lang="en">Oireachtas TV</display-name>
+    <url>http://www.rte.ie</url>
   </channel>
   <programme start="20220819100000 +0000" stop="20220819110000 +0000" channel="Optus Sport 1.c90">
     <title lang="en">Welcome to the Weekend</title>
@@ -220,6 +224,12 @@
     <desc lang="en">Season: 2022/2023. Sunday 28th August.(n)</desc>
     <category lang="en">Soccer</category>
     <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/f83c6ca3-42f8-4d70-9d14-587ba2f2bdd0_llmw3assetcleanelchereal-sociedad28aug1230am.png" />
+  </programme>
+  <programme start="20220829195000 +0000" stop="20220829220000 +0000" channel="Optus Sport 7.c90">
+    <title lang="en">Las Palmas v FC Andorra</title>
+    <desc lang="en">Tuesday 30th August.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/162c0c77-41d3-4000-8023-f99aa357b677_ll2mw3assetcleanlas-palmasfc-andorra30aug550am.png" />
   </programme>
   <programme start="20220820135000 +0000" stop="20220820160000 +0000" channel="Optus Sport 5.c90">
     <title lang="en">Leicester City v Southampton</title>
@@ -424,6 +434,20 @@
     <category lang="en">Soccer</category>
     <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/56f8362c-53d3-4a1c-bbce-7c28d9b02201_llmw3assetcleanespanyolreal-madrid29aug555am.png" />
   </programme>
+  <programme start="20220829170000 +0000" stop="20220829195500 +0000" channel="Optus Sport 2.c90">
+    <title lang="en">Cadiz v Athletic Club</title>
+    <sub-title lang="en">Primera División</sub-title>
+    <desc lang="en">Season: 2022/2023. Tuesday 30th August.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/c0f3d2aa-226d-4ce6-be2e-2026cde52655_llmw3assetcleancadizathletic-club30aug300am.png" />
+  </programme>
+  <programme start="20220829195500 +0000" stop="20220829230000 +0000" channel="Optus Sport 2.c90">
+    <title lang="en">Valencia v Atletico Madrid</title>
+    <sub-title lang="en">Primera División</sub-title>
+    <desc lang="en">Season: 2022/2023. Tuesday 30th August.(n)</desc>
+    <category lang="en">Soccer</category>
+    <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/3c1704c3-9604-41a0-9a44-22fbac4d160c_llmw3assetcleanvalenciaatletico30aug555am.png" />
+  </programme>
   <programme start="20220820135000 +0000" stop="20220820160000 +0000" channel="Optus Sport 6.c90">
     <title lang="en">Fulham v Brentford</title>
     <sub-title lang="en">Premier League</sub-title>
@@ -438,14 +462,14 @@
     <category lang="en">Soccer</category>
     <icon src="https://vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws.com/8119177a-10a2-4b13-85e1-96a074fad386_plmw4assetcleanbrentfordeverton27aug1150pm.png" />
   </programme>
-  <programme start="20220819063000 +0100" stop="20220819070000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220819063000 +0100" stop="20220819070000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Yashomati Maiyya Ke Nandlala</title>
     <desc lang="en">Many a story has been told about Krishna, but here's the story of Yashomati, her desire for a child, finding Krishna and the affectionate relationship between them.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/37b02d2f-99d6-526c-8c37-e16cf2d90486.jpg" />
     <episode-num system="onscreen">Season 1 Episode 52/</episode-num>
   </programme>
-  <programme start="20220819070000 +0100" stop="20220819073000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220819070000 +0100" stop="20220819073000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Punyashlok Ahilya Bai</title>
     <desc lang="en">The period drama set in the 18th century, based on the life of Ahilyabai Holkar, who with the support of her father-in-law Malhar Rao Holkar, defied the pre-defined norms of the patriarchal society.(n)</desc>
     <category lang="en">Historical</category>
@@ -453,39 +477,39 @@
     <icon src="https://images.tvguide.co.uk/pa/640/4bad63f2-5528-53ca-aadc-aa545eec6667.jpg" />
     <episode-num system="onscreen">Season 1 Episode 424/</episode-num>
   </programme>
-  <programme start="20220819073000 +0100" stop="20220819080000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220819073000 +0100" stop="20220819080000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Mere Sai - Shraddha Aur Saburi</title>
     <desc lang="en">This is the story of Shirdi Sai Baba. When Sai steps in, miracles happen. Follow his teachings of faith and patience in this devotional show.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/23455de6-2f28-5884-aa00-55f617df1e36.jpg" />
     <episode-num system="onscreen">Season 1 Episode 1201/</episode-num>
   </programme>
-  <programme start="20220819080000 +0100" stop="20220819083000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220819080000 +0100" stop="20220819083000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Vighnaharta Ganesh</title>
     <desc lang="en">The mythological story of Ganesh. Follow the interesting journey of how Ganesh became the elephant headed god and the destroyer of all obstacles.(n)</desc>
     <category lang="en">General</category>
     <episode-num system="onscreen">Season 1 Episode 726/</episode-num>
   </programme>
-  <programme start="20220819083000 +0100" stop="20220819091500 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220819083000 +0100" stop="20220819091500 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Vighnaharta Ganesh</title>
     <desc lang="en">The mythological story of Ganesh. Follow the interesting journey of how Ganesh became the elephant headed god and the destroyer of all obstacles.(n)</desc>
     <category lang="en">General</category>
     <episode-num system="onscreen">Season 1 Episode 727/</episode-num>
   </programme>
-  <programme start="20220819091500 +0100" stop="20220819100000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220819091500 +0100" stop="20220819100000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Vighnaharta Ganesh</title>
     <desc lang="en">The mythological story of Ganesh. Follow the interesting journey of how Ganesh became the elephant headed god and the destroyer of all obstacles.(n)</desc>
     <category lang="en">General</category>
     <episode-num system="onscreen">Season 1 Episode 728/</episode-num>
   </programme>
-  <programme start="20220819100000 +0100" stop="20220819103000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220819100000 +0100" stop="20220819103000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Yashomati Maiyya Ke Nandlala</title>
     <desc lang="en">Many a story has been told about Krishna, but here's the story of Yashomati, her desire for a child, finding Krishna and the affectionate relationship between them.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/37b02d2f-99d6-526c-8c37-e16cf2d90486.jpg" />
     <episode-num system="onscreen">Season 1 Episode 52/</episode-num>
   </programme>
-  <programme start="20220819103000 +0100" stop="20220819120000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220819103000 +0100" stop="20220819120000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Kaun Banega Crorepati</title>
     <desc lang="en">Kaun Banega Crorepati-2022 Amitabh Bachchan returns as the megastar host of the worlds' iconic quiz show and gives contestants the chance to take the 'Hot Seat' and win a life changing 70 million Rupees.(n)</desc>
     <category lang="en">Show</category>
@@ -493,20 +517,20 @@
     <icon src="https://images.tvguide.co.uk/pa/640/c81ae759-2ce4-5e5b-a104-ecb0e8292db1.jpg" />
     <episode-num system="onscreen">Season 2022 Episode 10/</episode-num>
   </programme>
-  <programme start="20220819120000 +0100" stop="20220819130000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220819120000 +0100" stop="20220819130000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Mann Mein Vishwaas Hai</title>
     <desc lang="en">This show deals with stories that are real-life incidents experienced by people. They mainly revolve around faith.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/700f685f-a3c7-58d1-bb2e-abbd3d4fe942.jpg" />
     <episode-num system="onscreen">Season 1 Episode 57/</episode-num>
   </programme>
-  <programme start="20220819130000 +0100" stop="20220819140000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220819130000 +0100" stop="20220819140000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Crime Patrol</title>
     <desc lang="en">Join India's police force in action as they deal with criminal activities around the country in this dramatisation of real life crime stories, narrated by Anup Soni.(n)</desc>
     <category lang="en">General</category>
     <episode-num system="onscreen">Season 1 Episode 451/</episode-num>
   </programme>
-  <programme start="20220819140000 +0100" stop="20220819153000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220819140000 +0100" stop="20220819153000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Superstar Singer</title>
     <desc lang="en">Children from across India are mentored and judged by famous playback singers from the Hindi film industry. They compete against each other in various rounds to win the coveted title and prize.(n)</desc>
     <category lang="en">Show</category>
@@ -514,21 +538,21 @@
     <icon src="https://images.tvguide.co.uk/pa/640/d479e0a9-1bf3-538b-961a-0a247f452866.jpg" />
     <episode-num system="onscreen">Season 1 Episode 27/</episode-num>
   </programme>
-  <programme start="20220819153000 +0100" stop="20220819160000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220819153000 +0100" stop="20220819160000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Appnapan - Badalate Rishton Ka Bandhan</title>
     <desc lang="en">Appnapan explores what happens when parents get divorced and the different ways this affects children and the challenges they face.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/e850f322-cafb-556c-9cc5-4321ccaca0f4.jpg" />
     <episode-num system="onscreen">Season 1 Episode 47/</episode-num>
   </programme>
-  <programme start="20220819160000 +0100" stop="20220819170000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220819160000 +0100" stop="20220819170000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Crime Patrol 2.0</title>
     <desc lang="en">Crime Patrol 2.0, the popular award-winning show is back! Watch as the Indian police force solve more dark crimes and dangerous criminal activity. Stay alert and make sure you watch the new series.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/6161536f-f328-511d-9fe7-b98463e1e0e1.jpg" />
     <episode-num system="onscreen">Season 1 Episode 114/</episode-num>
   </programme>
-  <programme start="20220819170000 +0100" stop="20220819183000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220819170000 +0100" stop="20220819183000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Kaun Banega Crorepati</title>
     <desc lang="en">Kaun Banega Crorepati-2022 Amitabh Bachchan returns as the megastar host of the worlds' iconic quiz show and gives contestants the chance to take the 'Hot Seat' and win a life changing 70 million Rupees.(n)</desc>
     <category lang="en">Show</category>
@@ -536,14 +560,14 @@
     <icon src="https://images.tvguide.co.uk/pa/640/c81ae759-2ce4-5e5b-a104-ecb0e8292db1.jpg" />
     <episode-num system="onscreen">Season 2022 Episode 10/</episode-num>
   </programme>
-  <programme start="20220819183000 +0100" stop="20220819190000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220819183000 +0100" stop="20220819190000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Appnapan - Badalate Rishton Ka Bandhan</title>
     <desc lang="en">Appnapan explores what happens when parents get divorced and the different ways this affects children and the challenges they face.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/e850f322-cafb-556c-9cc5-4321ccaca0f4.jpg" />
     <episode-num system="onscreen">Season 1 Episode 47/</episode-num>
   </programme>
-  <programme start="20220819190000 +0100" stop="20220819193000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220819190000 +0100" stop="20220819193000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Punyashlok Ahilya Bai</title>
     <desc lang="en">The period drama set in the 18th century, based on the life of Ahilyabai Holkar, who with the support of her father-in-law Malhar Rao Holkar, defied the pre-defined norms of the patriarchal society.(n)</desc>
     <category lang="en">Historical</category>
@@ -551,28 +575,28 @@
     <icon src="https://images.tvguide.co.uk/pa/640/4bad63f2-5528-53ca-aadc-aa545eec6667.jpg" />
     <episode-num system="onscreen">Season 1 Episode 425/</episode-num>
   </programme>
-  <programme start="20220819193000 +0100" stop="20220819200000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220819193000 +0100" stop="20220819200000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Mere Sai - Shraddha Aur Saburi</title>
     <desc lang="en">This is the story of Shirdi Sai Baba. When Sai steps in, miracles happen. Follow his teachings of faith and patience in this devotional show.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/23455de6-2f28-5884-aa00-55f617df1e36.jpg" />
     <episode-num system="onscreen">Season 1 Episode 1202/</episode-num>
   </programme>
-  <programme start="20220819200000 +0100" stop="20220819203000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220819200000 +0100" stop="20220819203000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Bade Achhe Lagte Hai - 2</title>
     <desc lang="en">Bade Acche Lagte Hai explores the world of 2 strangers who get married and eventually fall in love. Every time problems arise, their love, trust, and respect for each other grows stronger and deeper.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/d09ce826-0793-56e4-8ae3-f5517eeb7855.jpg" />
     <episode-num system="onscreen">Season 1 Episode 255/</episode-num>
   </programme>
-  <programme start="20220819203000 +0100" stop="20220819210000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220819203000 +0100" stop="20220819210000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Yashomati Maiyya Ke Nandlala</title>
     <desc lang="en">Many a story has been told about Krishna, but here's the story of Yashomati, her desire for a child, finding Krishna and the affectionate relationship between them.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/37b02d2f-99d6-526c-8c37-e16cf2d90486.jpg" />
     <episode-num system="onscreen">Season 1 Episode 53/</episode-num>
   </programme>
-  <programme start="20220819210000 +0100" stop="20220819223000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220819210000 +0100" stop="20220819223000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Kaun Banega Crorepati</title>
     <desc lang="en">Kaun Banega Crorepati-2022 Amitabh Bachchan returns as the megastar host of the worlds' iconic quiz show and gives contestants the chance to take the 'Hot Seat' and win a life changing 70 million Rupees.(n)</desc>
     <category lang="en">Show</category>
@@ -580,79 +604,79 @@
     <icon src="https://images.tvguide.co.uk/pa/640/c81ae759-2ce4-5e5b-a104-ecb0e8292db1.jpg" />
     <episode-num system="onscreen">Season 2022 Episode 11/</episode-num>
   </programme>
-  <programme start="20220819223000 +0100" stop="20220819230000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220819223000 +0100" stop="20220819230000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Appnapan - Badalate Rishton Ka Bandhan</title>
     <desc lang="en">Appnapan explores what happens when parents get divorced and the different ways this affects children and the challenges they face.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/e850f322-cafb-556c-9cc5-4321ccaca0f4.jpg" />
     <episode-num system="onscreen">Season 1 Episode 48/</episode-num>
   </programme>
-  <programme start="20220819230000 +0100" stop="20220820000000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220819230000 +0100" stop="20220820000000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Crime Patrol 2.0</title>
     <desc lang="en">Crime Patrol 2.0, the popular award-winning show is back! Watch as the Indian police force solve more dark crimes and dangerous criminal activity. Stay alert and make sure you watch the new series.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/6161536f-f328-511d-9fe7-b98463e1e0e1.jpg" />
     <episode-num system="onscreen">Season 1 Episode 119/</episode-num>
   </programme>
-  <programme start="20220820000000 +0100" stop="20220820010000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220820000000 +0100" stop="20220820010000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Crime Patrol</title>
     <desc lang="en">Join India's police force in action as they deal with criminal activities around the country in this dramatisation of real life crime stories, narrated by Anup Soni.(n)</desc>
     <category lang="en">General</category>
     <episode-num system="onscreen">Season 1 Episode 113/</episode-num>
   </programme>
-  <programme start="20220820010000 +0100" stop="20220820020000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220820010000 +0100" stop="20220820020000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Crime Patrol</title>
     <desc lang="en">Join India's police force in action as they deal with criminal activities around the country in this dramatisation of real life crime stories, narrated by Anup Soni.(n)</desc>
     <category lang="en">General</category>
     <episode-num system="onscreen">Season 1 Episode 114/</episode-num>
   </programme>
-  <programme start="20220820020000 +0100" stop="20220820030000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220820020000 +0100" stop="20220820030000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Crime Patrol</title>
     <desc lang="en">Join India's police force in action as they deal with criminal activities around the country in this dramatisation of real life crime stories, narrated by Anup Soni.(n)</desc>
     <category lang="en">General</category>
     <episode-num system="onscreen">Season 1 Episode 545/</episode-num>
   </programme>
-  <programme start="20220820030000 +0100" stop="20220820034500 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220820030000 +0100" stop="20220820034500 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Crime Patrol</title>
     <desc lang="en">Join India's police force in action as they deal with criminal activities around the country in this dramatisation of real life crime stories, narrated by Anup Soni.(n)</desc>
     <category lang="en">General</category>
     <episode-num system="onscreen">Season 1 Episode 546/</episode-num>
   </programme>
-  <programme start="20220820034500 +0100" stop="20220820043000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220820034500 +0100" stop="20220820043000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Crime Patrol</title>
     <desc lang="en">Join India's police force in action as they deal with criminal activities around the country in this dramatisation of real life crime stories, narrated by Anup Soni.(n)</desc>
     <category lang="en">General</category>
     <episode-num system="onscreen">Season 1 Episode 547/</episode-num>
   </programme>
-  <programme start="20220820043000 +0100" stop="20220820053000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220820043000 +0100" stop="20220820053000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Crime Patrol 2.0</title>
     <desc lang="en">Crime Patrol 2.0, the popular award-winning show is back! Watch as the Indian police force solve more dark crimes and dangerous criminal activity. Stay alert and make sure you watch the new series.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/6161536f-f328-511d-9fe7-b98463e1e0e1.jpg" />
     <episode-num system="onscreen">Season 1 Episode 119/</episode-num>
   </programme>
-  <programme start="20220820053000 +0100" stop="20220820060000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220820053000 +0100" stop="20220820060000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Appnapan - Badalate Rishton Ka Bandhan</title>
     <desc lang="en">Appnapan explores what happens when parents get divorced and the different ways this affects children and the challenges they face.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/e850f322-cafb-556c-9cc5-4321ccaca0f4.jpg" />
     <episode-num system="onscreen">Season 1 Episode 48/</episode-num>
   </programme>
-  <programme start="20220820060000 +0100" stop="20220820063000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220820060000 +0100" stop="20220820063000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Bade Achhe Lagte Hai - 2</title>
     <desc lang="en">Bade Acche Lagte Hai explores the world of 2 strangers who get married and eventually fall in love. Every time problems arise, their love, trust, and respect for each other grows stronger and deeper.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/d09ce826-0793-56e4-8ae3-f5517eeb7855.jpg" />
     <episode-num system="onscreen">Season 1 Episode 255/</episode-num>
   </programme>
-  <programme start="20220820063000 +0100" stop="20220820070000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220820063000 +0100" stop="20220820070000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Yashomati Maiyya Ke Nandlala</title>
     <desc lang="en">Many a story has been told about Krishna, but here's the story of Yashomati, her desire for a child, finding Krishna and the affectionate relationship between them.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/37b02d2f-99d6-526c-8c37-e16cf2d90486.jpg" />
     <episode-num system="onscreen">Season 1 Episode 53/</episode-num>
   </programme>
-  <programme start="20220820070000 +0100" stop="20220820073000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220820070000 +0100" stop="20220820073000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Punyashlok Ahilya Bai</title>
     <desc lang="en">The period drama set in the 18th century, based on the life of Ahilyabai Holkar, who with the support of her father-in-law Malhar Rao Holkar, defied the pre-defined norms of the patriarchal society.(n)</desc>
     <category lang="en">Historical</category>
@@ -660,39 +684,39 @@
     <icon src="https://images.tvguide.co.uk/pa/640/4bad63f2-5528-53ca-aadc-aa545eec6667.jpg" />
     <episode-num system="onscreen">Season 1 Episode 425/</episode-num>
   </programme>
-  <programme start="20220820073000 +0100" stop="20220820080000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220820073000 +0100" stop="20220820080000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Mere Sai - Shraddha Aur Saburi</title>
     <desc lang="en">This is the story of Shirdi Sai Baba. When Sai steps in, miracles happen. Follow his teachings of faith and patience in this devotional show.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/23455de6-2f28-5884-aa00-55f617df1e36.jpg" />
     <episode-num system="onscreen">Season 1 Episode 1202/</episode-num>
   </programme>
-  <programme start="20220820080000 +0100" stop="20220820083000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220820080000 +0100" stop="20220820083000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Vighnaharta Ganesh</title>
     <desc lang="en">The mythological story of Ganesh. Follow the interesting journey of how Ganesh became the elephant headed god and the destroyer of all obstacles.(n)</desc>
     <category lang="en">General</category>
     <episode-num system="onscreen">Season 1 Episode 729/</episode-num>
   </programme>
-  <programme start="20220820083000 +0100" stop="20220820091500 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220820083000 +0100" stop="20220820091500 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Vighnaharta Ganesh</title>
     <desc lang="en">The mythological story of Ganesh. Follow the interesting journey of how Ganesh became the elephant headed god and the destroyer of all obstacles.(n)</desc>
     <category lang="en">General</category>
     <episode-num system="onscreen">Season 1 Episode 730/</episode-num>
   </programme>
-  <programme start="20220820091500 +0100" stop="20220820100000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220820091500 +0100" stop="20220820100000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Vighnaharta Ganesh</title>
     <desc lang="en">The mythological story of Ganesh. Follow the interesting journey of how Ganesh became the elephant headed god and the destroyer of all obstacles.(n)</desc>
     <category lang="en">General</category>
     <episode-num system="onscreen">Season 1 Episode 731/</episode-num>
   </programme>
-  <programme start="20220820100000 +0100" stop="20220820110000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220820100000 +0100" stop="20220820110000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Mann Mein Vishwaas Hai</title>
     <desc lang="en">This show deals with stories that are real-life incidents experienced by people. They mainly revolve around faith.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/700f685f-a3c7-58d1-bb2e-abbd3d4fe942.jpg" />
     <episode-num system="onscreen">Season 1 Episode 46/</episode-num>
   </programme>
-  <programme start="20220820110000 +0100" stop="20220820123000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220820110000 +0100" stop="20220820123000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Kaun Banega Crorepati</title>
     <desc lang="en">Kaun Banega Crorepati-2022 Amitabh Bachchan returns as the megastar host of the worlds' iconic quiz show and gives contestants the chance to take the 'Hot Seat' and win a life changing 70 million Rupees.(n)</desc>
     <category lang="en">Show</category>
@@ -700,7 +724,7 @@
     <icon src="https://images.tvguide.co.uk/pa/640/c81ae759-2ce4-5e5b-a104-ecb0e8292db1.jpg" />
     <episode-num system="onscreen">Season 2022 Episode 9/</episode-num>
   </programme>
-  <programme start="20220820123000 +0100" stop="20220820140000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220820123000 +0100" stop="20220820140000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Kaun Banega Crorepati</title>
     <desc lang="en">Kaun Banega Crorepati-2022 Amitabh Bachchan returns as the megastar host of the worlds' iconic quiz show and gives contestants the chance to take the 'Hot Seat' and win a life changing 70 million Rupees.(n)</desc>
     <category lang="en">Show</category>
@@ -708,7 +732,7 @@
     <icon src="https://images.tvguide.co.uk/pa/640/c81ae759-2ce4-5e5b-a104-ecb0e8292db1.jpg" />
     <episode-num system="onscreen">Season 2022 Episode 8/</episode-num>
   </programme>
-  <programme start="20220820140000 +0100" stop="20220820153000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220820140000 +0100" stop="20220820153000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Superstar Singer</title>
     <desc lang="en">Children from across India are mentored and judged by famous playback singers from the Hindi film industry. They compete against each other in various rounds to win the coveted title and prize.(n)</desc>
     <category lang="en">Show</category>
@@ -716,7 +740,7 @@
     <icon src="https://images.tvguide.co.uk/pa/640/d479e0a9-1bf3-538b-961a-0a247f452866.jpg" />
     <episode-num system="onscreen">Season 2 Episode 34/</episode-num>
   </programme>
-  <programme start="20220820153000 +0100" stop="20220820170000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220820153000 +0100" stop="20220820170000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">The Kapil Sharma Show</title>
     <desc lang="en">The Kapil Sharma Show The king of stand-up comedy, Kapil Sharma, is joined with special celebrity guests each week to entertain viewers in this Indian Hindi talk show.(n)</desc>
     <category lang="en">Show</category>
@@ -724,14 +748,14 @@
     <icon src="https://images.tvguide.co.uk/pa/640/6933ceba-8c34-56bc-87e6-d416861b1bfe.jpg" />
     <episode-num system="onscreen">Season 1 Episode 15/</episode-num>
   </programme>
-  <programme start="20220820170000 +0100" stop="20220820183000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220820170000 +0100" stop="20220820183000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">India's Laughter Champion</title>
     <desc lang="en">The biggest platform for stand-up comedians from all over India competing to be crowned as India's Laughter Champion.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/a1c72cc3-6d91-5587-96ed-87484fb24ab9.jpg" />
     <episode-num system="onscreen">Season 1 Episode 17/</episode-num>
   </programme>
-  <programme start="20220820183000 +0100" stop="20220820200000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220820183000 +0100" stop="20220820200000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Superstar Singer</title>
     <desc lang="en">Children from across India are mentored and judged by famous playback singers from the Hindi film industry. They compete against each other in various rounds to win the coveted title and prize.(n)</desc>
     <category lang="en">Show</category>
@@ -739,7 +763,7 @@
     <icon src="https://images.tvguide.co.uk/pa/640/d479e0a9-1bf3-538b-961a-0a247f452866.jpg" />
     <episode-num system="onscreen">Season 2 Episode 34/</episode-num>
   </programme>
-  <programme start="20220820200000 +0100" stop="20220820213000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220820200000 +0100" stop="20220820213000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Superstar Singer</title>
     <desc lang="en">Children from across India are mentored and judged by famous playback singers from the Hindi film industry. They compete against each other in various rounds to win the coveted title and prize.(n)</desc>
     <category lang="en">Show</category>
@@ -747,14 +771,14 @@
     <icon src="https://images.tvguide.co.uk/pa/640/d479e0a9-1bf3-538b-961a-0a247f452866.jpg" />
     <episode-num system="onscreen">Season 2 Episode 35/</episode-num>
   </programme>
-  <programme start="20220820213000 +0100" stop="20220820230000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220820213000 +0100" stop="20220820230000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">India's Laughter Champion</title>
     <desc lang="en">The biggest platform for stand-up comedians from all over India competing to be crowned as India's Laughter Champion.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/a1c72cc3-6d91-5587-96ed-87484fb24ab9.jpg" />
     <episode-num system="onscreen">Season 1 Episode 18/</episode-num>
   </programme>
-  <programme start="20220820230000 +0100" stop="20220821003000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220820230000 +0100" stop="20220821003000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Superstar Singer</title>
     <desc lang="en">Children from across India are mentored and judged by famous playback singers from the Hindi film industry. They compete against each other in various rounds to win the coveted title and prize.(n)</desc>
     <category lang="en">Show</category>
@@ -762,38 +786,38 @@
     <icon src="https://images.tvguide.co.uk/pa/640/d479e0a9-1bf3-538b-961a-0a247f452866.jpg" />
     <episode-num system="onscreen">Season 2 Episode 35/</episode-num>
   </programme>
-  <programme start="20220821003000 +0100" stop="20220821020000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220821003000 +0100" stop="20220821020000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">India's Laughter Champion</title>
     <desc lang="en">The biggest platform for stand-up comedians from all over India competing to be crowned as India's Laughter Champion.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/a1c72cc3-6d91-5587-96ed-87484fb24ab9.jpg" />
     <episode-num system="onscreen">Season 1 Episode 18/</episode-num>
   </programme>
-  <programme start="20220821020000 +0100" stop="20220821030000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220821020000 +0100" stop="20220821030000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Crime Patrol</title>
     <desc lang="en">Join India's police force in action as they deal with criminal activities around the country in this dramatisation of real life crime stories, narrated by Anup Soni.(n)</desc>
     <category lang="en">General</category>
     <episode-num system="onscreen">Season 1 Episode 548/</episode-num>
   </programme>
-  <programme start="20220821030000 +0100" stop="20220821034500 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220821030000 +0100" stop="20220821034500 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Crime Patrol</title>
     <desc lang="en">Join India's police force in action as they deal with criminal activities around the country in this dramatisation of real life crime stories, narrated by Anup Soni.(n)</desc>
     <category lang="en">General</category>
     <episode-num system="onscreen">Season 1 Episode 549/</episode-num>
   </programme>
-  <programme start="20220821034500 +0100" stop="20220821043000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220821034500 +0100" stop="20220821043000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Crime Patrol</title>
     <desc lang="en">Join India's police force in action as they deal with criminal activities around the country in this dramatisation of real life crime stories, narrated by Anup Soni.(n)</desc>
     <category lang="en">General</category>
     <episode-num system="onscreen">Season 1 Episode 550/</episode-num>
   </programme>
-  <programme start="20220821043000 +0100" stop="20220821053000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220821043000 +0100" stop="20220821053000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Crime Patrol</title>
     <desc lang="en">Join India's police force in action as they deal with criminal activities around the country in this dramatisation of real life crime stories, narrated by Anup Soni.(n)</desc>
     <category lang="en">General</category>
     <episode-num system="onscreen">Season 1 Episode 551/</episode-num>
   </programme>
-  <programme start="20220821053000 +0100" stop="20220821070000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220821053000 +0100" stop="20220821070000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Superstar Singer</title>
     <desc lang="en">Children from across India are mentored and judged by famous playback singers from the Hindi film industry. They compete against each other in various rounds to win the coveted title and prize.(n)</desc>
     <category lang="en">Show</category>
@@ -801,49 +825,49 @@
     <icon src="https://images.tvguide.co.uk/pa/640/d479e0a9-1bf3-538b-961a-0a247f452866.jpg" />
     <episode-num system="onscreen">Season 2 Episode 35/</episode-num>
   </programme>
-  <programme start="20220821070000 +0100" stop="20220821083000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220821070000 +0100" stop="20220821083000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">India's Laughter Champion</title>
     <desc lang="en">The biggest platform for stand-up comedians from all over India competing to be crowned as India's Laughter Champion.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/a1c72cc3-6d91-5587-96ed-87484fb24ab9.jpg" />
     <episode-num system="onscreen">Season 1 Episode 18/</episode-num>
   </programme>
-  <programme start="20220821083000 +0100" stop="20220821090000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220821083000 +0100" stop="20220821090000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Yashomati Maiyya Ke Nandlala</title>
     <desc lang="en">Many a story has been told about Krishna, but here's the story of Yashomati, her desire for a child, finding Krishna and the affectionate relationship between them.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/37b02d2f-99d6-526c-8c37-e16cf2d90486.jpg" />
     <episode-num system="onscreen">Season 1 Episode 49/</episode-num>
   </programme>
-  <programme start="20220821090000 +0100" stop="20220821093000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220821090000 +0100" stop="20220821093000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Yashomati Maiyya Ke Nandlala</title>
     <desc lang="en">Many a story has been told about Krishna, but here's the story of Yashomati, her desire for a child, finding Krishna and the affectionate relationship between them.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/37b02d2f-99d6-526c-8c37-e16cf2d90486.jpg" />
     <episode-num system="onscreen">Season 1 Episode 50/</episode-num>
   </programme>
-  <programme start="20220821093000 +0100" stop="20220821100000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220821093000 +0100" stop="20220821100000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Yashomati Maiyya Ke Nandlala</title>
     <desc lang="en">Many a story has been told about Krishna, but here's the story of Yashomati, her desire for a child, finding Krishna and the affectionate relationship between them.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/37b02d2f-99d6-526c-8c37-e16cf2d90486.jpg" />
     <episode-num system="onscreen">Season 1 Episode 51/</episode-num>
   </programme>
-  <programme start="20220821100000 +0100" stop="20220821103000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220821100000 +0100" stop="20220821103000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Yashomati Maiyya Ke Nandlala</title>
     <desc lang="en">Many a story has been told about Krishna, but here's the story of Yashomati, her desire for a child, finding Krishna and the affectionate relationship between them.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/37b02d2f-99d6-526c-8c37-e16cf2d90486.jpg" />
     <episode-num system="onscreen">Season 1 Episode 52/</episode-num>
   </programme>
-  <programme start="20220821103000 +0100" stop="20220821110000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220821103000 +0100" stop="20220821110000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Yashomati Maiyya Ke Nandlala</title>
     <desc lang="en">Many a story has been told about Krishna, but here's the story of Yashomati, her desire for a child, finding Krishna and the affectionate relationship between them.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/37b02d2f-99d6-526c-8c37-e16cf2d90486.jpg" />
     <episode-num system="onscreen">Season 1 Episode 53/</episode-num>
   </programme>
-  <programme start="20220821110000 +0100" stop="20220821123000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220821110000 +0100" stop="20220821123000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Kaun Banega Crorepati</title>
     <desc lang="en">Kaun Banega Crorepati-2022 Amitabh Bachchan returns as the megastar host of the worlds' iconic quiz show and gives contestants the chance to take the 'Hot Seat' and win a life changing 70 million Rupees.(n)</desc>
     <category lang="en">Show</category>
@@ -851,7 +875,7 @@
     <icon src="https://images.tvguide.co.uk/pa/640/c81ae759-2ce4-5e5b-a104-ecb0e8292db1.jpg" />
     <episode-num system="onscreen">Season 2022 Episode 10/</episode-num>
   </programme>
-  <programme start="20220821123000 +0100" stop="20220821140000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220821123000 +0100" stop="20220821140000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Kaun Banega Crorepati</title>
     <desc lang="en">Kaun Banega Crorepati-2022 Amitabh Bachchan returns as the megastar host of the worlds' iconic quiz show and gives contestants the chance to take the 'Hot Seat' and win a life changing 70 million Rupees.(n)</desc>
     <category lang="en">Show</category>
@@ -859,7 +883,7 @@
     <icon src="https://images.tvguide.co.uk/pa/640/c81ae759-2ce4-5e5b-a104-ecb0e8292db1.jpg" />
     <episode-num system="onscreen">Season 2022 Episode 11/</episode-num>
   </programme>
-  <programme start="20220821140000 +0100" stop="20220821153000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220821140000 +0100" stop="20220821153000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Superstar Singer</title>
     <desc lang="en">Children from across India are mentored and judged by famous playback singers from the Hindi film industry. They compete against each other in various rounds to win the coveted title and prize.(n)</desc>
     <category lang="en">Show</category>
@@ -867,7 +891,7 @@
     <icon src="https://images.tvguide.co.uk/pa/640/d479e0a9-1bf3-538b-961a-0a247f452866.jpg" />
     <episode-num system="onscreen">Season 2 Episode 35/</episode-num>
   </programme>
-  <programme start="20220821153000 +0100" stop="20220821170000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220821153000 +0100" stop="20220821170000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">The Kapil Sharma Show</title>
     <desc lang="en">The king of stand-up comedy, Kapil Sharma, is joined with special celebrity guests each week to entertain viewers in this Indian Hindi talk show.(n)</desc>
     <category lang="en">Show</category>
@@ -875,14 +899,14 @@
     <icon src="https://images.tvguide.co.uk/pa/640/6933ceba-8c34-56bc-87e6-d416861b1bfe.jpg" />
     <episode-num system="onscreen">Season 1 Episode 49/</episode-num>
   </programme>
-  <programme start="20220821170000 +0100" stop="20220821183000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220821170000 +0100" stop="20220821183000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">India's Laughter Champion</title>
     <desc lang="en">The biggest platform for stand-up comedians from all over India competing to be crowned as India's Laughter Champion.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/a1c72cc3-6d91-5587-96ed-87484fb24ab9.jpg" />
     <episode-num system="onscreen">Season 1 Episode 18/</episode-num>
   </programme>
-  <programme start="20220821183000 +0100" stop="20220821200000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220821183000 +0100" stop="20220821200000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Superstar Singer</title>
     <desc lang="en">Children from across India are mentored and judged by famous playback singers from the Hindi film industry. They compete against each other in various rounds to win the coveted title and prize.(n)</desc>
     <category lang="en">Show</category>
@@ -890,7 +914,7 @@
     <icon src="https://images.tvguide.co.uk/pa/640/d479e0a9-1bf3-538b-961a-0a247f452866.jpg" />
     <episode-num system="onscreen">Season 2 Episode 35/</episode-num>
   </programme>
-  <programme start="20220821200000 +0100" stop="20220821213000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220821200000 +0100" stop="20220821213000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Superstar Singer</title>
     <desc lang="en">Children from across India are mentored and judged by famous playback singers from the Hindi film industry. They compete against each other in various rounds to win the coveted title and prize.(n)</desc>
     <category lang="en">Show</category>
@@ -898,14 +922,14 @@
     <icon src="https://images.tvguide.co.uk/pa/640/d479e0a9-1bf3-538b-961a-0a247f452866.jpg" />
     <episode-num system="onscreen">Season 2 Episode 36/</episode-num>
   </programme>
-  <programme start="20220821213000 +0100" stop="20220821230000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220821213000 +0100" stop="20220821230000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">India's Laughter Champion</title>
     <desc lang="en">The biggest platform for stand-up comedians from all over India competing to be crowned as India's Laughter Champion.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/a1c72cc3-6d91-5587-96ed-87484fb24ab9.jpg" />
     <episode-num system="onscreen">Season 1 Episode 19/</episode-num>
   </programme>
-  <programme start="20220821230000 +0100" stop="20220822003000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220821230000 +0100" stop="20220822003000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Superstar Singer</title>
     <desc lang="en">Children from across India are mentored and judged by famous playback singers from the Hindi film industry. They compete against each other in various rounds to win the coveted title and prize.(n)</desc>
     <category lang="en">Show</category>
@@ -913,26 +937,26 @@
     <icon src="https://images.tvguide.co.uk/pa/640/d479e0a9-1bf3-538b-961a-0a247f452866.jpg" />
     <episode-num system="onscreen">Season 2 Episode 36/</episode-num>
   </programme>
-  <programme start="20220822003000 +0100" stop="20220822020000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220822003000 +0100" stop="20220822020000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">India's Laughter Champion</title>
     <desc lang="en">The biggest platform for stand-up comedians from all over India competing to be crowned as India's Laughter Champion.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/a1c72cc3-6d91-5587-96ed-87484fb24ab9.jpg" />
     <episode-num system="onscreen">Season 1 Episode 19/</episode-num>
   </programme>
-  <programme start="20220822020000 +0100" stop="20220822030000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220822020000 +0100" stop="20220822030000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Crime Patrol</title>
     <desc lang="en">Join India's police force in action as they deal with criminal activities around the country in this dramatisation of real life crime stories, narrated by Anup Soni.(n)</desc>
     <category lang="en">General</category>
     <episode-num system="onscreen">Season 1 Episode 552/</episode-num>
   </programme>
-  <programme start="20220822030000 +0100" stop="20220822040000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220822030000 +0100" stop="20220822040000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Crime Patrol</title>
     <desc lang="en">Join India's police force in action as they deal with criminal activities around the country in this dramatisation of real life crime stories, narrated by Anup Soni.(n)</desc>
     <category lang="en">General</category>
     <episode-num system="onscreen">Season 1 Episode 553/</episode-num>
   </programme>
-  <programme start="20220822040000 +0100" stop="20220822053000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220822040000 +0100" stop="20220822053000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Superstar Singer</title>
     <desc lang="en">Children from across India are mentored and judged by famous playback singers from the Hindi film industry. They compete against each other in various rounds to win the coveted title and prize.(n)</desc>
     <category lang="en">Show</category>
@@ -940,21 +964,21 @@
     <icon src="https://images.tvguide.co.uk/pa/640/d479e0a9-1bf3-538b-961a-0a247f452866.jpg" />
     <episode-num system="onscreen">Season 2 Episode 36/</episode-num>
   </programme>
-  <programme start="20220822053000 +0100" stop="20220822070000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220822053000 +0100" stop="20220822070000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">India's Laughter Champion</title>
     <desc lang="en">The biggest platform for stand-up comedians from all over India competing to be crowned as India's Laughter Champion.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/a1c72cc3-6d91-5587-96ed-87484fb24ab9.jpg" />
     <episode-num system="onscreen">Season 1 Episode 19/</episode-num>
   </programme>
-  <programme start="20220822070000 +0100" stop="20220822073000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220822070000 +0100" stop="20220822073000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Mere Sai - Shraddha Aur Saburi</title>
     <desc lang="en">This is the story of Shirdi Sai Baba. When Sai steps in, miracles happen. Follow his teachings of faith and patience in this devotional show.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/23455de6-2f28-5884-aa00-55f617df1e36.jpg" />
     <episode-num system="onscreen">Season 1 Episode 1192/</episode-num>
   </programme>
-  <programme start="20220822073000 +0100" stop="20220822080000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220822073000 +0100" stop="20220822080000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Punyashlok Ahilya Bai</title>
     <desc lang="en">The period drama set in the 18th century, based on the life of Ahilyabai Holkar, who with the support of her father-in-law Malhar Rao Holkar, defied the pre-defined norms of the patriarchal society.(n)</desc>
     <category lang="en">Historical</category>
@@ -962,42 +986,42 @@
     <icon src="https://images.tvguide.co.uk/pa/640/4bad63f2-5528-53ca-aadc-aa545eec6667.jpg" />
     <episode-num system="onscreen">Season 1 Episode 415/</episode-num>
   </programme>
-  <programme start="20220822080000 +0100" stop="20220822082900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220822080000 +0100" stop="20220822082900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Bade Achhe Lagte Hai - 2</title>
     <desc lang="en">Bade Acche Lagte Hai explores the world of 2 strangers who get married and eventually fall in love. Every time problems arise, their love, trust, and respect for each other grows stronger and deeper.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/d09ce826-0793-56e4-8ae3-f5517eeb7855.jpg" />
     <episode-num system="onscreen">Season 1 Episode 245/</episode-num>
   </programme>
-  <programme start="20220822082900 +0100" stop="20220822093000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220822082900 +0100" stop="20220822093000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Yashomati Maiyya Ke Nandlala</title>
     <desc lang="en">Many a story has been told about Krishna, but here's the story of Yashomati, her desire for a child, finding Krishna and the affectionate relationship between them.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/37b02d2f-99d6-526c-8c37-e16cf2d90486.jpg" />
     <episode-num system="onscreen">Season 1 Episode 43/</episode-num>
   </programme>
-  <programme start="20220822093000 +0100" stop="20220822100000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220822093000 +0100" stop="20220822100000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Appnapan - Badalate Rishton Ka Bandhan</title>
     <desc lang="en">Appnapan explores what happens when parents get divorced and the different ways this affects children and the challenges they face.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/e850f322-cafb-556c-9cc5-4321ccaca0f4.jpg" />
     <episode-num system="onscreen">Season 1 Episode 38/</episode-num>
   </programme>
-  <programme start="20220822100000 +0100" stop="20220822110000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220822100000 +0100" stop="20220822110000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Crime Patrol 2.0</title>
     <desc lang="en">Crime Patrol 2.0, the popular award-winning show is back! Watch as the Indian police force solve more dark crimes and dangerous criminal activity. Stay alert and make sure you watch the new series.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/6161536f-f328-511d-9fe7-b98463e1e0e1.jpg" />
     <episode-num system="onscreen">Season 1 Episode 109/</episode-num>
   </programme>
-  <programme start="20220822110000 +0100" stop="20220822113000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220822110000 +0100" stop="20220822113000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Mere Sai - Shraddha Aur Saburi</title>
     <desc lang="en">This is the story of Shirdi Sai Baba. When Sai steps in, miracles happen. Follow his teachings of faith and patience in this devotional show.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/23455de6-2f28-5884-aa00-55f617df1e36.jpg" />
     <episode-num system="onscreen">Season 1 Episode 1192/</episode-num>
   </programme>
-  <programme start="20220822113000 +0100" stop="20220822120000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220822113000 +0100" stop="20220822120000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Punyashlok Ahilya Bai</title>
     <desc lang="en">The period drama set in the 18th century, based on the life of Ahilyabai Holkar, who with the support of her father-in-law Malhar Rao Holkar, defied the pre-defined norms of the patriarchal society.(n)</desc>
     <category lang="en">Historical</category>
@@ -1005,42 +1029,42 @@
     <icon src="https://images.tvguide.co.uk/pa/640/4bad63f2-5528-53ca-aadc-aa545eec6667.jpg" />
     <episode-num system="onscreen">Season 1 Episode 415/</episode-num>
   </programme>
-  <programme start="20220822120000 +0100" stop="20220822123000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220822120000 +0100" stop="20220822123000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Bade Achhe Lagte Hai - 2</title>
     <desc lang="en">Bade Acche Lagte Hai explores the world of 2 strangers who get married and eventually fall in love. Every time problems arise, their love, trust, and respect for each other grows stronger and deeper.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/d09ce826-0793-56e4-8ae3-f5517eeb7855.jpg" />
     <episode-num system="onscreen">Season 1 Episode 245/</episode-num>
   </programme>
-  <programme start="20220822123000 +0100" stop="20220822132900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220822123000 +0100" stop="20220822132900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Yashomati Maiyya Ke Nandlala</title>
     <desc lang="en">Many a story has been told about Krishna, but here's the story of Yashomati, her desire for a child, finding Krishna and the affectionate relationship between them.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/37b02d2f-99d6-526c-8c37-e16cf2d90486.jpg" />
     <episode-num system="onscreen">Season 1 Episode 43/</episode-num>
   </programme>
-  <programme start="20220822132900 +0100" stop="20220822135900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220822132900 +0100" stop="20220822135900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Appnapan - Badalate Rishton Ka Bandhan</title>
     <desc lang="en">Appnapan explores what happens when parents get divorced and the different ways this affects children and the challenges they face.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/e850f322-cafb-556c-9cc5-4321ccaca0f4.jpg" />
     <episode-num system="onscreen">Season 1 Episode 38/</episode-num>
   </programme>
-  <programme start="20220822135900 +0100" stop="20220822150000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220822135900 +0100" stop="20220822150000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Crime Patrol 2.0</title>
     <desc lang="en">Crime Patrol 2.0, the popular award-winning show is back! Watch as the Indian police force solve more dark crimes and dangerous criminal activity. Stay alert and make sure you watch the new series.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/6161536f-f328-511d-9fe7-b98463e1e0e1.jpg" />
     <episode-num system="onscreen">Season 1 Episode 109/</episode-num>
   </programme>
-  <programme start="20220822150000 +0100" stop="20220822153000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220822150000 +0100" stop="20220822153000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Mere Sai - Shraddha Aur Saburi</title>
     <desc lang="en">This is the story of Shirdi Sai Baba. When Sai steps in, miracles happen. Follow his teachings of faith and patience in this devotional show.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/23455de6-2f28-5884-aa00-55f617df1e36.jpg" />
     <episode-num system="onscreen">Season 1 Episode 1192/</episode-num>
   </programme>
-  <programme start="20220822153000 +0100" stop="20220822160000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220822153000 +0100" stop="20220822160000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Punyashlok Ahilya Bai</title>
     <desc lang="en">The period drama set in the 18th century, based on the life of Ahilyabai Holkar, who with the support of her father-in-law Malhar Rao Holkar, defied the pre-defined norms of the patriarchal society.(n)</desc>
     <category lang="en">Historical</category>
@@ -1048,42 +1072,42 @@
     <icon src="https://images.tvguide.co.uk/pa/640/4bad63f2-5528-53ca-aadc-aa545eec6667.jpg" />
     <episode-num system="onscreen">Season 1 Episode 415/</episode-num>
   </programme>
-  <programme start="20220822160000 +0100" stop="20220822162900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220822160000 +0100" stop="20220822162900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Bade Achhe Lagte Hai - 2</title>
     <desc lang="en">Bade Acche Lagte Hai explores the world of 2 strangers who get married and eventually fall in love. Every time problems arise, their love, trust, and respect for each other grows stronger and deeper.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/d09ce826-0793-56e4-8ae3-f5517eeb7855.jpg" />
     <episode-num system="onscreen">Season 1 Episode 245/</episode-num>
   </programme>
-  <programme start="20220822162900 +0100" stop="20220822172900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220822162900 +0100" stop="20220822172900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Yashomati Maiyya Ke Nandlala</title>
     <desc lang="en">Many a story has been told about Krishna, but here's the story of Yashomati, her desire for a child, finding Krishna and the affectionate relationship between them.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/37b02d2f-99d6-526c-8c37-e16cf2d90486.jpg" />
     <episode-num system="onscreen">Season 1 Episode 43/</episode-num>
   </programme>
-  <programme start="20220822172900 +0100" stop="20220822175900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220822172900 +0100" stop="20220822175900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Appnapan - Badalate Rishton Ka Bandhan</title>
     <desc lang="en">Appnapan explores what happens when parents get divorced and the different ways this affects children and the challenges they face.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/e850f322-cafb-556c-9cc5-4321ccaca0f4.jpg" />
     <episode-num system="onscreen">Season 1 Episode 38/</episode-num>
   </programme>
-  <programme start="20220822175900 +0100" stop="20220822185900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220822175900 +0100" stop="20220822185900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Crime Patrol 2.0</title>
     <desc lang="en">Crime Patrol 2.0, the popular award-winning show is back! Watch as the Indian police force solve more dark crimes and dangerous criminal activity. Stay alert and make sure you watch the new series.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/6161536f-f328-511d-9fe7-b98463e1e0e1.jpg" />
     <episode-num system="onscreen">Season 1 Episode 109/</episode-num>
   </programme>
-  <programme start="20220822185900 +0100" stop="20220822192900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220822185900 +0100" stop="20220822192900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Mere Sai - Shraddha Aur Saburi</title>
     <desc lang="en">This is the story of Shirdi Sai Baba. When Sai steps in, miracles happen. Follow his teachings of faith and patience in this devotional show.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/23455de6-2f28-5884-aa00-55f617df1e36.jpg" />
     <episode-num system="onscreen">Season 1 Episode 1193/</episode-num>
   </programme>
-  <programme start="20220822192900 +0100" stop="20220822195900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220822192900 +0100" stop="20220822195900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Punyashlok Ahilya Bai</title>
     <desc lang="en">The period drama set in the 18th century, based on the life of Ahilyabai Holkar, who with the support of her father-in-law Malhar Rao Holkar, defied the pre-defined norms of the patriarchal society.(n)</desc>
     <category lang="en">Historical</category>
@@ -1091,21 +1115,21 @@
     <icon src="https://images.tvguide.co.uk/pa/640/4bad63f2-5528-53ca-aadc-aa545eec6667.jpg" />
     <episode-num system="onscreen">Season 1 Episode 416/</episode-num>
   </programme>
-  <programme start="20220822195900 +0100" stop="20220822202900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220822195900 +0100" stop="20220822202900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Bade Achhe Lagte Hai - 2</title>
     <desc lang="en">Bade Acche Lagte Hai explores the world of 2 strangers who get married and eventually fall in love. Every time problems arise, their love, trust, and respect for each other grows stronger and deeper.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/d09ce826-0793-56e4-8ae3-f5517eeb7855.jpg" />
     <episode-num system="onscreen">Season 1 Episode 246/</episode-num>
   </programme>
-  <programme start="20220822202900 +0100" stop="20220822205900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220822202900 +0100" stop="20220822205900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Yashomati Maiyya Ke Nandlala</title>
     <desc lang="en">Many a story has been told about Krishna, but here's the story of Yashomati, her desire for a child, finding Krishna and the affectionate relationship between them.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/37b02d2f-99d6-526c-8c37-e16cf2d90486.jpg" />
     <episode-num system="onscreen">Season 1 Episode 44/</episode-num>
   </programme>
-  <programme start="20220822205900 +0100" stop="20220822222900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220822205900 +0100" stop="20220822222900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Kaun Banega Crorepati</title>
     <desc lang="en">Kaun Banega Crorepati - 2022 Amitabh Bachchan returns as the megastar host of the worlds' iconic quiz show and gives contestants the chance to take the 'Hot Seat' and win a life changing 70 million Rupees.(n)</desc>
     <category lang="en">Show</category>
@@ -1113,21 +1137,21 @@
     <icon src="https://images.tvguide.co.uk/pa/640/c81ae759-2ce4-5e5b-a104-ecb0e8292db1.jpg" />
     <episode-num system="onscreen">Season 2022 Episode 1/</episode-num>
   </programme>
-  <programme start="20220822222900 +0100" stop="20220822225900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220822222900 +0100" stop="20220822225900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Appnapan - Badalate Rishton Ka Bandhan</title>
     <desc lang="en">Appnapan explores what happens when parents get divorced and the different ways this affects children and the challenges they face.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/e850f322-cafb-556c-9cc5-4321ccaca0f4.jpg" />
     <episode-num system="onscreen">Season 1 Episode 39/</episode-num>
   </programme>
-  <programme start="20220822225900 +0100" stop="20220822235900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220822225900 +0100" stop="20220822235900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Crime Patrol 2.0</title>
     <desc lang="en">Crime Patrol 2.0, the popular award-winning show is back! Watch as the Indian police force solve more dark crimes and dangerous criminal activity. Stay alert and make sure you watch the new series.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/6161536f-f328-511d-9fe7-b98463e1e0e1.jpg" />
     <episode-num system="onscreen">Season 1 Episode 110/</episode-num>
   </programme>
-  <programme start="20220822235900 +0100" stop="20220823002900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220822235900 +0100" stop="20220823002900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Punyashlok Ahilya Bai</title>
     <desc lang="en">The period drama set in the 18th century, based on the life of Ahilyabai Holkar, who with the support of her father-in-law Malhar Rao Holkar, defied the pre-defined norms of the patriarchal society.(n)</desc>
     <category lang="en">Historical</category>
@@ -1135,21 +1159,21 @@
     <icon src="https://images.tvguide.co.uk/pa/640/4bad63f2-5528-53ca-aadc-aa545eec6667.jpg" />
     <episode-num system="onscreen">Season 1 Episode 416/</episode-num>
   </programme>
-  <programme start="20220823002900 +0100" stop="20220823005900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220823002900 +0100" stop="20220823005900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Bade Achhe Lagte Hai - 2</title>
     <desc lang="en">Bade Acche Lagte Hai explores the world of 2 strangers who get married and eventually fall in love. Every time problems arise, their love, trust, and respect for each other grows stronger and deeper.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/d09ce826-0793-56e4-8ae3-f5517eeb7855.jpg" />
     <episode-num system="onscreen">Season 1 Episode 246/</episode-num>
   </programme>
-  <programme start="20220823005900 +0100" stop="20220823012900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220823005900 +0100" stop="20220823012900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Yashomati Maiyya Ke Nandlala</title>
     <desc lang="en">Many a story has been told about Krishna, but here's the story of Yashomati, her desire for a child, finding Krishna and the affectionate relationship between them.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/37b02d2f-99d6-526c-8c37-e16cf2d90486.jpg" />
     <episode-num system="onscreen">Season 1 Episode 44/</episode-num>
   </programme>
-  <programme start="20220823012900 +0100" stop="20220823025900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220823012900 +0100" stop="20220823025900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Kaun Banega Crorepati</title>
     <desc lang="en">Kaun Banega Crorepati - 2022 Amitabh Bachchan returns as the megastar host of the worlds' iconic quiz show and gives contestants the chance to take the 'Hot Seat' and win a life changing 70 million Rupees.(n)</desc>
     <category lang="en">Show</category>
@@ -1157,21 +1181,21 @@
     <icon src="https://images.tvguide.co.uk/pa/640/c81ae759-2ce4-5e5b-a104-ecb0e8292db1.jpg" />
     <episode-num system="onscreen">Season 2022 Episode 1/</episode-num>
   </programme>
-  <programme start="20220823025900 +0100" stop="20220823032900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220823025900 +0100" stop="20220823032900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Appnapan - Badalate Rishton Ka Bandhan</title>
     <desc lang="en">Appnapan explores what happens when parents get divorced and the different ways this affects children and the challenges they face.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/e850f322-cafb-556c-9cc5-4321ccaca0f4.jpg" />
     <episode-num system="onscreen">Season 1 Episode 39/</episode-num>
   </programme>
-  <programme start="20220823032900 +0100" stop="20220823042900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220823032900 +0100" stop="20220823042900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Crime Patrol 2.0</title>
     <desc lang="en">Crime Patrol 2.0, the popular award-winning show is back! Watch as the Indian police force solve more dark crimes and dangerous criminal activity. Stay alert and make sure you watch the new series.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/6161536f-f328-511d-9fe7-b98463e1e0e1.jpg" />
     <episode-num system="onscreen">Season 1 Episode 110/</episode-num>
   </programme>
-  <programme start="20220823042900 +0100" stop="20220823045900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220823042900 +0100" stop="20220823045900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Punyashlok Ahilya Bai</title>
     <desc lang="en">The period drama set in the 18th century, based on the life of Ahilyabai Holkar, who with the support of her father-in-law Malhar Rao Holkar, defied the pre-defined norms of the patriarchal society.(n)</desc>
     <category lang="en">Historical</category>
@@ -1179,35 +1203,35 @@
     <icon src="https://images.tvguide.co.uk/pa/640/4bad63f2-5528-53ca-aadc-aa545eec6667.jpg" />
     <episode-num system="onscreen">Season 1 Episode 416/</episode-num>
   </programme>
-  <programme start="20220823045900 +0100" stop="20220823052900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220823045900 +0100" stop="20220823052900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Bade Achhe Lagte Hai - 2</title>
     <desc lang="en">Bade Acche Lagte Hai explores the world of 2 strangers who get married and eventually fall in love. Every time problems arise, their love, trust, and respect for each other grows stronger and deeper.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/d09ce826-0793-56e4-8ae3-f5517eeb7855.jpg" />
     <episode-num system="onscreen">Season 1 Episode 246/</episode-num>
   </programme>
-  <programme start="20220823052900 +0100" stop="20220823055900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220823052900 +0100" stop="20220823055900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Yashomati Maiyya Ke Nandlala</title>
     <desc lang="en">Many a story has been told about Krishna, but here's the story of Yashomati, her desire for a child, finding Krishna and the affectionate relationship between them.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/37b02d2f-99d6-526c-8c37-e16cf2d90486.jpg" />
     <episode-num system="onscreen">Season 1 Episode 44/</episode-num>
   </programme>
-  <programme start="20220823055900 +0100" stop="20220823065900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220823055900 +0100" stop="20220823065900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Crime Patrol 2.0</title>
     <desc lang="en">Crime Patrol 2.0, the popular award-winning show is back! Watch as the Indian police force solve more dark crimes and dangerous criminal activity. Stay alert and make sure you watch the new series.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/6161536f-f328-511d-9fe7-b98463e1e0e1.jpg" />
     <episode-num system="onscreen">Season 1 Episode 110/</episode-num>
   </programme>
-  <programme start="20220823065900 +0100" stop="20220823072900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220823065900 +0100" stop="20220823072900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Mere Sai - Shraddha Aur Saburi</title>
     <desc lang="en">This is the story of Shirdi Sai Baba. When Sai steps in, miracles happen. Follow his teachings of faith and patience in this devotional show.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/23455de6-2f28-5884-aa00-55f617df1e36.jpg" />
     <episode-num system="onscreen">Season 1 Episode 1193/</episode-num>
   </programme>
-  <programme start="20220823072900 +0100" stop="20220823075900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220823072900 +0100" stop="20220823075900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Punyashlok Ahilya Bai</title>
     <desc lang="en">The period drama set in the 18th century, based on the life of Ahilyabai Holkar, who with the support of her father-in-law Malhar Rao Holkar, defied the pre-defined norms of the patriarchal society.(n)</desc>
     <category lang="en">Historical</category>
@@ -1215,35 +1239,35 @@
     <icon src="https://images.tvguide.co.uk/pa/640/4bad63f2-5528-53ca-aadc-aa545eec6667.jpg" />
     <episode-num system="onscreen">Season 1 Episode 416/</episode-num>
   </programme>
-  <programme start="20220823075900 +0100" stop="20220823082900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220823075900 +0100" stop="20220823082900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Bade Achhe Lagte Hai - 2</title>
     <desc lang="en">Bade Acche Lagte Hai explores the world of 2 strangers who get married and eventually fall in love. Every time problems arise, their love, trust, and respect for each other grows stronger and deeper.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/d09ce826-0793-56e4-8ae3-f5517eeb7855.jpg" />
     <episode-num system="onscreen">Season 1 Episode 246/</episode-num>
   </programme>
-  <programme start="20220823082900 +0100" stop="20220823085900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220823082900 +0100" stop="20220823085900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Yashomati Maiyya Ke Nandlala</title>
     <desc lang="en">Many a story has been told about Krishna, but here's the story of Yashomati, her desire for a child, finding Krishna and the affectionate relationship between them.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/37b02d2f-99d6-526c-8c37-e16cf2d90486.jpg" />
     <episode-num system="onscreen">Season 1 Episode 44/</episode-num>
   </programme>
-  <programme start="20220823085900 +0100" stop="20220823092900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220823085900 +0100" stop="20220823092900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Appnapan - Badalate Rishton Ka Bandhan</title>
     <desc lang="en">Appnapan explores what happens when parents get divorced and the different ways this affects children and the challenges they face.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/e850f322-cafb-556c-9cc5-4321ccaca0f4.jpg" />
     <episode-num system="onscreen">Season 1 Episode 39/</episode-num>
   </programme>
-  <programme start="20220823092900 +0100" stop="20220823102900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220823092900 +0100" stop="20220823102900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Crime Patrol 2.0</title>
     <desc lang="en">Crime Patrol 2.0, the popular award-winning show is back! Watch as the Indian police force solve more dark crimes and dangerous criminal activity. Stay alert and make sure you watch the new series.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/6161536f-f328-511d-9fe7-b98463e1e0e1.jpg" />
     <episode-num system="onscreen">Season 1 Episode 110/</episode-num>
   </programme>
-  <programme start="20220823102900 +0100" stop="20220823105900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220823102900 +0100" stop="20220823105900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Punyashlok Ahilya Bai</title>
     <desc lang="en">The period drama set in the 18th century, based on the life of Ahilyabai Holkar, who with the support of her father-in-law Malhar Rao Holkar, defied the pre-defined norms of the patriarchal society.(n)</desc>
     <category lang="en">Historical</category>
@@ -1251,21 +1275,21 @@
     <icon src="https://images.tvguide.co.uk/pa/640/4bad63f2-5528-53ca-aadc-aa545eec6667.jpg" />
     <episode-num system="onscreen">Season 1 Episode 416/</episode-num>
   </programme>
-  <programme start="20220823105900 +0100" stop="20220823112900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220823105900 +0100" stop="20220823112900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Bade Achhe Lagte Hai - 2</title>
     <desc lang="en">Bade Acche Lagte Hai explores the world of 2 strangers who get married and eventually fall in love. Every time problems arise, their love, trust, and respect for each other grows stronger and deeper.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/d09ce826-0793-56e4-8ae3-f5517eeb7855.jpg" />
     <episode-num system="onscreen">Season 1 Episode 246/</episode-num>
   </programme>
-  <programme start="20220823112900 +0100" stop="20220823115900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220823112900 +0100" stop="20220823115900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Yashomati Maiyya Ke Nandlala</title>
     <desc lang="en">Many a story has been told about Krishna, but here's the story of Yashomati, her desire for a child, finding Krishna and the affectionate relationship between them.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/37b02d2f-99d6-526c-8c37-e16cf2d90486.jpg" />
     <episode-num system="onscreen">Season 1 Episode 44/</episode-num>
   </programme>
-  <programme start="20220823115900 +0100" stop="20220823132900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220823115900 +0100" stop="20220823132900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Kaun Banega Crorepati</title>
     <desc lang="en">Kaun Banega Crorepati - 2022 Amitabh Bachchan returns as the megastar host of the worlds' iconic quiz show and gives contestants the chance to take the 'Hot Seat' and win a life changing 70 million Rupees.(n)</desc>
     <category lang="en">Show</category>
@@ -1273,28 +1297,28 @@
     <icon src="https://images.tvguide.co.uk/pa/640/c81ae759-2ce4-5e5b-a104-ecb0e8292db1.jpg" />
     <episode-num system="onscreen">Season 2022 Episode 1/</episode-num>
   </programme>
-  <programme start="20220823132900 +0100" stop="20220823135900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220823132900 +0100" stop="20220823135900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Appnapan - Badalate Rishton Ka Bandhan</title>
     <desc lang="en">Appnapan explores what happens when parents get divorced and the different ways this affects children and the challenges they face.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/e850f322-cafb-556c-9cc5-4321ccaca0f4.jpg" />
     <episode-num system="onscreen">Season 1 Episode 39/</episode-num>
   </programme>
-  <programme start="20220823135900 +0100" stop="20220823145900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220823135900 +0100" stop="20220823145900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Crime Patrol 2.0</title>
     <desc lang="en">Crime Patrol 2.0, the popular award-winning show is back! Watch as the Indian police force solve more dark crimes and dangerous criminal activity. Stay alert and make sure you watch the new series.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/6161536f-f328-511d-9fe7-b98463e1e0e1.jpg" />
     <episode-num system="onscreen">Season 1 Episode 110/</episode-num>
   </programme>
-  <programme start="20220823145900 +0100" stop="20220823152900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220823145900 +0100" stop="20220823152900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Mere Sai - Shraddha Aur Saburi</title>
     <desc lang="en">This is the story of Shirdi Sai Baba. When Sai steps in, miracles happen. Follow his teachings of faith and patience in this devotional show.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/23455de6-2f28-5884-aa00-55f617df1e36.jpg" />
     <episode-num system="onscreen">Season 1 Episode 1193/</episode-num>
   </programme>
-  <programme start="20220823152900 +0100" stop="20220823155900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220823152900 +0100" stop="20220823155900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Punyashlok Ahilya Bai</title>
     <desc lang="en">The period drama set in the 18th century, based on the life of Ahilyabai Holkar, who with the support of her father-in-law Malhar Rao Holkar, defied the pre-defined norms of the patriarchal society.(n)</desc>
     <category lang="en">Historical</category>
@@ -1302,28 +1326,28 @@
     <icon src="https://images.tvguide.co.uk/pa/640/4bad63f2-5528-53ca-aadc-aa545eec6667.jpg" />
     <episode-num system="onscreen">Season 1 Episode 416/</episode-num>
   </programme>
-  <programme start="20220823155900 +0100" stop="20220823162900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220823155900 +0100" stop="20220823162900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Bade Achhe Lagte Hai - 2</title>
     <desc lang="en">Bade Acche Lagte Hai explores the world of 2 strangers who get married and eventually fall in love. Every time problems arise, their love, trust, and respect for each other grows stronger and deeper.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/d09ce826-0793-56e4-8ae3-f5517eeb7855.jpg" />
     <episode-num system="onscreen">Season 1 Episode 246/</episode-num>
   </programme>
-  <programme start="20220823162900 +0100" stop="20220823170000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220823162900 +0100" stop="20220823170000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Yashomati Maiyya Ke Nandlala</title>
     <desc lang="en">Many a story has been told about Krishna, but here's the story of Yashomati, her desire for a child, finding Krishna and the affectionate relationship between them.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/37b02d2f-99d6-526c-8c37-e16cf2d90486.jpg" />
     <episode-num system="onscreen">Season 1 Episode 44/</episode-num>
   </programme>
-  <programme start="20220823170000 +0100" stop="20220823172900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220823170000 +0100" stop="20220823172900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Appnapan - Badalate Rishton Ka Bandhan</title>
     <desc lang="en">Appnapan explores what happens when parents get divorced and the different ways this affects children and the challenges they face.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/e850f322-cafb-556c-9cc5-4321ccaca0f4.jpg" />
     <episode-num system="onscreen">Season 1 Episode 39/</episode-num>
   </programme>
-  <programme start="20220823172900 +0100" stop="20220823185900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220823172900 +0100" stop="20220823185900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Kaun Banega Crorepati</title>
     <desc lang="en">Kaun Banega Crorepati - 2022 Amitabh Bachchan returns as the megastar host of the worlds' iconic quiz show and gives contestants the chance to take the 'Hot Seat' and win a life changing 70 million Rupees.(n)</desc>
     <category lang="en">Show</category>
@@ -1331,14 +1355,14 @@
     <icon src="https://images.tvguide.co.uk/pa/640/c81ae759-2ce4-5e5b-a104-ecb0e8292db1.jpg" />
     <episode-num system="onscreen">Season 2022 Episode 1/</episode-num>
   </programme>
-  <programme start="20220823185900 +0100" stop="20220823192900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220823185900 +0100" stop="20220823192900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Mere Sai - Shraddha Aur Saburi</title>
     <desc lang="en">This is the story of Shirdi Sai Baba. When Sai steps in, miracles happen. Follow his teachings of faith and patience in this devotional show.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/23455de6-2f28-5884-aa00-55f617df1e36.jpg" />
     <episode-num system="onscreen">Season 1 Episode 1194/</episode-num>
   </programme>
-  <programme start="20220823192900 +0100" stop="20220823195900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220823192900 +0100" stop="20220823195900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Punyashlok Ahilya Bai</title>
     <desc lang="en">The period drama set in the 18th century, based on the life of Ahilyabai Holkar, who with the support of her father-in-law Malhar Rao Holkar, defied the pre-defined norms of the patriarchal society.(n)</desc>
     <category lang="en">Historical</category>
@@ -1346,21 +1370,21 @@
     <icon src="https://images.tvguide.co.uk/pa/640/4bad63f2-5528-53ca-aadc-aa545eec6667.jpg" />
     <episode-num system="onscreen">Season 1 Episode 417/</episode-num>
   </programme>
-  <programme start="20220823195900 +0100" stop="20220823202900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220823195900 +0100" stop="20220823202900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Bade Achhe Lagte Hai - 2</title>
     <desc lang="en">Bade Acche Lagte Hai explores the world of 2 strangers who get married and eventually fall in love. Every time problems arise, their love, trust, and respect for each other grows stronger and deeper.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/d09ce826-0793-56e4-8ae3-f5517eeb7855.jpg" />
     <episode-num system="onscreen">Season 1 Episode 247/</episode-num>
   </programme>
-  <programme start="20220823202900 +0100" stop="20220823205900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220823202900 +0100" stop="20220823205900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Yashomati Maiyya Ke Nandlala</title>
     <desc lang="en">Many a story has been told about Krishna, but here's the story of Yashomati, her desire for a child, finding Krishna and the affectionate relationship between them.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/37b02d2f-99d6-526c-8c37-e16cf2d90486.jpg" />
     <episode-num system="onscreen">Season 1 Episode 45/</episode-num>
   </programme>
-  <programme start="20220823205900 +0100" stop="20220823222900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220823205900 +0100" stop="20220823222900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Kaun Banega Crorepati</title>
     <desc lang="en">Kaun Banega Crorepati - 2022 Amitabh Bachchan returns as the megastar host of the worlds' iconic quiz show and gives contestants the chance to take the 'Hot Seat' and win a life changing 70 million Rupees.(n)</desc>
     <category lang="en">Show</category>
@@ -1368,21 +1392,21 @@
     <icon src="https://images.tvguide.co.uk/pa/640/c81ae759-2ce4-5e5b-a104-ecb0e8292db1.jpg" />
     <episode-num system="onscreen">Season 2022 Episode 1/</episode-num>
   </programme>
-  <programme start="20220823222900 +0100" stop="20220823225900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220823222900 +0100" stop="20220823225900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Appnapan - Badalate Rishton Ka Bandhan</title>
     <desc lang="en">Appnapan explores what happens when parents get divorced and the different ways this affects children and the challenges they face.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/e850f322-cafb-556c-9cc5-4321ccaca0f4.jpg" />
     <episode-num system="onscreen">Season 1 Episode 40/</episode-num>
   </programme>
-  <programme start="20220823225900 +0100" stop="20220823235900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220823225900 +0100" stop="20220823235900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Crime Patrol 2.0</title>
     <desc lang="en">Crime Patrol 2.0, the popular award-winning show is back! Watch as the Indian police force solve more dark crimes and dangerous criminal activity. Stay alert and make sure you watch the new series.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/6161536f-f328-511d-9fe7-b98463e1e0e1.jpg" />
     <episode-num system="onscreen">Season 1 Episode 111/</episode-num>
   </programme>
-  <programme start="20220823235900 +0100" stop="20220824002900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220823235900 +0100" stop="20220824002900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Punyashlok Ahilya Bai</title>
     <desc lang="en">The period drama set in the 18th century, based on the life of Ahilyabai Holkar, who with the support of her father-in-law Malhar Rao Holkar, defied the pre-defined norms of the patriarchal society.(n)</desc>
     <category lang="en">Historical</category>
@@ -1390,21 +1414,21 @@
     <icon src="https://images.tvguide.co.uk/pa/640/4bad63f2-5528-53ca-aadc-aa545eec6667.jpg" />
     <episode-num system="onscreen">Season 1 Episode 417/</episode-num>
   </programme>
-  <programme start="20220824002900 +0100" stop="20220824005900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220824002900 +0100" stop="20220824005900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Bade Achhe Lagte Hai - 2</title>
     <desc lang="en">Bade Acche Lagte Hai explores the world of 2 strangers who get married and eventually fall in love. Every time problems arise, their love, trust, and respect for each other grows stronger and deeper.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/d09ce826-0793-56e4-8ae3-f5517eeb7855.jpg" />
     <episode-num system="onscreen">Season 1 Episode 247/</episode-num>
   </programme>
-  <programme start="20220824005900 +0100" stop="20220824012900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220824005900 +0100" stop="20220824012900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Yashomati Maiyya Ke Nandlala</title>
     <desc lang="en">Many a story has been told about Krishna, but here's the story of Yashomati, her desire for a child, finding Krishna and the affectionate relationship between them.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/37b02d2f-99d6-526c-8c37-e16cf2d90486.jpg" />
     <episode-num system="onscreen">Season 1 Episode 45/</episode-num>
   </programme>
-  <programme start="20220824012900 +0100" stop="20220824025900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220824012900 +0100" stop="20220824025900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Kaun Banega Crorepati</title>
     <desc lang="en">Kaun Banega Crorepati - 2022 Amitabh Bachchan returns as the megastar host of the worlds' iconic quiz show and gives contestants the chance to take the 'Hot Seat' and win a life changing 70 million Rupees.(n)</desc>
     <category lang="en">Show</category>
@@ -1412,21 +1436,21 @@
     <icon src="https://images.tvguide.co.uk/pa/640/c81ae759-2ce4-5e5b-a104-ecb0e8292db1.jpg" />
     <episode-num system="onscreen">Season 2022 Episode 1/</episode-num>
   </programme>
-  <programme start="20220824025900 +0100" stop="20220824032900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220824025900 +0100" stop="20220824032900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Appnapan - Badalate Rishton Ka Bandhan</title>
     <desc lang="en">Appnapan explores what happens when parents get divorced and the different ways this affects children and the challenges they face.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/e850f322-cafb-556c-9cc5-4321ccaca0f4.jpg" />
     <episode-num system="onscreen">Season 1 Episode 40/</episode-num>
   </programme>
-  <programme start="20220824032900 +0100" stop="20220824042900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220824032900 +0100" stop="20220824042900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Crime Patrol 2.0</title>
     <desc lang="en">Crime Patrol 2.0, the popular award-winning show is back! Watch as the Indian police force solve more dark crimes and dangerous criminal activity. Stay alert and make sure you watch the new series.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/6161536f-f328-511d-9fe7-b98463e1e0e1.jpg" />
     <episode-num system="onscreen">Season 1 Episode 111/</episode-num>
   </programme>
-  <programme start="20220824042900 +0100" stop="20220824045900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220824042900 +0100" stop="20220824045900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Punyashlok Ahilya Bai</title>
     <desc lang="en">The period drama set in the 18th century, based on the life of Ahilyabai Holkar, who with the support of her father-in-law Malhar Rao Holkar, defied the pre-defined norms of the patriarchal society.(n)</desc>
     <category lang="en">Historical</category>
@@ -1434,35 +1458,35 @@
     <icon src="https://images.tvguide.co.uk/pa/640/4bad63f2-5528-53ca-aadc-aa545eec6667.jpg" />
     <episode-num system="onscreen">Season 1 Episode 417/</episode-num>
   </programme>
-  <programme start="20220824045900 +0100" stop="20220824052900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220824045900 +0100" stop="20220824052900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Bade Achhe Lagte Hai - 2</title>
     <desc lang="en">Bade Acche Lagte Hai explores the world of 2 strangers who get married and eventually fall in love. Every time problems arise, their love, trust, and respect for each other grows stronger and deeper.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/d09ce826-0793-56e4-8ae3-f5517eeb7855.jpg" />
     <episode-num system="onscreen">Season 1 Episode 247/</episode-num>
   </programme>
-  <programme start="20220824052900 +0100" stop="20220824055900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220824052900 +0100" stop="20220824055900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Yashomati Maiyya Ke Nandlala</title>
     <desc lang="en">Many a story has been told about Krishna, but here's the story of Yashomati, her desire for a child, finding Krishna and the affectionate relationship between them.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/37b02d2f-99d6-526c-8c37-e16cf2d90486.jpg" />
     <episode-num system="onscreen">Season 1 Episode 45/</episode-num>
   </programme>
-  <programme start="20220824055900 +0100" stop="20220824065900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220824055900 +0100" stop="20220824065900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Crime Patrol 2.0</title>
     <desc lang="en">Crime Patrol 2.0, the popular award-winning show is back! Watch as the Indian police force solve more dark crimes and dangerous criminal activity. Stay alert and make sure you watch the new series.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/6161536f-f328-511d-9fe7-b98463e1e0e1.jpg" />
     <episode-num system="onscreen">Season 1 Episode 111/</episode-num>
   </programme>
-  <programme start="20220824065900 +0100" stop="20220824072900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220824065900 +0100" stop="20220824072900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Mere Sai - Shraddha Aur Saburi</title>
     <desc lang="en">This is the story of Shirdi Sai Baba. When Sai steps in, miracles happen. Follow his teachings of faith and patience in this devotional show.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/23455de6-2f28-5884-aa00-55f617df1e36.jpg" />
     <episode-num system="onscreen">Season 1 Episode 1194/</episode-num>
   </programme>
-  <programme start="20220824072900 +0100" stop="20220824075900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220824072900 +0100" stop="20220824075900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Punyashlok Ahilya Bai</title>
     <desc lang="en">The period drama set in the 18th century, based on the life of Ahilyabai Holkar, who with the support of her father-in-law Malhar Rao Holkar, defied the pre-defined norms of the patriarchal society.(n)</desc>
     <category lang="en">Historical</category>
@@ -1470,35 +1494,35 @@
     <icon src="https://images.tvguide.co.uk/pa/640/4bad63f2-5528-53ca-aadc-aa545eec6667.jpg" />
     <episode-num system="onscreen">Season 1 Episode 417/</episode-num>
   </programme>
-  <programme start="20220824075900 +0100" stop="20220824082900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220824075900 +0100" stop="20220824082900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Bade Achhe Lagte Hai - 2</title>
     <desc lang="en">Bade Acche Lagte Hai explores the world of 2 strangers who get married and eventually fall in love. Every time problems arise, their love, trust, and respect for each other grows stronger and deeper.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/d09ce826-0793-56e4-8ae3-f5517eeb7855.jpg" />
     <episode-num system="onscreen">Season 1 Episode 247/</episode-num>
   </programme>
-  <programme start="20220824082900 +0100" stop="20220824085900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220824082900 +0100" stop="20220824085900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Yashomati Maiyya Ke Nandlala</title>
     <desc lang="en">Many a story has been told about Krishna, but here's the story of Yashomati, her desire for a child, finding Krishna and the affectionate relationship between them.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/37b02d2f-99d6-526c-8c37-e16cf2d90486.jpg" />
     <episode-num system="onscreen">Season 1 Episode 45/</episode-num>
   </programme>
-  <programme start="20220824085900 +0100" stop="20220824092900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220824085900 +0100" stop="20220824092900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Appnapan - Badalate Rishton Ka Bandhan</title>
     <desc lang="en">Appnapan explores what happens when parents get divorced and the different ways this affects children and the challenges they face.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/e850f322-cafb-556c-9cc5-4321ccaca0f4.jpg" />
     <episode-num system="onscreen">Season 1 Episode 40/</episode-num>
   </programme>
-  <programme start="20220824092900 +0100" stop="20220824102900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220824092900 +0100" stop="20220824102900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Crime Patrol 2.0</title>
     <desc lang="en">Crime Patrol 2.0, the popular award-winning show is back! Watch as the Indian police force solve more dark crimes and dangerous criminal activity. Stay alert and make sure you watch the new series.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/6161536f-f328-511d-9fe7-b98463e1e0e1.jpg" />
     <episode-num system="onscreen">Season 1 Episode 111/</episode-num>
   </programme>
-  <programme start="20220824102900 +0100" stop="20220824105900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220824102900 +0100" stop="20220824105900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Punyashlok Ahilya Bai</title>
     <desc lang="en">The period drama set in the 18th century, based on the life of Ahilyabai Holkar, who with the support of her father-in-law Malhar Rao Holkar, defied the pre-defined norms of the patriarchal society.(n)</desc>
     <category lang="en">Historical</category>
@@ -1506,21 +1530,21 @@
     <icon src="https://images.tvguide.co.uk/pa/640/4bad63f2-5528-53ca-aadc-aa545eec6667.jpg" />
     <episode-num system="onscreen">Season 1 Episode 417/</episode-num>
   </programme>
-  <programme start="20220824105900 +0100" stop="20220824112900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220824105900 +0100" stop="20220824112900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Bade Achhe Lagte Hai - 2</title>
     <desc lang="en">Bade Acche Lagte Hai explores the world of 2 strangers who get married and eventually fall in love. Every time problems arise, their love, trust, and respect for each other grows stronger and deeper.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/d09ce826-0793-56e4-8ae3-f5517eeb7855.jpg" />
     <episode-num system="onscreen">Season 1 Episode 247/</episode-num>
   </programme>
-  <programme start="20220824112900 +0100" stop="20220824115900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220824112900 +0100" stop="20220824115900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Yashomati Maiyya Ke Nandlala</title>
     <desc lang="en">Many a story has been told about Krishna, but here's the story of Yashomati, her desire for a child, finding Krishna and the affectionate relationship between them.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/37b02d2f-99d6-526c-8c37-e16cf2d90486.jpg" />
     <episode-num system="onscreen">Season 1 Episode 45/</episode-num>
   </programme>
-  <programme start="20220824115900 +0100" stop="20220824132900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220824115900 +0100" stop="20220824132900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Kaun Banega Crorepati</title>
     <desc lang="en">Kaun Banega Crorepati - 2022 Amitabh Bachchan returns as the megastar host of the worlds' iconic quiz show and gives contestants the chance to take the 'Hot Seat' and win a life changing 70 million Rupees.(n)</desc>
     <category lang="en">Show</category>
@@ -1528,28 +1552,28 @@
     <icon src="https://images.tvguide.co.uk/pa/640/c81ae759-2ce4-5e5b-a104-ecb0e8292db1.jpg" />
     <episode-num system="onscreen">Season 2022 Episode 1/</episode-num>
   </programme>
-  <programme start="20220824132900 +0100" stop="20220824135900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220824132900 +0100" stop="20220824135900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Appnapan - Badalate Rishton Ka Bandhan</title>
     <desc lang="en">Appnapan explores what happens when parents get divorced and the different ways this affects children and the challenges they face.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/e850f322-cafb-556c-9cc5-4321ccaca0f4.jpg" />
     <episode-num system="onscreen">Season 1 Episode 40/</episode-num>
   </programme>
-  <programme start="20220824135900 +0100" stop="20220824145900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220824135900 +0100" stop="20220824145900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Crime Patrol 2.0</title>
     <desc lang="en">Crime Patrol 2.0, the popular award-winning show is back! Watch as the Indian police force solve more dark crimes and dangerous criminal activity. Stay alert and make sure you watch the new series.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/6161536f-f328-511d-9fe7-b98463e1e0e1.jpg" />
     <episode-num system="onscreen">Season 1 Episode 111/</episode-num>
   </programme>
-  <programme start="20220824145900 +0100" stop="20220824152900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220824145900 +0100" stop="20220824152900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Mere Sai - Shraddha Aur Saburi</title>
     <desc lang="en">This is the story of Shirdi Sai Baba. When Sai steps in, miracles happen. Follow his teachings of faith and patience in this devotional show.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/23455de6-2f28-5884-aa00-55f617df1e36.jpg" />
     <episode-num system="onscreen">Season 1 Episode 1194/</episode-num>
   </programme>
-  <programme start="20220824152900 +0100" stop="20220824155900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220824152900 +0100" stop="20220824155900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Punyashlok Ahilya Bai</title>
     <desc lang="en">The period drama set in the 18th century, based on the life of Ahilyabai Holkar, who with the support of her father-in-law Malhar Rao Holkar, defied the pre-defined norms of the patriarchal society.(n)</desc>
     <category lang="en">Historical</category>
@@ -1557,28 +1581,28 @@
     <icon src="https://images.tvguide.co.uk/pa/640/4bad63f2-5528-53ca-aadc-aa545eec6667.jpg" />
     <episode-num system="onscreen">Season 1 Episode 417/</episode-num>
   </programme>
-  <programme start="20220824155900 +0100" stop="20220824162900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220824155900 +0100" stop="20220824162900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Bade Achhe Lagte Hai - 2</title>
     <desc lang="en">Bade Acche Lagte Hai explores the world of 2 strangers who get married and eventually fall in love. Every time problems arise, their love, trust, and respect for each other grows stronger and deeper.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/d09ce826-0793-56e4-8ae3-f5517eeb7855.jpg" />
     <episode-num system="onscreen">Season 1 Episode 247/</episode-num>
   </programme>
-  <programme start="20220824162900 +0100" stop="20220824170000 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220824162900 +0100" stop="20220824170000 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Yashomati Maiyya Ke Nandlala</title>
     <desc lang="en">Many a story has been told about Krishna, but here's the story of Yashomati, her desire for a child, finding Krishna and the affectionate relationship between them.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/37b02d2f-99d6-526c-8c37-e16cf2d90486.jpg" />
     <episode-num system="onscreen">Season 1 Episode 45/</episode-num>
   </programme>
-  <programme start="20220824170000 +0100" stop="20220824172900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220824170000 +0100" stop="20220824172900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Appnapan - Badalate Rishton Ka Bandhan</title>
     <desc lang="en">Appnapan explores what happens when parents get divorced and the different ways this affects children and the challenges they face.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/e850f322-cafb-556c-9cc5-4321ccaca0f4.jpg" />
     <episode-num system="onscreen">Season 1 Episode 40/</episode-num>
   </programme>
-  <programme start="20220824172900 +0100" stop="20220824185900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220824172900 +0100" stop="20220824185900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Kaun Banega Crorepati</title>
     <desc lang="en">Kaun Banega Crorepati - 2022 Amitabh Bachchan returns as the megastar host of the worlds' iconic quiz show and gives contestants the chance to take the 'Hot Seat' and win a life changing 70 million Rupees.(n)</desc>
     <category lang="en">Show</category>
@@ -1586,14 +1610,14 @@
     <icon src="https://images.tvguide.co.uk/pa/640/c81ae759-2ce4-5e5b-a104-ecb0e8292db1.jpg" />
     <episode-num system="onscreen">Season 2022 Episode 1/</episode-num>
   </programme>
-  <programme start="20220824185900 +0100" stop="20220824192900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220824185900 +0100" stop="20220824192900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Mere Sai - Shraddha Aur Saburi</title>
     <desc lang="en">This is the story of Shirdi Sai Baba. When Sai steps in, miracles happen. Follow his teachings of faith and patience in this devotional show.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/23455de6-2f28-5884-aa00-55f617df1e36.jpg" />
     <episode-num system="onscreen">Season 1 Episode 1195/</episode-num>
   </programme>
-  <programme start="20220824192900 +0100" stop="20220824195900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220824192900 +0100" stop="20220824195900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Punyashlok Ahilya Bai</title>
     <desc lang="en">The period drama set in the 18th century, based on the life of Ahilyabai Holkar, who with the support of her father-in-law Malhar Rao Holkar, defied the pre-defined norms of the patriarchal society.(n)</desc>
     <category lang="en">Historical</category>
@@ -1601,21 +1625,21 @@
     <icon src="https://images.tvguide.co.uk/pa/640/4bad63f2-5528-53ca-aadc-aa545eec6667.jpg" />
     <episode-num system="onscreen">Season 1 Episode 418/</episode-num>
   </programme>
-  <programme start="20220824195900 +0100" stop="20220824202900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220824195900 +0100" stop="20220824202900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Bade Achhe Lagte Hai - 2</title>
     <desc lang="en">Bade Acche Lagte Hai explores the world of 2 strangers who get married and eventually fall in love. Every time problems arise, their love, trust, and respect for each other grows stronger and deeper.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/d09ce826-0793-56e4-8ae3-f5517eeb7855.jpg" />
     <episode-num system="onscreen">Season 1 Episode 248/</episode-num>
   </programme>
-  <programme start="20220824202900 +0100" stop="20220824205900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220824202900 +0100" stop="20220824205900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Yashomati Maiyya Ke Nandlala</title>
     <desc lang="en">Many a story has been told about Krishna, but here's the story of Yashomati, her desire for a child, finding Krishna and the affectionate relationship between them.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/37b02d2f-99d6-526c-8c37-e16cf2d90486.jpg" />
     <episode-num system="onscreen">Season 1 Episode 46/</episode-num>
   </programme>
-  <programme start="20220824205900 +0100" stop="20220824222900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220824205900 +0100" stop="20220824222900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Kaun Banega Crorepati</title>
     <desc lang="en">Kaun Banega Crorepati - 2022 Amitabh Bachchan returns as the megastar host of the worlds' iconic quiz show and gives contestants the chance to take the 'Hot Seat' and win a life changing 70 million Rupees.(n)</desc>
     <category lang="en">Show</category>
@@ -1623,26 +1647,508 @@
     <icon src="https://images.tvguide.co.uk/pa/640/c81ae759-2ce4-5e5b-a104-ecb0e8292db1.jpg" />
     <episode-num system="onscreen">Season 2022 Episode 1/</episode-num>
   </programme>
-  <programme start="20220824222900 +0100" stop="20220824225900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220824222900 +0100" stop="20220824225900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Appnapan - Badalate Rishton Ka Bandhan</title>
     <desc lang="en">Appnapan explores what happens when parents get divorced and the different ways this affects children and the challenges they face.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/e850f322-cafb-556c-9cc5-4321ccaca0f4.jpg" />
     <episode-num system="onscreen">Season 1 Episode 41/</episode-num>
   </programme>
-  <programme start="20220824225900 +0100" stop="20220824235900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220824225900 +0100" stop="20220824235900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Crime Patrol 2.0</title>
     <desc lang="en">Crime Patrol 2.0, the popular award-winning show is back! Watch as the Indian police force solve more dark crimes and dangerous criminal activity. Stay alert and make sure you watch the new series.(n)</desc>
     <category lang="en">General</category>
     <icon src="https://images.tvguide.co.uk/pa/640/6161536f-f328-511d-9fe7-b98463e1e0e1.jpg" />
     <episode-num system="onscreen">Season 1 Episode 112/</episode-num>
   </programme>
-  <programme start="20220824235900 +0100" stop="20220825002900 +0100" channel="Sony Entertainment TV Asia">
+  <programme start="20220824235900 +0100" stop="20220825002900 +0100" channel="SonyEntertainmentTVAsia.c90">
     <title lang="en">Punyashlok Ahilya Bai</title>
     <desc lang="en">The period drama set in the 18th century, based on the life of Ahilyabai Holkar, who with the support of her father-in-law Malhar Rao Holkar, defied the pre-defined norms of the patriarchal society.(n)</desc>
     <category lang="en">Historical</category>
     <category lang="en">Period Drama</category>
     <icon src="https://images.tvguide.co.uk/pa/640/4bad63f2-5528-53ca-aadc-aa545eec6667.jpg" />
     <episode-num system="onscreen">Season 1 Episode 418/</episode-num>
+  </programme>
+  <programme start="20220819040000 +0000" stop="20220819090000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas Replay</title>
+    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220819090000 +0000" stop="20220819120000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas Replay</title>
+    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220819120000 +0000" stop="20220819140000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas Replay</title>
+    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220819140000 +0000" stop="20220819160000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas Replay</title>
+    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220819160000 +0000" stop="20220819170000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas Replay</title>
+    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220819170000 +0000" stop="20220819180000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas Replay</title>
+    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220819180000 +0000" stop="20220819190000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas Replay</title>
+    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220819190000 +0000" stop="20220819213000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas Replay</title>
+    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220819213000 +0000" stop="20220819232000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas Replay</title>
+    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220819232000 +0000" stop="20220819233000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas Replay</title>
+    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220819233000 +0000" stop="20220820020000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas Replay</title>
+    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220820020000 +0000" stop="20220820033000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas Replay</title>
+    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220820033000 +0000" stop="20220820061500 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas Replay</title>
+    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220820061500 +0000" stop="20220820074500 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas Replay</title>
+    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220820074500 +0000" stop="20220820083000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas Replay</title>
+    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220820083000 +0000" stop="20220820103000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas Replay</title>
+    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220820103000 +0000" stop="20220820123000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas Replay</title>
+    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220820123000 +0000" stop="20220820143000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas Replay</title>
+    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220820143000 +0000" stop="20220820160000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas Replay</title>
+    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220820160000 +0000" stop="20220820185000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas Replay</title>
+    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220820185000 +0000" stop="20220820200000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas Replay</title>
+    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220820200000 +0000" stop="20220820210000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas Replay</title>
+    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220820210000 +0000" stop="20220820220000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas Replay</title>
+    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220820220000 +0000" stop="20220820230000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas Replay</title>
+    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220820230000 +0000" stop="20220821033000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas Replay</title>
+    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220821033000 +0000" stop="20220821040000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas Replay</title>
+    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220821040000 +0000" stop="20220821050000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas Replay</title>
+    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220821050000 +0000" stop="20220821070000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas Replay</title>
+    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220821070000 +0000" stop="20220821093000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas Replay</title>
+    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220821093000 +0000" stop="20220821140000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas Replay</title>
+    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220821140000 +0000" stop="20220821150000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas Replay</title>
+    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220821150000 +0000" stop="20220821160000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas Replay</title>
+    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220821160000 +0000" stop="20220821170000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas Replay</title>
+    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220821170000 +0000" stop="20220821180000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas Replay</title>
+    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220821180000 +0000" stop="20220821190000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas Replay</title>
+    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220821190000 +0000" stop="20220821200000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas Replay</title>
+    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220821200000 +0000" stop="20220821203000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas Replay</title>
+    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220821203000 +0000" stop="20220821234000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas Replay</title>
+    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220821234000 +0000" stop="20220822024500 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas Replay</title>
+    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220822024500 +0000" stop="20220822071500 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas Replay</title>
+    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220822071500 +0000" stop="20220822090000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas Replay</title>
+    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220822090000 +0000" stop="20220822110000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas Replay</title>
+    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220822110000 +0000" stop="20220822120000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Leaders' Questions Replay</title>
+    <desc lang="en">Where Party Leaders and the Leaders of recognised technical groups can put a question to An Taoiseach without notice.(n)</desc>
+    <category lang="en">Special</category>
+    <icon src="https://tv.assets.pressassociation.io/c9fdd1d1-1bb5-587b-a14d-e76f3ba4ae28.jpg" />
+  </programme>
+  <programme start="20220822120000 +0000" stop="20220822130000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Leaders' Questions Replay</title>
+    <desc lang="en">Where Party Leaders and the Leaders of recognised technical groups can put a question to An Taoiseach without notice.(n)</desc>
+    <category lang="en">Special</category>
+    <icon src="https://tv.assets.pressassociation.io/c9fdd1d1-1bb5-587b-a14d-e76f3ba4ae28.jpg" />
+  </programme>
+  <programme start="20220822130000 +0000" stop="20220822140000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Leaders' Questions Replay</title>
+    <desc lang="en">Where Party Leaders and the Leaders of recognised technical groups can put a question to An Taoiseach without notice.(n)</desc>
+    <category lang="en">Special</category>
+    <icon src="https://tv.assets.pressassociation.io/c9fdd1d1-1bb5-587b-a14d-e76f3ba4ae28.jpg" />
+  </programme>
+  <programme start="20220822140000 +0000" stop="20220822160000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Private Members' Business</title>
+    <desc lang="en">Private Members Business is time set aside to debate a motion or legislation which is proposed by a party in opposition.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220822160000 +0000" stop="20220822180000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Private Members' Business</title>
+    <desc lang="en">Private Members Business is time set aside to debate a motion or legislation which is proposed by a party in opposition.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220822180000 +0000" stop="20220822200000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Private Members' Business</title>
+    <desc lang="en">Private Members Business is time set aside to debate a motion or legislation which is proposed by a party in opposition.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220822200000 +0000" stop="20220822203000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Oireachtas TV Studio Debates</title>
+    <desc lang="en">With Flor MacCarthy and guests.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220822203000 +0000" stop="20220822210000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Colmcille: The Man and the Legacy</title>
+    <desc lang="en">A presentation by Dr Brian Lacey, archaeologist and historian.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20220822210000 +0000" stop="20220822233000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Dáil Éireann Replay</title>
+    <sub-title lang="en">Priority Questions</sub-title>
+    <desc lang="en">Questions asked of Ministers in the Dáil.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20220822233000 +0000" stop="20220823013500 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas Replay</title>
+    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220823013500 +0000" stop="20220823055500 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas Replay</title>
+    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220823055500 +0000" stop="20220823083000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas Replay</title>
+    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220823083000 +0000" stop="20220823100000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas Replay</title>
+    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220823100000 +0000" stop="20220823130000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas Committees</title>
+    <sub-title lang="en">Committees Live</sub-title>
+    <desc lang="en">Members can examine key legislation and policy areas under the remit of the Department and its agencies.(n)</desc>
+    <category lang="en">Social</category>
+    <category lang="en">Political Issues</category>
+  </programme>
+  <programme start="20220823130000 +0000" stop="20220823133500 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Leaders Questions Live</title>
+    <desc lang="en">When Party Leaders and Leaders of recognised technical groups can put a question to An Taoiseach without prior notice.(n)</desc>
+    <category lang="en">Special</category>
+    <icon src="https://tv.assets.pressassociation.io/bdebbdaf-7025-5c41-89c9-73a9a0a9bc1e.jpg" />
+  </programme>
+  <programme start="20220823133500 +0000" stop="20220823140500 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas</title>
+    <sub-title lang="en">Order of Business Live</sub-title>
+    <desc lang="en">Where the business to be transacted in the Dáil for the coming week is introduced and to agreed by the House.(n)</desc>
+    <category lang="en">Social</category>
+    <category lang="en">Political Issues</category>
+  </programme>
+  <programme start="20220823140500 +0000" stop="20220823145000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Questions to An Taoiseach</title>
+    <sub-title lang="en">Questions to An Taoiseach Live</sub-title>
+    <desc lang="en">Where the Taoiseach, as Head of a Government Department, answers questions on those areas for which he has administrative responsibility.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://tv.assets.pressassociation.io/5be73136-2489-5c20-968c-5ae92dd3c4af.jpg" />
+  </programme>
+  <programme start="20220823145000 +0000" stop="20220823171500 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas</title>
+    <sub-title lang="en">Government Business Live</sub-title>
+    <desc lang="en">Legislation, Motions or Statements proposed by the Government.(n)</desc>
+    <category lang="en">Social</category>
+    <category lang="en">Political Issues</category>
+  </programme>
+  <programme start="20220823171500 +0000" stop="20220823191500 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Private Members' Business</title>
+    <sub-title lang="en">Private Members' Business Live</sub-title>
+    <desc lang="en">Private Members Business is time set aside to debate a motion or legislation which is proposed by a party in opposition.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20220823191500 +0000" stop="20220823204500 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Parliamentary Questions</title>
+    <sub-title lang="en">Parliamentary Questions Live</sub-title>
+    <category lang="en">Social</category>
+    <category lang="en">Political Issues</category>
+  </programme>
+  <programme start="20220823204500 +0000" stop="20220823220000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Live Topical Issues</title>
+    <desc lang="en">When Deputies who have raised a matter which is topical either nationally or within their constituency are answered by a Member of the Government.(n)</desc>
+    <category lang="en">Social</category>
+    <category lang="en">Political Issues</category>
+    <icon src="https://tv.assets.pressassociation.io/284c4bb6-afe3-5683-8bce-6997de5f97e0.jpg" />
+  </programme>
+  <programme start="20220823220000 +0000" stop="20220823224500 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Leaders' Questions Replay</title>
+    <desc lang="en">Where Party Leaders and the Leaders of recognised technical groups can put a question to An Taoiseach without notice.(n)</desc>
+    <category lang="en">Special</category>
+    <icon src="https://tv.assets.pressassociation.io/c9fdd1d1-1bb5-587b-a14d-e76f3ba4ae28.jpg" />
+  </programme>
+  <programme start="20220823224500 +0000" stop="20220824040000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Seanad Éireann Replay</title>
+    <desc lang="en">Replay of current Seanad Éireann sittings.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220824040000 +0000" stop="20220824081000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas Replay</title>
+    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220824081000 +0000" stop="20220824090000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Live Topical Issues</title>
+    <desc lang="en">When Deputies who have raised a matter which is topical either nationally or within their constituency are answered by a Member of the Government.(n)</desc>
+    <category lang="en">Social</category>
+    <category lang="en">Political Issues</category>
+    <icon src="https://tv.assets.pressassociation.io/284c4bb6-afe3-5683-8bce-6997de5f97e0.jpg" />
+  </programme>
+  <programme start="20220824090000 +0000" stop="20220824110000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Private Members' Business</title>
+    <sub-title lang="en">Private Members' Business Live</sub-title>
+    <desc lang="en">Private Members Business is time set aside to debate a motion or legislation which is proposed by a party in opposition.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20220824110000 +0000" stop="20220824113500 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Leaders Questions Live</title>
+    <desc lang="en">When Party Leaders and Leaders of recognised technical groups can put a question to An Taoiseach without prior notice.(n)</desc>
+    <category lang="en">Special</category>
+    <icon src="https://tv.assets.pressassociation.io/bdebbdaf-7025-5c41-89c9-73a9a0a9bc1e.jpg" />
+  </programme>
+  <programme start="20220824113500 +0000" stop="20220824120500 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Questions on Promised Legislation Live</title>
+    <desc lang="en">Questions on Promised Legislation are limited to its progress and when the legislation is likely to be brought before the House for debate.(n)</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+  </programme>
+  <programme start="20220824120500 +0000" stop="20220824125000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Questions to An Taoiseach</title>
+    <sub-title lang="en">Questions to An Taoiseach Live</sub-title>
+    <desc lang="en">Where the Taoiseach, as Head of a Government Department, answers questions on those areas for which he has administrative responsibility.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://tv.assets.pressassociation.io/5be73136-2489-5c20-968c-5ae92dd3c4af.jpg" />
+  </programme>
+  <programme start="20220824125000 +0000" stop="20220824135000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Seanad Eireann Live</title>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+  </programme>
+  <programme start="20220824135000 +0000" stop="20220824194500 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas</title>
+    <sub-title lang="en">Government Business Live</sub-title>
+    <desc lang="en">Legislation, Motions or Statements proposed by the Government.(n)</desc>
+    <category lang="en">Social</category>
+    <category lang="en">Political Issues</category>
+  </programme>
+  <programme start="20220824194500 +0000" stop="20220824204500 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Live Dáil Matters for Decision</title>
+    <desc lang="en">A period set aside for the taking of votes on motions that have been previously debated.(n)</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <icon src="https://tv.assets.pressassociation.io/0849deae-8fde-57a2-bd6b-dd5295cf8278.jpg" />
+  </programme>
+  <programme start="20220824204500 +0000" stop="20220824213000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Leaders' Questions Replay</title>
+    <desc lang="en">Where Party Leaders and the Leaders of recognised technical groups can put a question to An Taoiseach without notice.(n)</desc>
+    <category lang="en">Special</category>
+    <icon src="https://tv.assets.pressassociation.io/c9fdd1d1-1bb5-587b-a14d-e76f3ba4ae28.jpg" />
+  </programme>
+  <programme start="20220824213000 +0000" stop="20220825040000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Seanad Éireann Replay</title>
+    <desc lang="en">Replay of current Seanad Éireann sittings.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220825040000 +0000" stop="20220825080000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas Replay</title>
+    <desc lang="en">Replay of selected content from the Houses of the Oireachtas.(n)</desc>
+    <category lang="en">Special</category>
+  </programme>
+  <programme start="20220825080000 +0000" stop="20220825093000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Parliamentary Questions</title>
+    <sub-title lang="en">Parliamentary Questions Live</sub-title>
+    <category lang="en">Social</category>
+    <category lang="en">Political Issues</category>
+  </programme>
+  <programme start="20220825093000 +0000" stop="20220825110000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Parliamentary Questions</title>
+    <sub-title lang="en">Parliamentary Questions Live</sub-title>
+    <category lang="en">Social</category>
+    <category lang="en">Political Issues</category>
+  </programme>
+  <programme start="20220825110000 +0000" stop="20220825113500 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Leaders Questions Live</title>
+    <desc lang="en">When Party Leaders and Leaders of recognised technical groups can put a question to An Taoiseach without prior notice.(n)</desc>
+    <category lang="en">Special</category>
+    <icon src="https://tv.assets.pressassociation.io/bdebbdaf-7025-5c41-89c9-73a9a0a9bc1e.jpg" />
+  </programme>
+  <programme start="20220825113500 +0000" stop="20220825120500 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Questions on Promised Legislation Live</title>
+    <desc lang="en">Questions on Promised Legislation are limited to its progress and when the legislation is likely to be brought before the House for debate.(n)</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+  </programme>
+  <programme start="20220825120500 +0000" stop="20220825124500 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Seanad Eireann Live</title>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+  </programme>
+  <programme start="20220825124500 +0000" stop="20220825182500 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Houses of the Oireachtas</title>
+    <sub-title lang="en">Government Business Live</sub-title>
+    <desc lang="en">Legislation, Motions or Statements proposed by the Government.(n)</desc>
+    <category lang="en">Social</category>
+    <category lang="en">Political Issues</category>
+  </programme>
+  <programme start="20220825182500 +0000" stop="20220825191000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Live Topical Issues</title>
+    <desc lang="en">When Deputies who have raised a matter which is topical either nationally or within their constituency are answered by a Member of the Government.(n)</desc>
+    <category lang="en">Social</category>
+    <category lang="en">Political Issues</category>
+    <icon src="https://tv.assets.pressassociation.io/284c4bb6-afe3-5683-8bce-6997de5f97e0.jpg" />
+  </programme>
+  <programme start="20220825191000 +0000" stop="20220825204500 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Private Members' Business</title>
+    <sub-title lang="en">Private Members' Business Live</sub-title>
+    <desc lang="en">Private Members Business is time set aside to debate a motion or legislation which is proposed by a party in opposition.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+  </programme>
+  <programme start="20220825204500 +0000" stop="20220825213000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Leaders' Questions Replay</title>
+    <desc lang="en">Where Party Leaders and the Leaders of recognised technical groups can put a question to An Taoiseach without notice.(n)</desc>
+    <category lang="en">Special</category>
+    <icon src="https://tv.assets.pressassociation.io/c9fdd1d1-1bb5-587b-a14d-e76f3ba4ae28.jpg" />
+  </programme>
+  <programme start="20220825213000 +0000" stop="20220826040000 +0000" channel="OireachtasTV.c90">
+    <title lang="en">Seanad Éireann Replay</title>
+    <desc lang="en">Replay of current Seanad Éireann sittings.(n)</desc>
+    <category lang="en">Special</category>
   </programme>
 </tv>
